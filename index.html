@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>הריפוזיטוריז של יניב</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div>
+    <p class="eyebrow">GitHub Repo Index</p>
+    <h1>הריפוזיטוריז של יניב</h1>
+    <p>רשימה חכמה, אמינה ומתעדכנת של הריפוזיטוריז שלך.</p>
+  </div>
+  <aside class="card">
+    <b id="count">טוען...</b>
+    <span id="updated"></span>
+  </aside>
+</header>
+<main>
+  <section class="controls">
+    <input id="q" placeholder="חיפוש לפי שם, הסבר, שפה או הערות">
+    <select id="sort">
+      <option value="visit">כניסה אחרונה ואז עדכון</option>
+      <option value="pushed">עדכון אחרון</option>
+      <option value="name">שם</option>
+    </select>
+  </section>
+  <section id="privacy" class="notice" hidden></section>
+  <section class="tableWrap">
+    <table>
+      <thead><tr><th>ריפו</th><th>הסבר בעברית</th><th>מה קיים בו</th><th>הערות</th><th>עדכון / כניסה</th><th>פעולות</th></tr></thead>
+      <tbody id="rows"><tr><td colspan="6">טוען...</td></tr></tbody>
+    </table>
+  </section>
+</main>
+<footer>המידע נבנה ממקורות GitHub וקבצי אמת בלבד.</footer>
+<script src="app.js"></script>
+</body>
+</html>
