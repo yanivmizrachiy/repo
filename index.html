@@ -3,15 +3,15 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>הריפוזיטוריז של יניב</title>
+  <title>מרכז הריפואים של יניב</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <header class="top">
   <div>
     <p class="eyebrow">GitHub Repo Index</p>
-    <h1>הריפוזיטוריז של יניב</h1>
-    <p>רשימה חכמה, אמינה ומתעדכנת של הריפוזיטוריז שלך.</p>
+    <h1>מרכז הריפואים של יניב</h1>
+    <p>אתר עברי שמציג ריפוזיטוריז ציבוריים עם הסבר קצר, קטגוריה, סטטוס, אחוז מוכנות וקישור ישיר לכל ריפו.</p>
   </div>
   <aside class="card">
     <b id="count">טוען...</b>
@@ -19,9 +19,11 @@
   </aside>
 </header>
 <main>
+  <section id="stats" class="stats" aria-label="סטטיסטיקות ריפואים"></section>
   <section class="controls">
-    <input id="q" placeholder="חיפוש לפי שם, הסבר, שפה או הערות">
+    <input id="q" placeholder="חיפוש לפי שם, קטגוריה, הסבר, סטטוס או הערות">
     <select id="sort">
+      <option value="ready">אחוז מוכנות</option>
       <option value="visit">כניסה אחרונה ואז עדכון</option>
       <option value="pushed">עדכון אחרון</option>
       <option value="name">שם</option>
@@ -30,12 +32,21 @@
   <section id="privacy" class="notice" hidden></section>
   <section class="tableWrap">
     <table>
-      <thead><tr><th>ריפו</th><th>הסבר בעברית</th><th>מה קיים בו</th><th>הערות</th><th>עדכון / כניסה</th><th>פעולות</th></tr></thead>
+      <thead>
+        <tr>
+          <th>ריפו</th>
+          <th>הסבר בעברית</th>
+          <th>סטטוס</th>
+          <th>מוכנות</th>
+          <th>הערות</th>
+          <th>פעולות</th>
+        </tr>
+      </thead>
       <tbody id="rows"><tr><td colspan="6">טוען...</td></tr></tbody>
     </table>
   </section>
 </main>
-<footer>המידע נבנה ממקורות GitHub וקבצי אמת בלבד.</footer>
+<footer>המידע נטען מקובץ הנתונים של הריפו ומתעדכן דרך GitHub.</footer>
 <script src="app.js"></script>
 </body>
 </html>
