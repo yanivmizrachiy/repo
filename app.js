@@ -15,6 +15,11 @@ function safe(value) {
   }[ch]));
 }
 
+function repoNumber(repo, fallbackIndex) {
+  const n = Number(repo.number ?? repo.index ?? fallbackIndex + 1);
+  return Number.isFinite(n) && n > 0 ? n : fallbackIndex + 1;
+}
+
 function lastVisit(name) {
   return visits[name]?.last_opened_at || '';
 }
@@ -63,8 +68,8 @@ function renderStats(rows) {
 function render() {
   const query = $('q').value.toLowerCase().trim();
   const sortMode = $('sort').value;
-  let rows = repos.filter((repo) => [
-    repo.name, repo.category_he, repo.summary_he, repo.exists_he, repo.notes_he, repo.status_he
+  let rows = repos.filter((repo, index) => [
+    repoNumber(repo, index), repo.name, repo.category_he, repo.summary_he, repo.exists_he, repo.notes_he, repo.status_he
   ].join(' ').toLowerCase().includes(query));
 
   rows.sort((a, b) => {
@@ -77,8 +82,9 @@ function render() {
 
   renderStats(rows);
 
-  $('rows').innerHTML = rows.map((repo) => `
+  $('rows').innerHTML = rows.map((repo, index) => `
     <tr>
+      <td class="repoNum">${repoNumber(repo, repos.findIndex((item) => item.name === repo.name) >= 0 ? repos.findIndex((item) => item.name === repo.name) : index)}</td>
       <td>
         <div class="repo">${safe(repo.name)}</div>
         <div class="muted">${safe(repo.category_he || 'לא מסווג')}</div>
@@ -95,7 +101,7 @@ function render() {
       <td>${safe(repo.notes_he || '')}<br><span class="muted"><b>נפתח כאן:</b> ${fmtDate(lastVisit(repo.name))}</span></td>
       <td><button type="button" data-repo="${safe(repo.name)}">פתח ריפו</button></td>
     </tr>
-  `).join('') || '<tr><td colspan="6">אין תוצאות</td></tr>';
+  `).join('') || '<tr><td colspan="7">אין תוצאות</td></tr>';
 
   document.querySelectorAll('button[data-repo]').forEach((button) => {
     button.addEventListener('click', () => openRepo(button.dataset.repo));
@@ -106,7 +112,7 @@ fetch('data/index.json?x=' + Date.now())
   .then((response) => response.json())
   .then((data) => {
     meta = data || {};
-    repos = data.repositories || [];
+    repos = (data.repositories || []).map((repo, index) => ({ ...repo, number: repo.number ?? index + 1 }));
     $('count').textContent = repos.length + ' ריפוזיטוריז באתר';
     $('updated').textContent = data.generated_at ? 'עודכן: ' + fmtDate(data.generated_at) : 'עדיין לא עודכן';
     if (data.notice_he) {
@@ -119,7 +125,7 @@ fetch('data/index.json?x=' + Date.now())
     render();
   })
   .catch(() => {
-    $('rows').innerHTML = '<tr><td colspan="6">שגיאה בטעינת הנתונים.</td></tr>';
+    $('rows').innerHTML = '<tr><td colspan="7">שגיאה בטעינת הנתונים.</td></tr>';
   });
 
 $('q').addEventListener('input', render);
