@@ -11,7 +11,7 @@
   <div>
     <p class="eyebrow">GitHub Repo Index</p>
     <h1>מרכז הריפואים של יניב</h1>
-    <p>אתר עברי שמציג ריפוזיטוריז ציבוריים עם הסבר קצר, קטגוריה, סטטוס, אחוז מוכנות וקישור ישיר לכל ריפו.</p>
+    <p>אתר עברי שמציג ריפוזיטוריז ציבוריים עם מספר קבוע, הסבר קצר, קטגוריה, סטטוס, אחוז מוכנות וקישור ישיר לכל ריפו.</p>
   </div>
   <aside class="card">
     <b id="count">טוען...</b>
@@ -21,7 +21,7 @@
 <main>
   <section id="stats" class="stats" aria-label="סטטיסטיקות ריפואים"></section>
   <section class="controls">
-    <input id="q" placeholder="חיפוש לפי שם, קטגוריה, הסבר, סטטוס או הערות">
+    <input id="q" placeholder="חיפוש לפי מספר, שם, קטגוריה, הסבר, סטטוס או הערות">
     <select id="sort">
       <option value="ready">אחוז מוכנות</option>
       <option value="visit">כניסה אחרונה ואז עדכון</option>
@@ -34,6 +34,7 @@
     <table>
       <thead>
         <tr>
+          <th>מס׳</th>
           <th>ריפו</th>
           <th>הסבר בעברית</th>
           <th>סטטוס</th>
@@ -42,11 +43,11 @@
           <th>פעולות</th>
         </tr>
       </thead>
-      <tbody id="rows"><tr><td colspan="6">טוען...</td></tr></tbody>
+      <tbody id="rows"><tr><td colspan="7">טוען...</td></tr></tbody>
     </table>
   </section>
 </main>
-<footer>המידע נטען מקובץ הנתונים של הריפו ומתעדכן דרך GitHub.</footer>
+<footer>המידע נטען מקובץ הנתונים של הריפו ומתעדכן דרך GitHub Actions.</footer>
 <script src="app.js"></script>
 </body>
 </html>
