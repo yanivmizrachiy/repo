@@ -11,7 +11,7 @@
   <div>
     <p class="eyebrow">GitHub Repo Index</p>
     <h1>מרכז הריפואים של יניב</h1>
-    <p>אתר עברי שמציג ריפוזיטוריז ציבוריים עם מספר קבוע, הסבר קצר, קטגוריה, סטטוס, אחוז מוכנות וקישור ישיר לכל ריפו.</p>
+    <p>אתר עברי אישי לחשבון GitHub: כל ריפו ממוספר, מוסבר בעברית, מוצג עם סטטוס, קישורים וכפתורי פעולה אמיתיים עם הסבר ברור.</p>
   </div>
   <aside class="card">
     <b id="count">טוען...</b>
@@ -20,8 +20,23 @@
 </header>
 <main>
   <section id="stats" class="stats" aria-label="סטטיסטיקות ריפואים"></section>
+
+  <section class="commandCenter" aria-label="פעולות ראשיות על אתר הריפואים">
+    <div>
+      <h2>פעולות ראשיות</h2>
+      <p>כפתורים אמיתיים ובטוחים: חלקם פותחים דפים חיים ב־GitHub, וחלקם מעתיקים פקודות PowerShell/gh להרצה אצלך במחשב.</p>
+    </div>
+    <div class="globalActions">
+      <div class="actionItem"><button type="button" data-global-action="open-site">פתח אתר</button><small>פותח את אתר הריפואים הציבורי שלך ב־GitHub Pages.</small></div>
+      <div class="actionItem"><button type="button" data-global-action="open-repo">פתח ריפו ניהול</button><small>פותח את הריפו שמנהל את האתר ואת קובצי הנתונים.</small></div>
+      <div class="actionItem"><button type="button" data-global-action="open-update-workflow">פתח עדכון אינדקס</button><small>פותח את מסך GitHub Actions של עדכון רשימת הריפואים.</small></div>
+      <div class="actionItem"><button type="button" data-global-action="copy-refresh-command">העתק פקודת רענון</button><small>מעתיק פקודת PowerShell שמריצה עדכון אינדקס וצופה בתוצאה.</small></div>
+    </div>
+    <div id="copyStatus" class="copyStatus" role="status" aria-live="polite"></div>
+  </section>
+
   <section class="controls">
-    <input id="q" placeholder="חיפוש לפי מספר, שם, קטגוריה, הסבר, סטטוס או הערות">
+    <input id="q" placeholder="חיפוש לפי מספר, שם, קטגוריה, הסבר, סטטוס, פעולה או הערות">
     <select id="sort">
       <option value="ready">אחוז מוכנות</option>
       <option value="visit">כניסה אחרונה ואז עדכון</option>
@@ -40,14 +55,14 @@
           <th>סטטוס</th>
           <th>מוכנות</th>
           <th>הערות</th>
-          <th>פעולות</th>
+          <th>פעולות אמיתיות בעברית</th>
         </tr>
       </thead>
       <tbody id="rows"><tr><td colspan="7">טוען...</td></tr></tbody>
     </table>
   </section>
 </main>
-<footer>המידע נטען מקובץ הנתונים של הריפו ומתעדכן דרך GitHub Actions.</footer>
+<footer>המידע נטען מקובץ הנתונים של הריפו ומתעדכן דרך GitHub Actions. אין באתר Token סודי; פעולות כתיבה מסוכנות נעשות רק דרך GitHub/gh/Actions מאובטחים.</footer>
 <script src="app.js"></script>
 </body>
 </html>
