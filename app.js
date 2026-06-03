@@ -1,5 +1,6 @@
 const $ = (id) => document.getElementById(id);
 const visits = JSON.parse(localStorage.getItem('repoVisits') || '{}');
+const owner = 'yanivmizrachiy';
 let repos = [];
 let meta = {};
 
@@ -20,6 +21,10 @@ function repoNumber(repo, fallbackIndex) {
   return Number.isFinite(n) && n > 0 ? n : fallbackIndex + 1;
 }
 
+function repoSiteUrl(repo) {
+  return repo.site_url || `https://${owner}.github.io/${encodeURIComponent(repo.name)}/`;
+}
+
 function lastVisit(name) {
   return visits[name]?.last_opened_at || '';
 }
@@ -36,15 +41,6 @@ function statusClass(value) {
   if (text.includes('ארכיון') || text.includes('ריק')) return 'low';
   if (text.includes('חלקי')) return 'mid';
   return 'good';
-}
-
-function openRepo(name) {
-  const repo = repos.find((item) => item.name === name);
-  if (!repo) return;
-  visits[repo.name] = { last_opened_at: new Date().toISOString() };
-  localStorage.setItem('repoVisits', JSON.stringify(visits, null, 2));
-  window.open(repo.url, '_blank', 'noopener');
-  render();
 }
 
 function renderStats(rows) {
@@ -65,11 +61,31 @@ function renderStats(rows) {
   `;
 }
 
+function actionLink(url, label, explanation) {
+  return `<div class="actionItem"><a class="actionButton" href="${safe(url)}" target="_blank" rel="noopener">${safe(label)}</a><small>${safe(explanation)}</small></div>`;
+}
+
+function renderActions(repo) {
+  const base = `https://github.com/${owner}/${encodeURIComponent(repo.name)}`;
+  const branch = encodeURIComponent(repo.default_branch || 'main');
+  return `
+    <div class="actionsGrid">
+      ${actionLink(repo.url, 'פתח ריפו', 'פותח את עמוד הריפו האמיתי ב־GitHub.')}
+      ${actionLink(repoSiteUrl(repo), 'פתח אתר חיצוני', 'פותח את כתובת האתר החיצוני המשוערת של הריפו.')}
+      ${actionLink(`${base}/blob/${branch}/README.md`, 'פתח README', 'פותח את דף ההסבר הראשי של הריפו, אם הוא קיים.')}
+      ${actionLink(`${base}/blob/${branch}/RULES.md`, 'פתח כללים', 'פותח את דף הכללים של הריפו, אם הוא קיים.')}
+      ${actionLink(`${base}/tree/${branch}/docs`, 'פתח מסמכים', 'פותח את תיקיית המסמכים של הריפו, אם היא קיימת.')}
+      ${actionLink(`${base}/tree/${branch}/STATE`, 'פתח מצב', 'פותח את תיקיית מצב הפרויקט, אם היא קיימת.')}
+    </div>
+  `;
+}
+
 function render() {
   const query = $('q').value.toLowerCase().trim();
   const sortMode = $('sort').value;
   let rows = repos.filter((repo, index) => [
-    repoNumber(repo, index), repo.name, repo.category_he, repo.summary_he, repo.exists_he, repo.notes_he, repo.status_he
+    repoNumber(repo, index), repo.name, repo.category_he, repo.summary_he, repo.exists_he, repo.notes_he, repo.status_he,
+    'פתח ריפו פתח אתר README כללים מסמכים מצב'
   ].join(' ').toLowerCase().includes(query));
 
   rows.sort((a, b) => {
@@ -88,6 +104,7 @@ function render() {
       <td>
         <div class="repo">${safe(repo.name)}</div>
         <div class="muted">${safe(repo.category_he || 'לא מסווג')}</div>
+        <div class="muted"><b>עודכן:</b> ${fmtDate(repo.pushed_at || repo.updated_at)}</div>
       </td>
       <td>
         <strong>${safe(repo.summary_he || 'אין עדיין תיאור עברי מאומת.')}</strong>
@@ -99,13 +116,9 @@ function render() {
         <b>${Number(repo.readiness_percent || 0)}%</b>
       </td>
       <td>${safe(repo.notes_he || '')}<br><span class="muted"><b>נפתח כאן:</b> ${fmtDate(lastVisit(repo.name))}</span></td>
-      <td><button type="button" data-repo="${safe(repo.name)}">פתח ריפו</button></td>
+      <td>${renderActions(repo)}</td>
     </tr>
   `).join('') || '<tr><td colspan="7">אין תוצאות</td></tr>';
-
-  document.querySelectorAll('button[data-repo]').forEach((button) => {
-    button.addEventListener('click', () => openRepo(button.dataset.repo));
-  });
 }
 
 fetch('data/index.json?x=' + Date.now())
