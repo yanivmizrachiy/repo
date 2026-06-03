@@ -21,36 +21,141 @@ jobs:
       - name: Build public repo index
         env:
           OWNER: yanivmizrachiy
-          TOKEN: ${{ secrets.REPO_INDEX_TOKEN }}
+          REPO_INDEX_TOKEN: ${{ secrets.REPO_INDEX_TOKEN }}
         run: |
           node <<'NODE'
           const fs = require('fs');
           const owner = process.env.OWNER;
-          const token = process.env.TOKEN || process.env.GITHUB_TOKEN;
-          const headers = {Accept:'application/vnd.github+json','X-GitHub-Api-Version':'2022-11-28','User-Agent':'repo-index'};
-          if (token) headers.Authorization = `Bearer ${token}`;
-          async function api(url){const r=await fetch(url,{headers}); if(!r.ok) throw new Error(await r.text()); return r.json();}
-          async function exists(repo,p){const ref=repo.default_branch||'main'; const enc=p.split('/').map(encodeURIComponent).join('/'); const r=await fetch(`https://api.github.com/repos/${repo.full_name}/contents/${enc}?ref=${ref}`,{headers}); return r.status===200;}
-          (async()=>{
-            let all=[];
-            for(let page=1;;page++){
-              const batch=await api(`https://api.github.com/user/repos?affiliation=owner&per_page=100&page=${page}&sort=pushed&direction=desc`);
-              all.push(...batch.filter(r=>r.owner.login===owner));
-              if(batch.length<100) break;
+          const repoIndexToken = process.env.REPO_INDEX_TOKEN || '';
+          const headers = {
+            Accept: 'application/vnd.github+json',
+            'X-GitHub-Api-Version': '2022-11-28',
+            'User-Agent': 'yaniv-repo-index'
+          };
+          if (repoIndexToken) headers.Authorization = `Bearer ${repoIndexToken}`;
+
+          async function api(url) {
+            const response = await fetch(url, { headers });
+            if (!response.ok) throw new Error(`${response.status} ${response.statusText}: ${await response.text()}`);
+            return response.json();
+          }
+
+          async function exists(repo, path) {
+            const ref = repo.default_branch || 'main';
+            const enc = path.split('/').map(encodeURIComponent).join('/');
+            const response = await fetch(`https://api.github.com/repos/${repo.full_name}/contents/${enc}?ref=${ref}`, { headers });
+            return response.status === 200;
+          }
+
+          function readPreviousIndex() {
+            try {
+              return JSON.parse(fs.readFileSync('data/index.json', 'utf8'));
+            } catch {
+              return { repositories: [] };
             }
-            const publicRepos=all.filter(r=>!r.private);
-            const privateHidden=all.length-publicRepos.length;
-            const repos=[];
-            for(const r of publicRepos){
-              const flags=[];
-              for(const p of ['README.md','PROJECT_RULES.md','RULES.md','docs','STATE','.github/workflows','package.json']) if(await exists(r,p)) flags.push(p);
-              repos.push({name:r.name,url:r.html_url,language:r.language||'',pushed_at:r.pushed_at,summary_he:'אין עדיין תיאור עברי מאומת.',exists_he:flags.join(', ')||'לא זוהו רכיבים מרכזיים.',notes_he:''});
+          }
+
+          function byName(previous) {
+            const map = new Map();
+            for (const repo of previous.repositories || []) map.set(repo.name, repo);
+            return map;
+          }
+
+          function deriveStatus(repo, flags, previous) {
+            if (repo.archived) return 'ארכיון';
+            if (previous?.status_he) return previous.status_he;
+            if (flags.length >= 3) return 'פעיל';
+            if (flags.length >= 1) return 'חלקי';
+            return 'כמעט ריק';
+          }
+
+          function deriveReadiness(repo, flags, previous) {
+            if (typeof previous?.readiness_percent === 'number') return previous.readiness_percent;
+            if (repo.archived) return 30;
+            if (flags.length >= 5) return 75;
+            if (flags.length >= 3) return 60;
+            if (flags.length >= 1) return 40;
+            return 10;
+          }
+
+          (async () => {
+            const previousIndex = readPreviousIndex();
+            const previousByName = byName(previousIndex);
+            const all = [];
+            const usePrivateToken = Boolean(repoIndexToken);
+
+            for (let page = 1; ; page++) {
+              const url = usePrivateToken
+                ? `https://api.github.com/user/repos?affiliation=owner&per_page=100&page=${page}&sort=pushed&direction=desc`
+                : `https://api.github.com/users/${owner}/repos?per_page=100&page=${page}&sort=pushed&direction=desc`;
+              const batch = await api(url);
+              const owned = batch.filter((repo) => repo.owner?.login === owner);
+              all.push(...owned);
+              if (batch.length < 100) break;
             }
-            fs.mkdirSync('data',{recursive:true});
-            fs.writeFileSync('data/index.json',JSON.stringify({generated_at:new Date().toISOString(),private_hidden:privateHidden,repositories:repos},null,2));
-            fs.mkdirSync('STATE',{recursive:true});
-            fs.writeFileSync('STATE/LAST_RUN.json',JSON.stringify({ok:true,generated_at:new Date().toISOString(),visible:repos.length,private_hidden:privateHidden},null,2));
-          })().catch(e=>{console.error(e);process.exit(1)});
+
+            const publicRepos = all.filter((repo) => !repo.private);
+            const privateHidden = usePrivateToken ? all.length - publicRepos.length : (previousIndex.private_hidden || 0);
+            const repos = [];
+
+            for (let i = 0; i < publicRepos.length; i++) {
+              const r = publicRepos[i];
+              const prev = previousByName.get(r.name) || {};
+              const flags = [];
+              for (const path of ['README.md', 'PROJECT_RULES.md', 'RULES.md', 'docs', 'STATE', '.github/workflows', 'package.json']) {
+                if (await exists(r, path)) flags.push(path);
+              }
+              repos.push({
+                number: i + 1,
+                name: r.name,
+                url: r.html_url,
+                category_he: prev.category_he || 'חדש / לא מסווג',
+                summary_he: prev.summary_he || (r.description ? r.description : 'אין עדיין תיאור עברי מאומת.'),
+                exists_he: flags.join(', ') || 'לא זוהו רכיבים מרכזיים.',
+                status_he: deriveStatus(r, flags, prev),
+                readiness_percent: deriveReadiness(r, flags, prev),
+                notes_he: prev.notes_he || '',
+                language: r.language || '',
+                pushed_at: r.pushed_at || '',
+                updated_at: r.updated_at || '',
+                default_branch: r.default_branch || 'main',
+                archived: Boolean(r.archived)
+              });
+            }
+
+            fs.mkdirSync('data', { recursive: true });
+            const generatedAt = new Date().toISOString();
+            const output = {
+              generated_at: generatedAt,
+              generated_by: usePrivateToken ? 'github-actions-auto-repo-index-sync-with-secret' : 'github-actions-auto-public-repo-index-sync',
+              owner,
+              site_url: 'https://yanivmizrachiy.github.io/repo/',
+              repo_url: 'https://github.com/yanivmizrachiy/repo',
+              public_count: repos.length,
+              private_hidden: privateHidden,
+              total_known: repos.length + privateHidden,
+              notice_he: usePrivateToken
+                ? 'עודכן אוטומטית דרך GitHub Actions לפי רשימת GitHub אמיתית. ריפואים פרטיים אינם מוצגים באתר הציבורי.'
+                : 'עודכן אוטומטית דרך GitHub Actions לפי רשימת הריפואים הציבוריים ב-GitHub. לריפואים פרטיים נדרש REPO_INDEX_TOKEN.',
+              repositories: repos
+            };
+            fs.writeFileSync('data/index.json', JSON.stringify(output, null, 2) + '\n');
+
+            fs.mkdirSync('STATE', { recursive: true });
+            fs.writeFileSync('STATE/LAST_RUN.json', JSON.stringify({
+              ok: true,
+              generated_at: generatedAt,
+              generated_by: output.generated_by,
+              visible: repos.length,
+              private_hidden: privateHidden,
+              total_known: output.total_known,
+              numbered: true,
+              auto_update: true
+            }, null, 2) + '\n');
+          })().catch((error) => {
+            console.error(error);
+            process.exit(1);
+          });
           NODE
       - name: Commit data
         run: |
