@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T07:39:13.981Z",
+  "generated_at": "2026-06-04T09:01:11.206Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,13 +20,29 @@
       "readiness_percent": 80,
       "notes_he": "אחד מריפויי התשתית המרכזיים שלך.",
       "language": "HTML",
-      "pushed_at": "2026-06-04T07:01:05Z",
-      "updated_at": "2026-06-04T07:01:07Z",
+      "pushed_at": "2026-06-04T09:00:52Z",
+      "updated_at": "2026-06-04T09:00:57Z",
       "default_branch": "main",
       "archived": false
     },
     {
       "number": 2,
+      "name": "student-management-system",
+      "url": "https://github.com/yanivmizrachiy/student-management-system",
+      "category_he": "מערכת תלמידים",
+      "summary_he": "מערכת ניהול תלמידים בעברית לריכוז שכבות, קבוצות, תלמידים ונתונים בית־ספריים.",
+      "exists_he": "README.md, RULES.md, docs, STATE, .github/workflows",
+      "status_he": "פעיל",
+      "readiness_percent": 70,
+      "notes_he": "נדרש סיכום עמוק יותר מתוך קבצי הריפו.",
+      "language": "TypeScript",
+      "pushed_at": "2026-06-04T08:50:41Z",
+      "updated_at": "2026-06-04T08:50:45Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 3,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -36,13 +52,13 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-06-04T05:54:13Z",
-      "updated_at": "2026-06-04T05:54:34Z",
+      "pushed_at": "2026-06-04T07:39:14Z",
+      "updated_at": "2026-06-04T07:39:18Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 3,
+      "number": 4,
       "name": "gmail",
       "url": "https://github.com/yanivmizrachiy/gmail",
       "category_he": "חדש / לא מסווג",
@@ -58,7 +74,7 @@
       "archived": false
     },
     {
-      "number": 4,
+      "number": 5,
       "name": "www",
       "url": "https://github.com/yanivmizrachiy/www",
       "category_he": "Moodle / מוצר מורה",
@@ -74,7 +90,7 @@
       "archived": false
     },
     {
-      "number": 5,
+      "number": 6,
       "name": "maagar",
       "url": "https://github.com/yanivmizrachiy/maagar",
       "category_he": "מאגר חומרים",
@@ -90,7 +106,7 @@
       "archived": false
     },
     {
-      "number": 6,
+      "number": 7,
       "name": "shiur-prati",
       "url": "https://github.com/yanivmizrachiy/shiur-prati",
       "category_he": "חדש / לא מסווג",
@@ -106,7 +122,7 @@
       "archived": false
     },
     {
-      "number": 7,
+      "number": 8,
       "name": "TALMID",
       "url": "https://github.com/yanivmizrachiy/TALMID",
       "category_he": "מערכת תלמידים",
@@ -122,12 +138,12 @@
       "archived": false
     },
     {
-      "number": 8,
+      "number": 9,
       "name": "github-journal",
       "url": "https://github.com/yanivmizrachiy/github-journal",
       "category_he": "יומן / תיעוד",
       "summary_he": "יומן GitHub לתיעוד יומי, עמודי מצב ושמירת פעולות לפי תאריכים.",
-      "exists_he": "README.md, RULES.md, docs, STATE, .github/workflows",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
       "status_he": "פעיל",
       "readiness_percent": 60,
       "notes_he": "קשור לתיעוד יומי.",
@@ -138,12 +154,12 @@
       "archived": false
     },
     {
-      "number": 9,
+      "number": 10,
       "name": "moodle-teacher-hub",
       "url": "https://github.com/yanivmizrachiy/moodle-teacher-hub",
       "category_he": "Moodle / מורים",
       "summary_he": "פרויקט Moodle Teacher Hub: כלי מורה בעברית מעל Moodle להצגת נתונים אמיתיים.",
-      "exists_he": "README.md",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
       "status_he": "פעיל",
       "readiness_percent": 65,
       "notes_he": "צריך להצליב מול www כדי לדעת מה מקור האמת הפעיל.",
@@ -154,7 +170,7 @@
       "archived": false
     },
     {
-      "number": 10,
+      "number": 11,
       "name": "model2",
       "url": "https://github.com/yanivmizrachiy/model2",
       "category_he": "אתר / PWA",
@@ -170,7 +186,7 @@
       "archived": false
     },
     {
-      "number": 11,
+      "number": 12,
       "name": "parabula-next",
       "url": "https://github.com/yanivmizrachiy/parabula-next",
       "category_he": "מתמטיקה / פרבולות",
@@ -186,7 +202,7 @@
       "archived": false
     },
     {
-      "number": 12,
+      "number": 13,
       "name": "colors",
       "url": "https://github.com/yanivmizrachiy/colors",
       "category_he": "עיצוב / צבעים",
@@ -202,7 +218,7 @@
       "archived": false
     },
     {
-      "number": 13,
+      "number": 14,
       "name": "luz-teddy",
       "url": "https://github.com/yanivmizrachiy/luz-teddy",
       "category_he": "חדש / לא מסווג",
@@ -218,7 +234,7 @@
       "archived": false
     },
     {
-      "number": 14,
+      "number": 15,
       "name": "homer-mivchan-tet1-madait",
       "url": "https://github.com/yanivmizrachiy/homer-mivchan-tet1-madait",
       "category_he": "חומר למבחן",
@@ -234,7 +250,7 @@
       "archived": false
     },
     {
-      "number": 15,
+      "number": 16,
       "name": "mifmar-z-qa",
       "url": "https://github.com/yanivmizrachiy/mifmar-z-qa",
       "category_he": "מתמטיקה / QA",
@@ -250,7 +266,7 @@
       "archived": false
     },
     {
-      "number": 16,
+      "number": 17,
       "name": "hishtalmut-215195",
       "url": "https://github.com/yanivmizrachiy/hishtalmut-215195",
       "category_he": "השתלמות 215195",
@@ -266,7 +282,7 @@
       "archived": false
     },
     {
-      "number": 17,
+      "number": 18,
       "name": "smartschool-hebrew-voice-notes",
       "url": "https://github.com/yanivmizrachiy/smartschool-hebrew-voice-notes",
       "category_he": "בית ספר / קול",
@@ -282,7 +298,7 @@
       "archived": false
     },
     {
-      "number": 18,
+      "number": 19,
       "name": "hishtalmut",
       "url": "https://github.com/yanivmizrachiy/hishtalmut",
       "category_he": "השתלמות",
@@ -298,7 +314,7 @@
       "archived": false
     },
     {
-      "number": 19,
+      "number": 20,
       "name": "zaviot",
       "url": "https://github.com/yanivmizrachiy/zaviot",
       "category_he": "מתמטיקה / זוויות",
@@ -314,7 +330,7 @@
       "archived": false
     },
     {
-      "number": 20,
+      "number": 21,
       "name": "whatsapp",
       "url": "https://github.com/yanivmizrachiy/whatsapp",
       "category_he": "וואטסאפ / הודעות",
@@ -330,7 +346,7 @@
       "archived": false
     },
     {
-      "number": 21,
+      "number": 22,
       "name": "system-core",
       "url": "https://github.com/yanivmizrachiy/system-core",
       "category_he": "תשתית מערכת",
@@ -346,7 +362,7 @@
       "archived": false
     },
     {
-      "number": 22,
+      "number": 23,
       "name": "parabula2",
       "url": "https://github.com/yanivmizrachiy/parabula2",
       "category_he": "מתמטיקה / פרבולות",
@@ -358,22 +374,6 @@
       "language": "HTML",
       "pushed_at": "2026-03-22T10:43:25Z",
       "updated_at": "2026-03-22T10:43:32Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 23,
-      "name": "student-management-system",
-      "url": "https://github.com/yanivmizrachiy/student-management-system",
-      "category_he": "מערכת תלמידים",
-      "summary_he": "מערכת ניהול תלמידים בעברית לריכוז שכבות, קבוצות, תלמידים ונתונים בית־ספריים.",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
-      "status_he": "פעיל",
-      "readiness_percent": 70,
-      "notes_he": "נדרש סיכום עמוק יותר מתוך קבצי הריפו.",
-      "language": "TypeScript",
-      "pushed_at": "2026-02-28T22:33:17Z",
-      "updated_at": "2026-02-28T22:33:20Z",
       "default_branch": "main",
       "archived": false
     },
