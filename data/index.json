@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T13:47:50.989Z",
+  "generated_at": "2026-06-04T15:03:37.178Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,22 +11,6 @@
   "repositories": [
     {
       "number": 1,
-      "name": "student-management-system",
-      "url": "https://github.com/yanivmizrachiy/student-management-system",
-      "category_he": "מערכת תלמידים",
-      "summary_he": "מערכת ניהול תלמידים בעברית לריכוז שכבות, קבוצות, תלמידים ונתונים בית־ספריים.",
-      "exists_he": "README.md, RULES.md, docs, STATE, .github/workflows",
-      "status_he": "פעיל",
-      "readiness_percent": 70,
-      "notes_he": "נדרש סיכום עמוק יותר מתוך קבצי הריפו.",
-      "language": "TypeScript",
-      "pushed_at": "2026-06-04T13:41:23Z",
-      "updated_at": "2026-06-04T13:41:28Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 2,
       "name": "my-assistant",
       "url": "https://github.com/yanivmizrachiy/my-assistant",
       "category_he": "עוזר אישי / אוטומציה",
@@ -36,13 +20,45 @@
       "readiness_percent": 80,
       "notes_he": "אחד מריפויי התשתית המרכזיים שלך.",
       "language": "HTML",
-      "pushed_at": "2026-06-04T13:10:06Z",
-      "updated_at": "2026-06-04T13:10:33Z",
+      "pushed_at": "2026-06-04T15:01:06Z",
+      "updated_at": "2026-06-04T14:02:12Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
+      "name": "TALMID",
+      "url": "https://github.com/yanivmizrachiy/TALMID",
+      "category_he": "מערכת תלמידים",
+      "summary_he": "ריפו בנושא תלמידים או מידע לימודי.",
+      "exists_he": "RULES.md, STATE, .github/workflows",
+      "status_he": "חלקי",
+      "readiness_percent": 40,
+      "notes_he": "דורש סריקה עמוקה כדי לקבוע תפקיד מדויק.",
+      "language": "HTML",
+      "pushed_at": "2026-06-04T14:37:51Z",
+      "updated_at": "2026-06-04T14:39:58Z",
       "default_branch": "main",
       "archived": false
     },
     {
       "number": 3,
+      "name": "student-management-system",
+      "url": "https://github.com/yanivmizrachiy/student-management-system",
+      "category_he": "מערכת תלמידים",
+      "summary_he": "מערכת ניהול תלמידים בעברית לריכוז שכבות, קבוצות, תלמידים ונתונים בית־ספריים.",
+      "exists_he": "README.md, RULES.md, docs, STATE, .github/workflows",
+      "status_he": "פעיל",
+      "readiness_percent": 70,
+      "notes_he": "נדרש סיכום עמוק יותר מתוך קבצי הריפו.",
+      "language": "TypeScript",
+      "pushed_at": "2026-06-04T14:01:00Z",
+      "updated_at": "2026-06-04T14:03:26Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 4,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -52,13 +68,13 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-06-04T12:40:29Z",
-      "updated_at": "2026-06-04T12:41:06Z",
+      "pushed_at": "2026-06-04T13:47:52Z",
+      "updated_at": "2026-06-04T13:49:14Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 4,
+      "number": 5,
       "name": "gmail",
       "url": "https://github.com/yanivmizrachiy/gmail",
       "category_he": "חדש / לא מסווג",
@@ -74,7 +90,7 @@
       "archived": false
     },
     {
-      "number": 5,
+      "number": 6,
       "name": "www",
       "url": "https://github.com/yanivmizrachiy/www",
       "category_he": "Moodle / מוצר מורה",
@@ -90,7 +106,7 @@
       "archived": false
     },
     {
-      "number": 6,
+      "number": 7,
       "name": "maagar",
       "url": "https://github.com/yanivmizrachiy/maagar",
       "category_he": "מאגר חומרים",
@@ -106,7 +122,7 @@
       "archived": false
     },
     {
-      "number": 7,
+      "number": 8,
       "name": "shiur-prati",
       "url": "https://github.com/yanivmizrachiy/shiur-prati",
       "category_he": "חדש / לא מסווג",
@@ -118,22 +134,6 @@
       "language": "HTML",
       "pushed_at": "2026-06-03T12:47:32Z",
       "updated_at": "2026-06-03T12:47:36Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 8,
-      "name": "TALMID",
-      "url": "https://github.com/yanivmizrachiy/TALMID",
-      "category_he": "מערכת תלמידים",
-      "summary_he": "ריפו בנושא תלמידים או מידע לימודי.",
-      "exists_he": "RULES.md",
-      "status_he": "חלקי",
-      "readiness_percent": 40,
-      "notes_he": "דורש סריקה עמוקה כדי לקבוע תפקיד מדויק.",
-      "language": "HTML",
-      "pushed_at": "2026-06-03T04:47:56Z",
-      "updated_at": "2026-06-03T04:48:00Z",
       "default_branch": "main",
       "archived": false
     },
