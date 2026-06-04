@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T18:30:08.286Z",
+  "generated_at": "2026-06-04T19:23:27.463Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,8 +20,8 @@
       "readiness_percent": 40,
       "notes_he": "דורש סריקה עמוקה כדי לקבוע תפקיד מדויק.",
       "language": "HTML",
-      "pushed_at": "2026-06-04T18:25:14Z",
-      "updated_at": "2026-06-04T18:25:37Z",
+      "pushed_at": "2026-06-04T19:18:14Z",
+      "updated_at": "2026-06-04T19:18:19Z",
       "default_branch": "main",
       "archived": false
     },
@@ -36,8 +36,8 @@
       "readiness_percent": 80,
       "notes_he": "אחד מריפויי התשתית המרכזיים שלך.",
       "language": "HTML",
-      "pushed_at": "2026-06-04T18:01:05Z",
-      "updated_at": "2026-06-04T18:01:38Z",
+      "pushed_at": "2026-06-04T19:01:05Z",
+      "updated_at": "2026-06-04T19:01:13Z",
       "default_branch": "main",
       "archived": false
     },
@@ -52,8 +52,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-06-04T17:30:48Z",
-      "updated_at": "2026-06-04T17:30:52Z",
+      "pushed_at": "2026-06-04T18:30:09Z",
+      "updated_at": "2026-06-04T18:30:17Z",
       "default_branch": "main",
       "archived": false
     },
