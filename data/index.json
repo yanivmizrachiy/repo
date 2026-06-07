@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T14:25:19.660Z",
+  "generated_at": "2026-06-07T15:04:49.979Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,22 +11,6 @@
   "repositories": [
     {
       "number": 1,
-      "name": "gmail",
-      "url": "https://github.com/yanivmizrachiy/gmail",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": "README.md, RULES.md, STATE, .github/workflows",
-      "status_he": "פעיל",
-      "readiness_percent": 60,
-      "notes_he": "",
-      "language": "JavaScript",
-      "pushed_at": "2026-06-07T14:11:32Z",
-      "updated_at": "2026-06-07T14:11:35Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 2,
       "name": "my-assistant",
       "url": "https://github.com/yanivmizrachiy/my-assistant",
       "category_he": "עוזר אישי / אוטומציה",
@@ -36,8 +20,24 @@
       "readiness_percent": 80,
       "notes_he": "אחד מריפויי התשתית המרכזיים שלך.",
       "language": "HTML",
-      "pushed_at": "2026-06-07T14:00:35Z",
-      "updated_at": "2026-06-07T14:00:38Z",
+      "pushed_at": "2026-06-07T15:00:36Z",
+      "updated_at": "2026-06-07T15:00:38Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
+      "name": "gmail",
+      "url": "https://github.com/yanivmizrachiy/gmail",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "אין עדיין תיאור עברי מאומת.",
+      "exists_he": "README.md, RULES.md, STATE, .github/workflows",
+      "status_he": "פעיל",
+      "readiness_percent": 60,
+      "notes_he": "",
+      "language": "JavaScript",
+      "pushed_at": "2026-06-07T14:53:38Z",
+      "updated_at": "2026-06-07T14:53:41Z",
       "default_branch": "main",
       "archived": false
     },
@@ -52,8 +52,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-06-07T13:34:03Z",
-      "updated_at": "2026-06-07T13:34:06Z",
+      "pushed_at": "2026-06-07T14:25:23Z",
+      "updated_at": "2026-06-07T14:25:27Z",
       "default_branch": "main",
       "archived": false
     },
