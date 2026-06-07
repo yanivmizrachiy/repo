@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T12:42:02.276Z",
+  "generated_at": "2026-06-07T12:51:11.063Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "gmail",
+      "url": "https://github.com/yanivmizrachiy/gmail",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "אין עדיין תיאור עברי מאומת.",
+      "exists_he": "README.md, RULES.md, STATE",
+      "status_he": "פעיל",
+      "readiness_percent": 60,
+      "notes_he": "",
+      "language": "JavaScript",
+      "pushed_at": "2026-06-07T12:48:19Z",
+      "updated_at": "2026-06-07T12:48:23Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -20,13 +36,13 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-06-07T12:41:39Z",
-      "updated_at": "2026-06-07T12:41:43Z",
+      "pushed_at": "2026-06-07T12:42:03Z",
+      "updated_at": "2026-06-07T12:42:06Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "my-assistant",
       "url": "https://github.com/yanivmizrachiy/my-assistant",
       "category_he": "עוזר אישי / אוטומציה",
@@ -38,22 +54,6 @@
       "language": "HTML",
       "pushed_at": "2026-06-07T12:37:02Z",
       "updated_at": "2026-06-07T12:37:06Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 3,
-      "name": "gmail",
-      "url": "https://github.com/yanivmizrachiy/gmail",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": "README.md, RULES.md, STATE",
-      "status_he": "פעיל",
-      "readiness_percent": 60,
-      "notes_he": "",
-      "language": "JavaScript",
-      "pushed_at": "2026-06-07T12:34:00Z",
-      "updated_at": "2026-06-02T03:40:21Z",
       "default_branch": "main",
       "archived": false
     },
@@ -143,7 +143,7 @@
       "url": "https://github.com/yanivmizrachiy/github-journal",
       "category_he": "יומן / תיעוד",
       "summary_he": "יומן GitHub לתיעוד יומי, עמודי מצב ושמירת פעולות לפי תאריכים.",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
+      "exists_he": "README.md, RULES.md",
       "status_he": "פעיל",
       "readiness_percent": 60,
       "notes_he": "קשור לתיעוד יומי.",
