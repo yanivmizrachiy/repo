@@ -1,0 +1,37 @@
+{
+  "name": "מרכז הריפואים של יניב",
+  "short_name": "הריפואים שלי",
+  "description": "אתר עברי אישי שמציג את הריפואים של יניב בגיטאב, סטטוס, מוכנות וקישורי פעולה.",
+  "lang": "he",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fff7ed",
+  "theme_color": "#f97316",
+  "categories": ["productivity", "developer", "utilities"],
+  "icons": [
+    {
+      "src": "icons/repo-orange.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "פתח ריפואים",
+      "short_name": "ריפואים",
+      "description": "פתיחת מרכז הריפואים של יניב",
+      "url": "./",
+      "icons": [
+        {
+          "src": "icons/repo-orange.svg",
+          "sizes": "any",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ]
+}
