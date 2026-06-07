@@ -3,7 +3,15 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#f97316">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="הריפואים שלי">
+  <meta name="application-name" content="הריפואים שלי">
   <title>מרכז הריפואים של יניב</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" type="image/svg+xml" href="icons/repo-orange.svg">
+  <link rel="apple-touch-icon" href="icons/repo-orange.svg">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -24,10 +32,12 @@
   <section class="commandCenter" aria-label="פעולות ראשיות על אתר הריפואים">
     <div>
       <h2>פעולות ראשיות</h2>
-      <p>כפתורים אמיתיים ובטוחים: חלקם פותחים דפים חיים ב־GitHub, וחלקם מעתיקים פקודות PowerShell/gh להרצה אצלך במחשב.</p>
+      <p>כפתורים אמיתיים ובטוחים: פתיחת האתר, פתיחת הריפו, רענון אינדקס, התקנת PWA והעתקת פקודת Termux לקיצור בטלפון.</p>
     </div>
     <div class="globalActions">
       <div class="actionItem"><button type="button" data-global-action="open-site">פתח אתר</button><small>פותח את אתר הריפואים הציבורי שלך ב־GitHub Pages.</small></div>
+      <div class="actionItem"><button type="button" data-global-action="install-pwa">התקן בטלפון</button><small>מציג התקנת אפליקציה למסך הבית אם הדפדפן תומך; אחרת מעתיק הנחיה קצרה.</small></div>
+      <div class="actionItem"><button type="button" data-global-action="copy-termux-command">העתק פקודת Termux</button><small>מעתיק פקודה שמתקינה קיצור פתיחה דרך Termux:Widget.</small></div>
       <div class="actionItem"><button type="button" data-global-action="open-repo">פתח ריפו ניהול</button><small>פותח את הריפו שמנהל את האתר ואת קובצי הנתונים.</small></div>
       <div class="actionItem"><button type="button" data-global-action="open-update-workflow">פתח עדכון אינדקס</button><small>פותח את מסך GitHub Actions של עדכון רשימת הריפואים.</small></div>
       <div class="actionItem"><button type="button" data-global-action="copy-refresh-command">העתק פקודת רענון</button><small>מעתיק פקודת PowerShell שמריצה עדכון אינדקס וצופה בתוצאה.</small></div>
