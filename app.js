@@ -1,8 +1,14 @@
 const $ = (id) => document.getElementById(id);
 const visits = JSON.parse(localStorage.getItem('repoVisits') || '{}');
 const owner = 'yanivmizrachiy';
+const siteUrl = 'https://yanivmizrachiy.github.io/repo/';
+const repoUrl = 'https://github.com/yanivmizrachiy/repo';
+const updateWorkflowUrl = 'https://github.com/yanivmizrachiy/repo/actions/workflows/update-index.yml';
+const termuxInstallCommand = 'pkg install -y curl termux-api >/dev/null 2>&1; curl -fsSL https://raw.githubusercontent.com/yanivmizrachiy/repo/main/termux/install_repo_index_shortcut.sh | bash';
+const refreshCommand = 'gh workflow run "Update repo index" --repo yanivmizrachiy/repo; Start-Sleep -Seconds 5; gh run list --repo yanivmizrachiy/repo --workflow "Update repo index" --limit 5';
 let repos = [];
 let meta = {};
+let deferredInstallPrompt = null;
 
 function fmtDate(value) {
   if (!value) return '—';
@@ -14,6 +20,34 @@ function safe(value) {
   return String(value ?? '').replace(/[&<>"']/g, (ch) => ({
     '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#039;'
   }[ch]));
+}
+
+function setCopyStatus(text, isError = false) {
+  const status = $('copyStatus');
+  if (!status) return;
+  status.textContent = text;
+  status.style.color = isError ? '#b91c1c' : '';
+}
+
+async function copyText(text, successMessage) {
+  try {
+    if (navigator.clipboard?.writeText) {
+      await navigator.clipboard.writeText(text);
+    } else {
+      const textarea = document.createElement('textarea');
+      textarea.value = text;
+      textarea.setAttribute('readonly', '');
+      textarea.style.position = 'fixed';
+      textarea.style.opacity = '0';
+      document.body.appendChild(textarea);
+      textarea.select();
+      document.execCommand('copy');
+      textarea.remove();
+    }
+    setCopyStatus(successMessage || 'הועתק ללוח.');
+  } catch (error) {
+    setCopyStatus('לא הצלחתי להעתיק אוטומטית. אפשר לסמן ולהעתיק ידנית: ' + text, true);
+  }
 }
 
 function repoNumber(repo, fallbackIndex) {
@@ -121,6 +155,61 @@ function render() {
   `).join('') || '<tr><td colspan="7">אין תוצאות</td></tr>';
 }
 
+async function handleGlobalAction(action) {
+  if (action === 'open-site') {
+    window.open(siteUrl, '_blank', 'noopener');
+    setCopyStatus('האתר נפתח בחלון חדש.');
+    return;
+  }
+  if (action === 'open-repo') {
+    window.open(repoUrl, '_blank', 'noopener');
+    setCopyStatus('ריפו הניהול נפתח בחלון חדש.');
+    return;
+  }
+  if (action === 'open-update-workflow') {
+    window.open(updateWorkflowUrl, '_blank', 'noopener');
+    setCopyStatus('מסך GitHub Actions לעדכון האינדקס נפתח.');
+    return;
+  }
+  if (action === 'copy-refresh-command') {
+    await copyText(refreshCommand, 'פקודת רענון GitHub Actions הועתקה ל־PowerShell.');
+    return;
+  }
+  if (action === 'copy-termux-command') {
+    await copyText(termuxInstallCommand, 'פקודת Termux לקיצור הטלפון הועתקה.');
+    return;
+  }
+  if (action === 'install-pwa') {
+    if (deferredInstallPrompt) {
+      deferredInstallPrompt.prompt();
+      const choice = await deferredInstallPrompt.userChoice;
+      deferredInstallPrompt = null;
+      setCopyStatus(choice?.outcome === 'accepted' ? 'התקנת האתר למסך הבית אושרה.' : 'ההתקנה לא אושרה. אפשר להשתמש בתפריט הדפדפן: הוספה למסך הבית.');
+    } else {
+      await copyText('פתח את האתר בכרום בטלפון: ' + siteUrl + ' ואז בתפריט ⋮ בחר: הוספה למסך הבית / התקנת האפליקציה.', 'הנחיית התקנה למסך הבית הועתקה.');
+    }
+  }
+}
+
+window.addEventListener('beforeinstallprompt', (event) => {
+  event.preventDefault();
+  deferredInstallPrompt = event;
+  setCopyStatus('אפשר להתקין את האתר למסך הבית עם האייקון הכתום.');
+});
+
+window.addEventListener('appinstalled', () => {
+  deferredInstallPrompt = null;
+  setCopyStatus('האתר הותקן כאפליקציה במסך הבית.');
+});
+
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('./sw.js').catch(() => {
+      setCopyStatus('האתר עובד, אבל Service Worker לא נרשם בדפדפן הזה.', true);
+    });
+  });
+}
+
 fetch('data/index.json?x=' + Date.now())
   .then((response) => response.json())
   .then((data) => {
@@ -143,3 +232,8 @@ fetch('data/index.json?x=' + Date.now())
 
 $('q').addEventListener('input', render);
 $('sort').addEventListener('input', render);
+document.addEventListener('click', (event) => {
+  const button = event.target.closest('[data-global-action]');
+  if (!button) return;
+  handleGlobalAction(button.dataset.globalAction);
+});
