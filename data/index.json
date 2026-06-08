@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T19:34:05.203Z",
+  "generated_at": "2026-06-08T20:32:21.748Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,8 +20,8 @@
       "readiness_percent": 70,
       "notes_he": "דורש סריקת מבנה מפורטת.",
       "language": "HTML",
-      "pushed_at": "2026-06-08T19:25:21Z",
-      "updated_at": "2026-06-08T19:25:25Z",
+      "pushed_at": "2026-06-08T19:41:56Z",
+      "updated_at": "2026-06-08T19:41:59Z",
       "default_branch": "main",
       "archived": false
     },
@@ -36,8 +36,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-06-08T18:33:54Z",
-      "updated_at": "2026-06-08T18:34:12Z",
+      "pushed_at": "2026-06-08T19:34:06Z",
+      "updated_at": "2026-06-08T19:34:10Z",
       "default_branch": "main",
       "archived": false
     },
