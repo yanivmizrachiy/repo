@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T08:13:57.007Z",
+  "generated_at": "2026-06-09T09:30:19.816Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,13 +20,29 @@
       "readiness_percent": 75,
       "notes_he": "",
       "language": "HTML",
-      "pushed_at": "2026-06-09T07:12:27Z",
-      "updated_at": "2026-06-09T06:25:06Z",
+      "pushed_at": "2026-06-09T09:29:28Z",
+      "updated_at": "2026-06-09T09:29:44Z",
       "default_branch": "main",
       "archived": false
     },
     {
       "number": 2,
+      "name": "TALMID",
+      "url": "https://github.com/yanivmizrachiy/TALMID",
+      "category_he": "מערכת תלמידים",
+      "summary_he": "ריפו בנושא תלמידים או מידע לימודי.",
+      "exists_he": "RULES.md, STATE, .github/workflows",
+      "status_he": "חלקי",
+      "readiness_percent": 40,
+      "notes_he": "דורש סריקה עמוקה כדי לקבוע תפקיד מדויק.",
+      "language": "HTML",
+      "pushed_at": "2026-06-09T08:25:32Z",
+      "updated_at": "2026-06-09T08:25:36Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 3,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -36,13 +52,13 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-06-09T06:47:03Z",
-      "updated_at": "2026-06-09T06:47:07Z",
+      "pushed_at": "2026-06-09T08:13:58Z",
+      "updated_at": "2026-06-09T08:14:02Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 3,
+      "number": 4,
       "name": "my-assistant",
       "url": "https://github.com/yanivmizrachiy/my-assistant",
       "category_he": "עוזר אישי / אוטומציה",
@@ -58,7 +74,7 @@
       "archived": false
     },
     {
-      "number": 4,
+      "number": 5,
       "name": "parabula2",
       "url": "https://github.com/yanivmizrachiy/parabula2",
       "category_he": "מתמטיקה / פרבולות",
@@ -74,7 +90,7 @@
       "archived": false
     },
     {
-      "number": 5,
+      "number": 6,
       "name": "yaniv-gpt-journal",
       "url": "https://github.com/yanivmizrachiy/yaniv-gpt-journal",
       "category_he": "חדש / לא מסווג",
@@ -90,7 +106,7 @@
       "archived": false
     },
     {
-      "number": 6,
+      "number": 7,
       "name": "hishtalmut",
       "url": "https://github.com/yanivmizrachiy/hishtalmut",
       "category_he": "השתלמות",
@@ -106,7 +122,7 @@
       "archived": false
     },
     {
-      "number": 7,
+      "number": 8,
       "name": "gmail",
       "url": "https://github.com/yanivmizrachiy/gmail",
       "category_he": "חדש / לא מסווג",
@@ -122,28 +138,12 @@
       "archived": false
     },
     {
-      "number": 8,
-      "name": "TALMID",
-      "url": "https://github.com/yanivmizrachiy/TALMID",
-      "category_he": "מערכת תלמידים",
-      "summary_he": "ריפו בנושא תלמידים או מידע לימודי.",
-      "exists_he": "RULES.md, STATE, .github/workflows",
-      "status_he": "חלקי",
-      "readiness_percent": 40,
-      "notes_he": "דורש סריקה עמוקה כדי לקבוע תפקיד מדויק.",
-      "language": "HTML",
-      "pushed_at": "2026-06-06T22:04:51Z",
-      "updated_at": "2026-06-06T22:04:55Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
       "number": 9,
       "name": "www",
       "url": "https://github.com/yanivmizrachiy/www",
       "category_he": "Moodle / מוצר מורה",
       "summary_he": "ריפו Moodle Teacher Hub הפעיל לפי העבודה האחרונה: מוצר RTL למורים מעל Moodle, Render, Supabase ו־LTI.",
-      "exists_he": "README.md, PROJECT_RULES.md, RULES.md",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
       "status_he": "פעיל",
       "readiness_percent": 78,
       "notes_he": "Teacher release עדיין לא מאושר בלי בדיקות מלאות.",
