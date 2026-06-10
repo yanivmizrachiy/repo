@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T20:37:50.010Z",
+  "generated_at": "2026-06-10T21:29:57.352Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,8 +20,8 @@
       "readiness_percent": 75,
       "notes_he": "",
       "language": "JavaScript",
-      "pushed_at": "2026-06-10T19:39:00Z",
-      "updated_at": "2026-06-10T19:39:05Z",
+      "pushed_at": "2026-06-10T20:44:56Z",
+      "updated_at": "2026-06-10T20:45:38Z",
       "default_branch": "main",
       "archived": false
     },
@@ -36,8 +36,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-06-10T19:38:10Z",
-      "updated_at": "2026-06-10T19:38:16Z",
+      "pushed_at": "2026-06-10T20:37:54Z",
+      "updated_at": "2026-06-10T20:38:07Z",
       "default_branch": "main",
       "archived": false
     },
@@ -143,7 +143,7 @@
       "url": "https://github.com/yanivmizrachiy/gmail",
       "category_he": "חדש / לא מסווג",
       "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
+      "exists_he": "README.md, RULES.md",
       "status_he": "פעיל",
       "readiness_percent": 60,
       "notes_he": "",
