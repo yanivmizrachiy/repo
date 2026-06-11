@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T22:22:50.299Z",
+  "generated_at": "2026-06-11T23:02:57.041Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "www",
+      "url": "https://github.com/yanivmizrachiy/www",
+      "category_he": "Moodle / מוצר מורה",
+      "summary_he": "ריפו Moodle Teacher Hub הפעיל לפי העבודה האחרונה: מוצר RTL למורים מעל Moodle, Render, Supabase ו־LTI.",
+      "exists_he": "README.md, PROJECT_RULES.md, RULES.md, docs, STATE, .github/workflows, package.json",
+      "status_he": "פעיל",
+      "readiness_percent": 78,
+      "notes_he": "Teacher release עדיין לא מאושר בלי בדיקות מלאות.",
+      "language": "TypeScript",
+      "pushed_at": "2026-06-11T22:49:54Z",
+      "updated_at": "2026-06-02T20:28:21Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -20,13 +36,13 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-06-11T21:30:45Z",
-      "updated_at": "2026-06-11T21:30:56Z",
+      "pushed_at": "2026-06-11T22:22:52Z",
+      "updated_at": "2026-06-11T22:22:56Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "targilim",
       "url": "https://github.com/yanivmizrachiy/targilim",
       "category_he": "חדש / לא מסווג",
@@ -42,7 +58,7 @@
       "archived": false
     },
     {
-      "number": 3,
+      "number": 4,
       "name": "my-assistant",
       "url": "https://github.com/yanivmizrachiy/my-assistant",
       "category_he": "עוזר אישי / אוטומציה",
@@ -58,7 +74,7 @@
       "archived": false
     },
     {
-      "number": 4,
+      "number": 5,
       "name": "stats-question-generator",
       "url": "https://github.com/yanivmizrachiy/stats-question-generator",
       "category_he": "חדש / לא מסווג",
@@ -74,7 +90,7 @@
       "archived": false
     },
     {
-      "number": 5,
+      "number": 6,
       "name": "hishtalmut",
       "url": "https://github.com/yanivmizrachiy/hishtalmut",
       "category_he": "השתלמות",
@@ -90,7 +106,7 @@
       "archived": false
     },
     {
-      "number": 6,
+      "number": 7,
       "name": "parabula2",
       "url": "https://github.com/yanivmizrachiy/parabula2",
       "category_he": "מתמטיקה / פרבולות",
@@ -106,7 +122,7 @@
       "archived": false
     },
     {
-      "number": 7,
+      "number": 8,
       "name": "TALMID",
       "url": "https://github.com/yanivmizrachiy/TALMID",
       "category_he": "מערכת תלמידים",
@@ -122,12 +138,12 @@
       "archived": false
     },
     {
-      "number": 8,
+      "number": 9,
       "name": "yaniv-gpt-journal",
       "url": "https://github.com/yanivmizrachiy/yaniv-gpt-journal",
       "category_he": "חדש / לא מסווג",
       "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": "README.md, RULES.md, docs, .github/workflows",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
       "status_he": "פעיל",
       "readiness_percent": 60,
       "notes_he": "",
@@ -138,34 +154,18 @@
       "archived": false
     },
     {
-      "number": 9,
+      "number": 10,
       "name": "gmail",
       "url": "https://github.com/yanivmizrachiy/gmail",
       "category_he": "חדש / לא מסווג",
       "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": "README.md",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
       "status_he": "פעיל",
       "readiness_percent": 60,
       "notes_he": "",
       "language": "JavaScript",
       "pushed_at": "2026-06-07T20:43:48Z",
       "updated_at": "2026-06-07T20:43:52Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 10,
-      "name": "www",
-      "url": "https://github.com/yanivmizrachiy/www",
-      "category_he": "Moodle / מוצר מורה",
-      "summary_he": "ריפו Moodle Teacher Hub הפעיל לפי העבודה האחרונה: מוצר RTL למורים מעל Moodle, Render, Supabase ו־LTI.",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
-      "status_he": "פעיל",
-      "readiness_percent": 78,
-      "notes_he": "Teacher release עדיין לא מאושר בלי בדיקות מלאות.",
-      "language": "TypeScript",
-      "pushed_at": "2026-06-03T22:35:34Z",
-      "updated_at": "2026-06-02T20:28:21Z",
       "default_branch": "main",
       "archived": false
     },
