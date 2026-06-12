@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T08:12:45.368Z",
+  "generated_at": "2026-06-12T09:42:04.955Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,13 +20,29 @@
       "readiness_percent": 75,
       "notes_he": "",
       "language": "JavaScript",
-      "pushed_at": "2026-06-12T08:12:27Z",
+      "pushed_at": "2026-06-12T09:13:31Z",
       "updated_at": "2026-06-12T07:08:49Z",
       "default_branch": "main",
       "archived": false
     },
     {
       "number": 2,
+      "name": "repo",
+      "url": "https://github.com/yanivmizrachiy/repo",
+      "category_he": "אינדקס ריפואים",
+      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
+      "exists_he": "README.md, docs, STATE, .github/workflows",
+      "status_he": "פעיל",
+      "readiness_percent": 65,
+      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
+      "language": "JavaScript",
+      "pushed_at": "2026-06-12T08:12:46Z",
+      "updated_at": "2026-06-12T08:12:50Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 3,
       "name": "gmail",
       "url": "https://github.com/yanivmizrachiy/gmail",
       "category_he": "חדש / לא מסווג",
@@ -42,7 +58,7 @@
       "archived": false
     },
     {
-      "number": 3,
+      "number": 4,
       "name": "i-vadaut-ai-studio",
       "url": "https://github.com/yanivmizrachiy/i-vadaut-ai-studio",
       "category_he": "חדש / לא מסווג",
@@ -58,7 +74,7 @@
       "archived": false
     },
     {
-      "number": 4,
+      "number": 5,
       "name": "www",
       "url": "https://github.com/yanivmizrachiy/www",
       "category_he": "Moodle / מוצר מורה",
@@ -70,22 +86,6 @@
       "language": "TypeScript",
       "pushed_at": "2026-06-12T07:09:46Z",
       "updated_at": "2026-06-12T06:46:22Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 5,
-      "name": "repo",
-      "url": "https://github.com/yanivmizrachiy/repo",
-      "category_he": "אינדקס ריפואים",
-      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
-      "exists_he": "README.md, docs, STATE, .github/workflows",
-      "status_he": "פעיל",
-      "readiness_percent": 65,
-      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
-      "language": "JavaScript",
-      "pushed_at": "2026-06-12T06:32:57Z",
-      "updated_at": "2026-06-12T06:33:01Z",
       "default_branch": "main",
       "archived": false
     },
@@ -143,7 +143,7 @@
       "url": "https://github.com/yanivmizrachiy/hishtalmut",
       "category_he": "השתלמות",
       "summary_he": "ריפו השתלמות או אתר חומרי השתלמות.",
-      "exists_he": "README.md",
+      "exists_he": "README.md, RULES.md",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "צריך להבדיל בינו לבין hishtalmut-215195.",
