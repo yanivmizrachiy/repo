@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T09:46:25.286Z",
+  "generated_at": "2026-06-13T10:48:34.897Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,8 +20,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-06-13T08:41:02Z",
-      "updated_at": "2026-06-13T08:41:05Z",
+      "pushed_at": "2026-06-13T09:46:27Z",
+      "updated_at": "2026-06-13T09:46:30Z",
       "default_branch": "main",
       "archived": false
     },
@@ -143,7 +143,7 @@
       "url": "https://github.com/yanivmizrachiy/hishtalmut",
       "category_he": "השתלמות",
       "summary_he": "ריפו השתלמות או אתר חומרי השתלמות.",
-      "exists_he": "README.md, RULES.md",
+      "exists_he": "README.md",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "צריך להבדיל בינו לבין hishtalmut-215195.",
