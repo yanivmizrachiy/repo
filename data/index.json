@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T01:27:59.638Z",
+  "generated_at": "2026-06-14T02:25:34.740Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,8 +20,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-06-14T00:08:33Z",
-      "updated_at": "2026-06-14T00:08:37Z",
+      "pushed_at": "2026-06-14T01:28:00Z",
+      "updated_at": "2026-06-14T01:28:04Z",
       "default_branch": "main",
       "archived": false
     },
@@ -111,7 +111,7 @@
       "url": "https://github.com/yanivmizrachiy/my-assistant",
       "category_he": "עוזר אישי / אוטומציה",
       "summary_he": "מרכז עוזר אישי ואוטומציות: תיעוד, STATE, סקריפטים וחיבורי שליטה בין GitHub, Termux, Windows וכלים נוספים.",
-      "exists_he": "README.md, RULES.md, docs",
+      "exists_he": "README.md, RULES.md, docs, STATE, .github/workflows",
       "status_he": "פעיל",
       "readiness_percent": 80,
       "notes_he": "אחד מריפויי התשתית המרכזיים שלך.",
