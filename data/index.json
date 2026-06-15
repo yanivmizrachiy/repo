@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T19:46:38.999Z",
+  "generated_at": "2026-06-15T21:03:17.366Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "repo",
+      "url": "https://github.com/yanivmizrachiy/repo",
+      "category_he": "אינדקס ריפואים",
+      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
+      "exists_he": "README.md, docs, STATE, .github/workflows",
+      "status_he": "פעיל",
+      "readiness_percent": 65,
+      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
+      "language": "JavaScript",
+      "pushed_at": "2026-06-15T19:46:40Z",
+      "updated_at": "2026-06-15T19:46:45Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "targilim",
       "url": "https://github.com/yanivmizrachiy/targilim",
       "category_he": "חדש / לא מסווג",
@@ -22,22 +38,6 @@
       "language": "JavaScript",
       "pushed_at": "2026-06-15T18:50:13Z",
       "updated_at": "2026-06-15T13:11:21Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 2,
-      "name": "repo",
-      "url": "https://github.com/yanivmizrachiy/repo",
-      "category_he": "אינדקס ריפואים",
-      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
-      "exists_he": "README.md, docs, STATE, .github/workflows",
-      "status_he": "פעיל",
-      "readiness_percent": 65,
-      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
-      "language": "JavaScript",
-      "pushed_at": "2026-06-15T18:16:49Z",
-      "updated_at": "2026-06-15T18:16:54Z",
       "default_branch": "main",
       "archived": false
     },
@@ -143,7 +143,7 @@
       "url": "https://github.com/yanivmizrachiy/hishtalmut",
       "category_he": "השתלמות",
       "summary_he": "ריפו השתלמות או אתר חומרי השתלמות.",
-      "exists_he": "README.md",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "צריך להבדיל בינו לבין hishtalmut-215195.",
