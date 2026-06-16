@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T00:16:45.830Z",
+  "generated_at": "2026-06-16T01:36:38.618Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "repo",
+      "url": "https://github.com/yanivmizrachiy/repo",
+      "category_he": "אינדקס ריפואים",
+      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
+      "exists_he": "README.md, docs, STATE, .github/workflows",
+      "status_he": "פעיל",
+      "readiness_percent": 65,
+      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
+      "language": "JavaScript",
+      "pushed_at": "2026-06-16T00:16:50Z",
+      "updated_at": "2026-06-16T00:16:54Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "targilim",
       "url": "https://github.com/yanivmizrachiy/targilim",
       "category_he": "חדש / לא מסווג",
@@ -22,22 +38,6 @@
       "language": "JavaScript",
       "pushed_at": "2026-06-16T00:14:30Z",
       "updated_at": "2026-06-16T00:14:35Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 2,
-      "name": "repo",
-      "url": "https://github.com/yanivmizrachiy/repo",
-      "category_he": "אינדקס ריפואים",
-      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
-      "exists_he": "README.md, docs, STATE, .github/workflows",
-      "status_he": "פעיל",
-      "readiness_percent": 65,
-      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
-      "language": "JavaScript",
-      "pushed_at": "2026-06-15T23:35:15Z",
-      "updated_at": "2026-06-15T23:35:19Z",
       "default_branch": "main",
       "archived": false
     },
@@ -127,7 +127,7 @@
       "url": "https://github.com/yanivmizrachiy/stats-question-generator",
       "category_he": "חדש / לא מסווג",
       "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
+      "exists_he": "README.md",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "",
