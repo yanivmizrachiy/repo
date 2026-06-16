@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T23:35:14.724Z",
+  "generated_at": "2026-06-16T00:16:45.830Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,8 +20,8 @@
       "readiness_percent": 75,
       "notes_he": "",
       "language": "JavaScript",
-      "pushed_at": "2026-06-15T23:10:03Z",
-      "updated_at": "2026-06-15T22:50:38Z",
+      "pushed_at": "2026-06-16T00:14:30Z",
+      "updated_at": "2026-06-16T00:14:35Z",
       "default_branch": "main",
       "archived": false
     },
@@ -36,8 +36,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-06-15T22:03:42Z",
-      "updated_at": "2026-06-15T22:03:47Z",
+      "pushed_at": "2026-06-15T23:35:15Z",
+      "updated_at": "2026-06-15T23:35:19Z",
       "default_branch": "main",
       "archived": false
     },
@@ -127,7 +127,7 @@
       "url": "https://github.com/yanivmizrachiy/stats-question-generator",
       "category_he": "חדש / לא מסווג",
       "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": "README.md, package.json",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "",
