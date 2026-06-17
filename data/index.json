@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T04:52:32.706Z",
+  "generated_at": "2026-06-17T06:43:46.917Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,13 +20,45 @@
       "readiness_percent": 40,
       "notes_he": "דורש סריקה עמוקה כדי לקבוע תפקיד מדויק.",
       "language": "HTML",
-      "pushed_at": "2026-06-17T04:51:10Z",
-      "updated_at": "2026-06-17T04:51:13Z",
+      "pushed_at": "2026-06-17T06:36:29Z",
+      "updated_at": "2026-06-17T06:36:33Z",
       "default_branch": "main",
       "archived": false
     },
     {
       "number": 2,
+      "name": "i-vadaut-ai-studio",
+      "url": "https://github.com/yanivmizrachiy/i-vadaut-ai-studio",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "Printable Hebrew mathematics worksheet app for uncertainty, statistics, graphs, data representation, and basic probability, based on the i-vadaut source PDF.",
+      "exists_he": "README.md, RULES.md, docs, package.json",
+      "status_he": "פעיל",
+      "readiness_percent": 60,
+      "notes_he": "",
+      "language": "TypeScript",
+      "pushed_at": "2026-06-17T05:24:51Z",
+      "updated_at": "2026-06-17T05:24:55Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 3,
+      "name": "repo",
+      "url": "https://github.com/yanivmizrachiy/repo",
+      "category_he": "אינדקס ריפואים",
+      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
+      "exists_he": "README.md, docs, STATE, .github/workflows",
+      "status_he": "פעיל",
+      "readiness_percent": 65,
+      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
+      "language": "JavaScript",
+      "pushed_at": "2026-06-17T04:52:34Z",
+      "updated_at": "2026-06-17T04:52:38Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 4,
       "name": "targilim",
       "url": "https://github.com/yanivmizrachiy/targilim",
       "category_he": "חדש / לא מסווג",
@@ -42,23 +74,7 @@
       "archived": false
     },
     {
-      "number": 3,
-      "name": "repo",
-      "url": "https://github.com/yanivmizrachiy/repo",
-      "category_he": "אינדקס ריפואים",
-      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
-      "exists_he": "README.md, docs, STATE, .github/workflows",
-      "status_he": "פעיל",
-      "readiness_percent": 65,
-      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
-      "language": "JavaScript",
-      "pushed_at": "2026-06-17T03:09:21Z",
-      "updated_at": "2026-06-17T03:09:24Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 4,
+      "number": 5,
       "name": "parabula-next",
       "url": "https://github.com/yanivmizrachiy/parabula-next",
       "category_he": "מתמטיקה / פרבולות",
@@ -74,7 +90,7 @@
       "archived": false
     },
     {
-      "number": 5,
+      "number": 6,
       "name": "www",
       "url": "https://github.com/yanivmizrachiy/www",
       "category_he": "Moodle / מוצר מורה",
@@ -90,7 +106,7 @@
       "archived": false
     },
     {
-      "number": 6,
+      "number": 7,
       "name": "my-assistant",
       "url": "https://github.com/yanivmizrachiy/my-assistant",
       "category_he": "עוזר אישי / אוטומציה",
@@ -106,7 +122,7 @@
       "archived": false
     },
     {
-      "number": 7,
+      "number": 8,
       "name": "gmail",
       "url": "https://github.com/yanivmizrachiy/gmail",
       "category_he": "חדש / לא מסווג",
@@ -122,28 +138,12 @@
       "archived": false
     },
     {
-      "number": 8,
-      "name": "i-vadaut-ai-studio",
-      "url": "https://github.com/yanivmizrachiy/i-vadaut-ai-studio",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "Printable Hebrew mathematics worksheet app for uncertainty, statistics, graphs, data representation, and basic probability, based on the i-vadaut source PDF.",
-      "exists_he": "README.md, RULES.md, docs",
-      "status_he": "פעיל",
-      "readiness_percent": 60,
-      "notes_he": "",
-      "language": "TypeScript",
-      "pushed_at": "2026-06-12T07:29:45Z",
-      "updated_at": "2026-06-12T07:29:49Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
       "number": 9,
       "name": "i-vadaut",
       "url": "https://github.com/yanivmizrachiy/i-vadaut",
       "category_he": "חדש / לא מסווג",
       "summary_he": "אי ודאות במתמטיקה - חומרי הוראה, דפי עבודה, שאלות ופעילויות",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
+      "exists_he": "README.md",
       "status_he": "פעיל",
       "readiness_percent": 60,
       "notes_he": "",
