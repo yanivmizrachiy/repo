@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T22:01:04.192Z",
+  "generated_at": "2026-06-17T22:50:20.881Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,22 +11,6 @@
   "repositories": [
     {
       "number": 1,
-      "name": "repo",
-      "url": "https://github.com/yanivmizrachiy/repo",
-      "category_he": "אינדקס ריפואים",
-      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
-      "exists_he": "README.md, docs, STATE, .github/workflows",
-      "status_he": "פעיל",
-      "readiness_percent": 65,
-      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
-      "language": "JavaScript",
-      "pushed_at": "2026-06-17T21:15:14Z",
-      "updated_at": "2026-06-17T21:15:29Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 2,
       "name": "TALMID",
       "url": "https://github.com/yanivmizrachiy/TALMID",
       "category_he": "מערכת תלמידים",
@@ -36,13 +20,45 @@
       "readiness_percent": 40,
       "notes_he": "דורש סריקה עמוקה כדי לקבוע תפקיד מדויק.",
       "language": "HTML",
-      "pushed_at": "2026-06-17T21:14:01Z",
-      "updated_at": "2026-06-17T21:14:06Z",
+      "pushed_at": "2026-06-17T22:49:23Z",
+      "updated_at": "2026-06-17T22:49:27Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
+      "name": "targilim",
+      "url": "https://github.com/yanivmizrachiy/targilim",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "שיעור פרטי - אתר חינמי לניהול שיעורים פרטיים ללא דמו",
+      "exists_he": "README.md, PROJECT_RULES.md, RULES.md, docs, STATE, .github/workflows, package.json",
+      "status_he": "פעיל",
+      "readiness_percent": 75,
+      "notes_he": "",
+      "language": "JavaScript",
+      "pushed_at": "2026-06-17T22:15:59Z",
+      "updated_at": "2026-06-17T20:36:41Z",
       "default_branch": "main",
       "archived": false
     },
     {
       "number": 3,
+      "name": "repo",
+      "url": "https://github.com/yanivmizrachiy/repo",
+      "category_he": "אינדקס ריפואים",
+      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
+      "exists_he": "README.md, docs, STATE, .github/workflows",
+      "status_he": "פעיל",
+      "readiness_percent": 65,
+      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
+      "language": "JavaScript",
+      "pushed_at": "2026-06-17T22:01:05Z",
+      "updated_at": "2026-06-17T22:01:17Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 4,
       "name": "lele",
       "url": "https://github.com/yanivmizrachiy/lele",
       "category_he": "חדש / לא מסווג",
@@ -58,7 +74,7 @@
       "archived": false
     },
     {
-      "number": 4,
+      "number": 5,
       "name": "gmail",
       "url": "https://github.com/yanivmizrachiy/gmail",
       "category_he": "חדש / לא מסווג",
@@ -74,7 +90,7 @@
       "archived": false
     },
     {
-      "number": 5,
+      "number": 6,
       "name": "my-assistant",
       "url": "https://github.com/yanivmizrachiy/my-assistant",
       "category_he": "עוזר אישי / אוטומציה",
@@ -86,22 +102,6 @@
       "language": "HTML",
       "pushed_at": "2026-06-17T20:57:56Z",
       "updated_at": "2026-06-17T20:58:17Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 6,
-      "name": "targilim",
-      "url": "https://github.com/yanivmizrachiy/targilim",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "שיעור פרטי - אתר חינמי לניהול שיעורים פרטיים ללא דמו",
-      "exists_he": "README.md, PROJECT_RULES.md, RULES.md, docs, STATE, .github/workflows, package.json",
-      "status_he": "פעיל",
-      "readiness_percent": 75,
-      "notes_he": "",
-      "language": "JavaScript",
-      "pushed_at": "2026-06-17T20:36:37Z",
-      "updated_at": "2026-06-17T20:36:41Z",
       "default_branch": "main",
       "archived": false
     },
