@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T15:56:49.035Z",
+  "generated_at": "2026-06-18T17:09:51.624Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "TALMID",
+      "url": "https://github.com/yanivmizrachiy/TALMID",
+      "category_he": "מערכת תלמידים",
+      "summary_he": "ריפו בנושא תלמידים או מידע לימודי.",
+      "exists_he": "RULES.md, STATE, .github/workflows",
+      "status_he": "חלקי",
+      "readiness_percent": 40,
+      "notes_he": "דורש סריקה עמוקה כדי לקבוע תפקיד מדויק.",
+      "language": "HTML",
+      "pushed_at": "2026-06-18T17:08:57Z",
+      "updated_at": "2026-06-18T17:09:02Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "my-assistant",
       "url": "https://github.com/yanivmizrachiy/my-assistant",
       "category_he": "עוזר אישי / אוטומציה",
@@ -20,13 +36,13 @@
       "readiness_percent": 80,
       "notes_he": "אחד מריפויי התשתית המרכזיים שלך.",
       "language": "HTML",
-      "pushed_at": "2026-06-18T14:35:54Z",
-      "updated_at": "2026-06-18T14:36:25Z",
+      "pushed_at": "2026-06-18T17:07:17Z",
+      "updated_at": "2026-06-18T17:01:55Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -36,13 +52,13 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-06-18T14:32:23Z",
-      "updated_at": "2026-06-18T14:33:31Z",
+      "pushed_at": "2026-06-18T15:56:49Z",
+      "updated_at": "2026-06-18T15:56:54Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 3,
+      "number": 4,
       "name": "targilim",
       "url": "https://github.com/yanivmizrachiy/targilim",
       "category_he": "חדש / לא מסווג",
@@ -58,7 +74,7 @@
       "archived": false
     },
     {
-      "number": 4,
+      "number": 5,
       "name": "gmail",
       "url": "https://github.com/yanivmizrachiy/gmail",
       "category_he": "חדש / לא מסווג",
@@ -70,22 +86,6 @@
       "language": "JavaScript",
       "pushed_at": "2026-06-18T11:58:07Z",
       "updated_at": "2026-06-18T11:58:11Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 5,
-      "name": "TALMID",
-      "url": "https://github.com/yanivmizrachiy/TALMID",
-      "category_he": "מערכת תלמידים",
-      "summary_he": "ריפו בנושא תלמידים או מידע לימודי.",
-      "exists_he": "RULES.md, STATE, .github/workflows",
-      "status_he": "חלקי",
-      "readiness_percent": 40,
-      "notes_he": "דורש סריקה עמוקה כדי לקבוע תפקיד מדויק.",
-      "language": "HTML",
-      "pushed_at": "2026-06-18T07:27:29Z",
-      "updated_at": "2026-06-18T07:27:33Z",
       "default_branch": "main",
       "archived": false
     },
@@ -127,7 +127,7 @@
       "url": "https://github.com/yanivmizrachiy/i-vadaut-ai-studio",
       "category_he": "חדש / לא מסווג",
       "summary_he": "Printable Hebrew mathematics worksheet app for uncertainty, statistics, graphs, data representation, and basic probability, based on the i-vadaut source PDF.",
-      "exists_he": "README.md, RULES.md, docs",
+      "exists_he": "README.md, RULES.md, docs, package.json",
       "status_he": "פעיל",
       "readiness_percent": 60,
       "notes_he": "",
