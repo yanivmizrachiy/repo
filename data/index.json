@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T10:47:04.907Z",
+  "generated_at": "2026-06-18T12:09:41.280Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,38 @@
   "repositories": [
     {
       "number": 1,
+      "name": "gmail",
+      "url": "https://github.com/yanivmizrachiy/gmail",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "אין עדיין תיאור עברי מאומת.",
+      "exists_he": "README.md, RULES.md, STATE, .github/workflows",
+      "status_he": "פעיל",
+      "readiness_percent": 60,
+      "notes_he": "",
+      "language": "JavaScript",
+      "pushed_at": "2026-06-18T11:58:07Z",
+      "updated_at": "2026-06-18T11:58:11Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
+      "name": "repo",
+      "url": "https://github.com/yanivmizrachiy/repo",
+      "category_he": "אינדקס ריפואים",
+      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
+      "exists_he": "README.md, docs, STATE, .github/workflows",
+      "status_he": "פעיל",
+      "readiness_percent": 65,
+      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
+      "language": "JavaScript",
+      "pushed_at": "2026-06-18T10:47:05Z",
+      "updated_at": "2026-06-18T10:47:09Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 3,
       "name": "targilim",
       "url": "https://github.com/yanivmizrachiy/targilim",
       "category_he": "חדש / לא מסווג",
@@ -26,7 +58,7 @@
       "archived": false
     },
     {
-      "number": 2,
+      "number": 4,
       "name": "my-assistant",
       "url": "https://github.com/yanivmizrachiy/my-assistant",
       "category_he": "עוזר אישי / אוטומציה",
@@ -38,38 +70,6 @@
       "language": "HTML",
       "pushed_at": "2026-06-18T09:43:34Z",
       "updated_at": "2026-06-18T09:43:40Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 3,
-      "name": "repo",
-      "url": "https://github.com/yanivmizrachiy/repo",
-      "category_he": "אינדקס ריפואים",
-      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
-      "exists_he": "README.md, docs, STATE, .github/workflows",
-      "status_he": "פעיל",
-      "readiness_percent": 65,
-      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
-      "language": "JavaScript",
-      "pushed_at": "2026-06-18T09:02:12Z",
-      "updated_at": "2026-06-18T09:02:17Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 4,
-      "name": "gmail",
-      "url": "https://github.com/yanivmizrachiy/gmail",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": "README.md, RULES.md, STATE, .github/workflows",
-      "status_he": "פעיל",
-      "readiness_percent": 60,
-      "notes_he": "",
-      "language": "JavaScript",
-      "pushed_at": "2026-06-18T08:17:32Z",
-      "updated_at": "2026-06-18T07:22:45Z",
       "default_branch": "main",
       "archived": false
     },
