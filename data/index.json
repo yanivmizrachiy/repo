@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T14:30:55.730Z",
+  "generated_at": "2026-06-20T16:00:03.981Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,8 +20,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-06-20T13:34:29Z",
-      "updated_at": "2026-06-20T13:34:33Z",
+      "pushed_at": "2026-06-20T14:30:56Z",
+      "updated_at": "2026-06-20T14:31:00Z",
       "default_branch": "main",
       "archived": false
     },
