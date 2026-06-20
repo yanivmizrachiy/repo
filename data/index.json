@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T07:07:53.316Z",
+  "generated_at": "2026-06-20T08:22:54.741Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,22 +11,6 @@
   "repositories": [
     {
       "number": 1,
-      "name": "repo",
-      "url": "https://github.com/yanivmizrachiy/repo",
-      "category_he": "אינדקס ריפואים",
-      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
-      "exists_he": "README.md, docs, STATE, .github/workflows",
-      "status_he": "פעיל",
-      "readiness_percent": 65,
-      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
-      "language": "JavaScript",
-      "pushed_at": "2026-06-20T05:44:29Z",
-      "updated_at": "2026-06-20T05:44:32Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 2,
       "name": "my-assistant",
       "url": "https://github.com/yanivmizrachiy/my-assistant",
       "category_he": "עוזר אישי / אוטומציה",
@@ -36,8 +20,24 @@
       "readiness_percent": 80,
       "notes_he": "אחד מריפויי התשתית המרכזיים שלך.",
       "language": "HTML",
-      "pushed_at": "2026-06-20T00:52:44Z",
-      "updated_at": "2026-06-20T00:52:48Z",
+      "pushed_at": "2026-06-20T07:24:29Z",
+      "updated_at": "2026-06-20T07:24:33Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
+      "name": "repo",
+      "url": "https://github.com/yanivmizrachiy/repo",
+      "category_he": "אינדקס ריפואים",
+      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
+      "exists_he": "README.md, docs, STATE, .github/workflows",
+      "status_he": "פעיל",
+      "readiness_percent": 65,
+      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
+      "language": "JavaScript",
+      "pushed_at": "2026-06-20T07:07:57Z",
+      "updated_at": "2026-06-20T07:08:01Z",
       "default_branch": "main",
       "archived": false
     },
