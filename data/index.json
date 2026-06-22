@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T16:57:01.897Z",
+  "generated_at": "2026-06-22T18:26:26.558Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,8 +20,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-06-22T15:06:43Z",
-      "updated_at": "2026-06-22T15:08:57Z",
+      "pushed_at": "2026-06-22T16:57:06Z",
+      "updated_at": "2026-06-22T16:57:11Z",
       "default_branch": "main",
       "archived": false
     },
@@ -143,7 +143,7 @@
       "url": "https://github.com/yanivmizrachiy/parabula-next",
       "category_he": "מתמטיקה / פרבולות",
       "summary_he": "פרויקט פרבולות מתקדם עם דפי עבודה, ממשק מובייל, Preview והדפסה.",
-      "exists_he": "README.md, PROJECT_RULES.md",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
       "status_he": "פעיל",
       "readiness_percent": 75,
       "notes_he": "לא לסמן כמושלם בלי אימות מובייל אמיתי.",
