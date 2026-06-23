@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T05:21:51.964Z",
+  "generated_at": "2026-06-23T06:47:05.321Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,38 @@
   "repositories": [
     {
       "number": 1,
+      "name": "maagar",
+      "url": "https://github.com/yanivmizrachiy/maagar",
+      "category_he": "מאגר חומרים",
+      "summary_he": "מאגר חומרים, קבצים וקישורים עם מטאדאטה ואינדקס לארגון חומרי לימוד ומקורות.",
+      "exists_he": "README.md, RULES.md, docs, STATE",
+      "status_he": "פעיל",
+      "readiness_percent": 75,
+      "notes_he": "חשוב לארגון חומרי לימוד.",
+      "language": "HTML",
+      "pushed_at": "2026-06-23T06:41:10Z",
+      "updated_at": "2026-06-03T15:45:04Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
+      "name": "TALMID",
+      "url": "https://github.com/yanivmizrachiy/TALMID",
+      "category_he": "מערכת תלמידים",
+      "summary_he": "ריפו בנושא תלמידים או מידע לימודי.",
+      "exists_he": "RULES.md, STATE, .github/workflows",
+      "status_he": "חלקי",
+      "readiness_percent": 40,
+      "notes_he": "דורש סריקה עמוקה כדי לקבוע תפקיד מדויק.",
+      "language": "HTML",
+      "pushed_at": "2026-06-23T06:40:02Z",
+      "updated_at": "2026-06-23T06:40:07Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 3,
       "name": "my-assistant",
       "url": "https://github.com/yanivmizrachiy/my-assistant",
       "category_he": "עוזר אישי / אוטומציה",
@@ -20,13 +52,13 @@
       "readiness_percent": 80,
       "notes_he": "אחד מריפויי התשתית המרכזיים שלך.",
       "language": "HTML",
-      "pushed_at": "2026-06-23T04:50:28Z",
-      "updated_at": "2026-06-23T04:50:33Z",
+      "pushed_at": "2026-06-23T06:23:11Z",
+      "updated_at": "2026-06-23T05:54:40Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 2,
+      "number": 4,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -36,13 +68,13 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-06-23T03:45:37Z",
-      "updated_at": "2026-06-23T03:45:41Z",
+      "pushed_at": "2026-06-23T05:21:53Z",
+      "updated_at": "2026-06-23T05:21:57Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 3,
+      "number": 5,
       "name": "bbb",
       "url": "https://github.com/yanivmizrachiy/bbb",
       "category_he": "חדש / לא מסווג",
@@ -58,23 +90,7 @@
       "archived": false
     },
     {
-      "number": 4,
-      "name": "TALMID",
-      "url": "https://github.com/yanivmizrachiy/TALMID",
-      "category_he": "מערכת תלמידים",
-      "summary_he": "ריפו בנושא תלמידים או מידע לימודי.",
-      "exists_he": "RULES.md, STATE, .github/workflows",
-      "status_he": "חלקי",
-      "readiness_percent": 40,
-      "notes_he": "דורש סריקה עמוקה כדי לקבוע תפקיד מדויק.",
-      "language": "HTML",
-      "pushed_at": "2026-06-22T10:50:01Z",
-      "updated_at": "2026-06-22T10:50:04Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 5,
+      "number": 6,
       "name": "gmail",
       "url": "https://github.com/yanivmizrachiy/gmail",
       "category_he": "חדש / לא מסווג",
@@ -90,7 +106,7 @@
       "archived": false
     },
     {
-      "number": 6,
+      "number": 7,
       "name": "targilim",
       "url": "https://github.com/yanivmizrachiy/targilim",
       "category_he": "חדש / לא מסווג",
@@ -106,7 +122,7 @@
       "archived": false
     },
     {
-      "number": 7,
+      "number": 8,
       "name": "lele",
       "url": "https://github.com/yanivmizrachiy/lele",
       "category_he": "חדש / לא מסווג",
@@ -122,12 +138,12 @@
       "archived": false
     },
     {
-      "number": 8,
+      "number": 9,
       "name": "i-vadaut-ai-studio",
       "url": "https://github.com/yanivmizrachiy/i-vadaut-ai-studio",
       "category_he": "חדש / לא מסווג",
       "summary_he": "Printable Hebrew mathematics worksheet app for uncertainty, statistics, graphs, data representation, and basic probability, based on the i-vadaut source PDF.",
-      "exists_he": "README.md, RULES.md, docs",
+      "exists_he": "README.md",
       "status_he": "פעיל",
       "readiness_percent": 60,
       "notes_he": "",
@@ -138,7 +154,7 @@
       "archived": false
     },
     {
-      "number": 9,
+      "number": 10,
       "name": "parabula-next",
       "url": "https://github.com/yanivmizrachiy/parabula-next",
       "category_he": "מתמטיקה / פרבולות",
@@ -154,7 +170,7 @@
       "archived": false
     },
     {
-      "number": 10,
+      "number": 11,
       "name": "www",
       "url": "https://github.com/yanivmizrachiy/www",
       "category_he": "Moodle / מוצר מורה",
@@ -170,7 +186,7 @@
       "archived": false
     },
     {
-      "number": 11,
+      "number": 12,
       "name": "i-vadaut",
       "url": "https://github.com/yanivmizrachiy/i-vadaut",
       "category_he": "חדש / לא מסווג",
@@ -186,7 +202,7 @@
       "archived": false
     },
     {
-      "number": 12,
+      "number": 13,
       "name": "stats-question-generator",
       "url": "https://github.com/yanivmizrachiy/stats-question-generator",
       "category_he": "חדש / לא מסווג",
@@ -202,7 +218,7 @@
       "archived": false
     },
     {
-      "number": 13,
+      "number": 14,
       "name": "hishtalmut",
       "url": "https://github.com/yanivmizrachiy/hishtalmut",
       "category_he": "השתלמות",
@@ -218,7 +234,7 @@
       "archived": false
     },
     {
-      "number": 14,
+      "number": 15,
       "name": "parabula2",
       "url": "https://github.com/yanivmizrachiy/parabula2",
       "category_he": "מתמטיקה / פרבולות",
@@ -234,7 +250,7 @@
       "archived": false
     },
     {
-      "number": 15,
+      "number": 16,
       "name": "yaniv-gpt-journal",
       "url": "https://github.com/yanivmizrachiy/yaniv-gpt-journal",
       "category_he": "חדש / לא מסווג",
@@ -246,22 +262,6 @@
       "language": "HTML",
       "pushed_at": "2026-06-08T15:11:36Z",
       "updated_at": "2026-06-08T15:13:09Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 16,
-      "name": "maagar",
-      "url": "https://github.com/yanivmizrachiy/maagar",
-      "category_he": "מאגר חומרים",
-      "summary_he": "מאגר חומרים, קבצים וקישורים עם מטאדאטה ואינדקס לארגון חומרי לימוד ומקורות.",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
-      "status_he": "פעיל",
-      "readiness_percent": 75,
-      "notes_he": "חשוב לארגון חומרי לימוד.",
-      "language": "HTML",
-      "pushed_at": "2026-06-03T15:41:59Z",
-      "updated_at": "2026-06-03T15:45:04Z",
       "default_branch": "main",
       "archived": false
     },
