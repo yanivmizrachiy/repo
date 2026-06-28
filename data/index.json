@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T19:45:46.133Z",
+  "generated_at": "2026-06-28T20:27:22.689Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "bbb",
+      "url": "https://github.com/yanivmizrachiy/bbb",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "אין עדיין תיאור עברי מאומת.",
+      "exists_he": "README.md",
+      "status_he": "כמעט ריק",
+      "readiness_percent": 10,
+      "notes_he": "",
+      "language": "Python",
+      "pushed_at": "2026-06-28T20:16:06Z",
+      "updated_at": "2026-06-28T20:16:09Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -20,13 +36,13 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-06-28T19:09:41Z",
-      "updated_at": "2026-06-28T19:09:45Z",
+      "pushed_at": "2026-06-28T19:45:47Z",
+      "updated_at": "2026-06-28T19:45:50Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "my-assistant",
       "url": "https://github.com/yanivmizrachiy/my-assistant",
       "category_he": "עוזר אישי / אוטומציה",
@@ -42,7 +58,7 @@
       "archived": false
     },
     {
-      "number": 3,
+      "number": 4,
       "name": "TALMID",
       "url": "https://github.com/yanivmizrachiy/TALMID",
       "category_he": "מערכת תלמידים",
@@ -54,22 +70,6 @@
       "language": "HTML",
       "pushed_at": "2026-06-28T17:14:42Z",
       "updated_at": "2026-06-28T17:14:44Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 4,
-      "name": "bbb",
-      "url": "https://github.com/yanivmizrachiy/bbb",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": "README.md",
-      "status_he": "כמעט ריק",
-      "readiness_percent": 10,
-      "notes_he": "",
-      "language": "Python",
-      "pushed_at": "2026-06-28T17:06:47Z",
-      "updated_at": "2026-06-28T17:06:51Z",
       "default_branch": "main",
       "archived": false
     },
