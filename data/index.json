@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T13:13:52.193Z",
+  "generated_at": "2026-06-30T14:00:27.076Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "repo",
+      "url": "https://github.com/yanivmizrachiy/repo",
+      "category_he": "אינדקס ריפואים",
+      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
+      "exists_he": "README.md, docs, STATE, .github/workflows",
+      "status_he": "פעיל",
+      "readiness_percent": 65,
+      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
+      "language": "JavaScript",
+      "pushed_at": "2026-06-30T13:13:53Z",
+      "updated_at": "2026-06-30T13:14:00Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "TALMID",
       "url": "https://github.com/yanivmizrachiy/TALMID",
       "category_he": "מערכת תלמידים",
@@ -26,7 +42,7 @@
       "archived": false
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "my-assistant",
       "url": "https://github.com/yanivmizrachiy/my-assistant",
       "category_he": "עוזר אישי / אוטומציה",
@@ -38,22 +54,6 @@
       "language": "HTML",
       "pushed_at": "2026-06-30T12:45:17Z",
       "updated_at": "2026-06-30T12:45:22Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 3,
-      "name": "repo",
-      "url": "https://github.com/yanivmizrachiy/repo",
-      "category_he": "אינדקס ריפואים",
-      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
-      "exists_he": "README.md, docs, STATE, .github/workflows",
-      "status_he": "פעיל",
-      "readiness_percent": 65,
-      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
-      "language": "JavaScript",
-      "pushed_at": "2026-06-30T12:26:42Z",
-      "updated_at": "2026-06-30T12:26:49Z",
       "default_branch": "main",
       "archived": false
     },
