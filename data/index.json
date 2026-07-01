@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T02:19:39.550Z",
+  "generated_at": "2026-07-01T03:46:00.715Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "TALMID",
+      "url": "https://github.com/yanivmizrachiy/TALMID",
+      "category_he": "מערכת תלמידים",
+      "summary_he": "ריפו בנושא תלמידים או מידע לימודי.",
+      "exists_he": "README.md, RULES.md, STATE, .github/workflows",
+      "status_he": "חלקי",
+      "readiness_percent": 40,
+      "notes_he": "דורש סריקה עמוקה כדי לקבוע תפקיד מדויק.",
+      "language": "HTML",
+      "pushed_at": "2026-07-01T03:37:50Z",
+      "updated_at": "2026-07-01T03:37:54Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -20,13 +36,13 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-07-01T01:23:07Z",
-      "updated_at": "2026-07-01T01:23:11Z",
+      "pushed_at": "2026-07-01T02:19:42Z",
+      "updated_at": "2026-07-01T02:19:45Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "my-assistant",
       "url": "https://github.com/yanivmizrachiy/my-assistant",
       "category_he": "עוזר אישי / אוטומציה",
@@ -38,22 +54,6 @@
       "language": "HTML",
       "pushed_at": "2026-07-01T00:54:03Z",
       "updated_at": "2026-07-01T00:54:08Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 3,
-      "name": "TALMID",
-      "url": "https://github.com/yanivmizrachiy/TALMID",
-      "category_he": "מערכת תלמידים",
-      "summary_he": "ריפו בנושא תלמידים או מידע לימודי.",
-      "exists_he": "README.md, RULES.md, STATE, .github/workflows",
-      "status_he": "חלקי",
-      "readiness_percent": 40,
-      "notes_he": "דורש סריקה עמוקה כדי לקבוע תפקיד מדויק.",
-      "language": "HTML",
-      "pushed_at": "2026-06-30T20:40:19Z",
-      "updated_at": "2026-06-30T20:40:23Z",
       "default_branch": "main",
       "archived": false
     },
