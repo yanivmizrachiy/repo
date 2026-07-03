@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T21:08:01.686Z",
+  "generated_at": "2026-07-03T21:39:07.758Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,8 +20,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-07-03T20:38:34Z",
-      "updated_at": "2026-07-03T20:38:37Z",
+      "pushed_at": "2026-07-03T21:08:05Z",
+      "updated_at": "2026-07-03T21:08:09Z",
       "default_branch": "main",
       "archived": false
     },
@@ -143,7 +143,7 @@
       "url": "https://github.com/yanivmizrachiy/i-vadaut-ai-studio",
       "category_he": "חדש / לא מסווג",
       "summary_he": "Printable Hebrew mathematics worksheet app for uncertainty, statistics, graphs, data representation, and basic probability, based on the i-vadaut source PDF.",
-      "exists_he": "README.md, RULES.md",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
       "status_he": "פעיל",
       "readiness_percent": 60,
       "notes_he": "",
