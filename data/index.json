@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T18:12:19.412Z",
+  "generated_at": "2026-07-07T18:57:28.994Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "my-assistant",
+      "url": "https://github.com/yanivmizrachiy/my-assistant",
+      "category_he": "עוזר אישי / אוטומציה",
+      "summary_he": "מרכז עוזר אישי ואוטומציות: תיעוד, STATE, סקריפטים וחיבורי שליטה בין GitHub, Termux, Windows וכלים נוספים.",
+      "exists_he": "README.md, RULES.md, docs, STATE, .github/workflows",
+      "status_he": "פעיל",
+      "readiness_percent": 80,
+      "notes_he": "אחד מריפויי התשתית המרכזיים שלך.",
+      "language": "HTML",
+      "pushed_at": "2026-07-07T18:43:14Z",
+      "updated_at": "2026-07-07T18:43:18Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -20,13 +36,13 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-07-07T17:15:48Z",
-      "updated_at": "2026-07-07T17:16:33Z",
+      "pushed_at": "2026-07-07T18:12:20Z",
+      "updated_at": "2026-07-07T18:12:35Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "TALMID",
       "url": "https://github.com/yanivmizrachiy/TALMID",
       "category_he": "מערכת תלמידים",
@@ -38,22 +54,6 @@
       "language": "JavaScript",
       "pushed_at": "2026-07-07T17:11:21Z",
       "updated_at": "2026-07-07T13:47:15Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 3,
-      "name": "my-assistant",
-      "url": "https://github.com/yanivmizrachiy/my-assistant",
-      "category_he": "עוזר אישי / אוטומציה",
-      "summary_he": "מרכז עוזר אישי ואוטומציות: תיעוד, STATE, סקריפטים וחיבורי שליטה בין GitHub, Termux, Windows וכלים נוספים.",
-      "exists_he": "README.md, RULES.md, docs, STATE, .github/workflows",
-      "status_he": "פעיל",
-      "readiness_percent": 80,
-      "notes_he": "אחד מריפויי התשתית המרכזיים שלך.",
-      "language": "HTML",
-      "pushed_at": "2026-07-07T12:52:23Z",
-      "updated_at": "2026-07-07T12:52:59Z",
       "default_branch": "main",
       "archived": false
     },
