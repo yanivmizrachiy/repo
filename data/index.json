@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T23:08:21.530Z",
+  "generated_at": "2026-07-08T23:37:44.521Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,8 +20,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-07-08T22:36:22Z",
-      "updated_at": "2026-07-08T22:36:26Z",
+      "pushed_at": "2026-07-08T23:08:22Z",
+      "updated_at": "2026-07-08T23:08:26Z",
       "default_branch": "main",
       "archived": false
     },
@@ -143,7 +143,7 @@
       "url": "https://github.com/yanivmizrachiy/targilim",
       "category_he": "חדש / לא מסווג",
       "summary_he": "שיעור פרטי - אתר חינמי לניהול שיעורים פרטיים ללא דמו",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
+      "exists_he": "README.md, PROJECT_RULES.md, RULES.md",
       "status_he": "פעיל",
       "readiness_percent": 75,
       "notes_he": "",
