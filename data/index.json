@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T04:08:09.082Z",
+  "generated_at": "2026-07-09T06:57:34.001Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "www",
+      "url": "https://github.com/yanivmizrachiy/www",
+      "category_he": "Moodle / מוצר מורה",
+      "summary_he": "ריפו Moodle Teacher Hub הפעיל לפי העבודה האחרונה: מוצר RTL למורים מעל Moodle, Render, Supabase ו־LTI.",
+      "exists_he": "README.md, PROJECT_RULES.md, RULES.md, docs, STATE, .github/workflows, package.json",
+      "status_he": "פעיל",
+      "readiness_percent": 78,
+      "notes_he": "Teacher release עדיין לא מאושר בלי בדיקות מלאות.",
+      "language": "TypeScript",
+      "pushed_at": "2026-07-09T06:18:49Z",
+      "updated_at": "2026-07-06T17:06:48Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -20,13 +36,13 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-07-09T02:42:17Z",
-      "updated_at": "2026-07-09T02:42:21Z",
+      "pushed_at": "2026-07-09T04:08:09Z",
+      "updated_at": "2026-07-09T04:08:13Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "my-assistant",
       "url": "https://github.com/yanivmizrachiy/my-assistant",
       "category_he": "עוזר אישי / אוטומציה",
@@ -38,22 +54,6 @@
       "language": "HTML",
       "pushed_at": "2026-07-09T00:40:37Z",
       "updated_at": "2026-07-09T00:40:41Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 3,
-      "name": "www",
-      "url": "https://github.com/yanivmizrachiy/www",
-      "category_he": "Moodle / מוצר מורה",
-      "summary_he": "ריפו Moodle Teacher Hub הפעיל לפי העבודה האחרונה: מוצר RTL למורים מעל Moodle, Render, Supabase ו־LTI.",
-      "exists_he": "README.md, PROJECT_RULES.md, RULES.md, docs, STATE, .github/workflows, package.json",
-      "status_he": "פעיל",
-      "readiness_percent": 78,
-      "notes_he": "Teacher release עדיין לא מאושר בלי בדיקות מלאות.",
-      "language": "TypeScript",
-      "pushed_at": "2026-07-08T19:52:18Z",
-      "updated_at": "2026-07-06T17:06:48Z",
       "default_branch": "main",
       "archived": false
     },
@@ -143,7 +143,7 @@
       "url": "https://github.com/yanivmizrachiy/targilim",
       "category_he": "חדש / לא מסווג",
       "summary_he": "שיעור פרטי - אתר חינמי לניהול שיעורים פרטיים ללא דמו",
-      "exists_he": "README.md",
+      "exists_he": "README.md, PROJECT_RULES.md, RULES.md",
       "status_he": "פעיל",
       "readiness_percent": 75,
       "notes_he": "",
