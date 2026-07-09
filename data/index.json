@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T00:08:31.004Z",
+  "generated_at": "2026-07-09T00:59:26.505Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "my-assistant",
+      "url": "https://github.com/yanivmizrachiy/my-assistant",
+      "category_he": "עוזר אישי / אוטומציה",
+      "summary_he": "מרכז עוזר אישי ואוטומציות: תיעוד, STATE, סקריפטים וחיבורי שליטה בין GitHub, Termux, Windows וכלים נוספים.",
+      "exists_he": "README.md, RULES.md, docs, STATE, .github/workflows",
+      "status_he": "פעיל",
+      "readiness_percent": 80,
+      "notes_he": "אחד מריפויי התשתית המרכזיים שלך.",
+      "language": "HTML",
+      "pushed_at": "2026-07-09T00:40:37Z",
+      "updated_at": "2026-07-09T00:40:41Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -20,13 +36,13 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-07-08T23:38:07Z",
-      "updated_at": "2026-07-08T23:38:11Z",
+      "pushed_at": "2026-07-09T00:08:32Z",
+      "updated_at": "2026-07-09T00:08:36Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "www",
       "url": "https://github.com/yanivmizrachiy/www",
       "category_he": "Moodle / מוצר מורה",
@@ -38,22 +54,6 @@
       "language": "TypeScript",
       "pushed_at": "2026-07-08T19:52:18Z",
       "updated_at": "2026-07-06T17:06:48Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 3,
-      "name": "my-assistant",
-      "url": "https://github.com/yanivmizrachiy/my-assistant",
-      "category_he": "עוזר אישי / אוטומציה",
-      "summary_he": "מרכז עוזר אישי ואוטומציות: תיעוד, STATE, סקריפטים וחיבורי שליטה בין GitHub, Termux, Windows וכלים נוספים.",
-      "exists_he": "README.md, RULES.md, docs, STATE, .github/workflows",
-      "status_he": "פעיל",
-      "readiness_percent": 80,
-      "notes_he": "אחד מריפויי התשתית המרכזיים שלך.",
-      "language": "HTML",
-      "pushed_at": "2026-07-08T18:32:19Z",
-      "updated_at": "2026-07-08T18:32:25Z",
       "default_branch": "main",
       "archived": false
     },
@@ -143,7 +143,7 @@
       "url": "https://github.com/yanivmizrachiy/targilim",
       "category_he": "חדש / לא מסווג",
       "summary_he": "שיעור פרטי - אתר חינמי לניהול שיעורים פרטיים ללא דמו",
-      "exists_he": "README.md, PROJECT_RULES.md, RULES.md",
+      "exists_he": "README.md, PROJECT_RULES.md",
       "status_he": "פעיל",
       "readiness_percent": 75,
       "notes_he": "",
