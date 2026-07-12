@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T11:40:13.341Z",
+  "generated_at": "2026-07-12T12:06:05.360Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,8 +20,8 @@
       "readiness_percent": 75,
       "notes_he": "לא לסמן כמושלם בלי אימות מובייל אמיתי.",
       "language": "HTML",
-      "pushed_at": "2026-07-12T11:35:36Z",
-      "updated_at": "2026-07-12T11:35:45Z",
+      "pushed_at": "2026-07-12T11:56:38Z",
+      "updated_at": "2026-07-12T11:56:44Z",
       "default_branch": "main",
       "archived": false
     },
@@ -36,7 +36,7 @@
       "readiness_percent": 78,
       "notes_he": "Teacher release עדיין לא מאושר בלי בדיקות מלאות.",
       "language": "TypeScript",
-      "pushed_at": "2026-07-12T11:31:54Z",
+      "pushed_at": "2026-07-12T11:44:12Z",
       "updated_at": "2026-07-06T17:06:48Z",
       "default_branch": "main",
       "archived": false
@@ -52,8 +52,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-07-12T10:44:55Z",
-      "updated_at": "2026-07-12T10:45:05Z",
+      "pushed_at": "2026-07-12T11:40:30Z",
+      "updated_at": "2026-07-12T11:40:42Z",
       "default_branch": "main",
       "archived": false
     },
@@ -143,7 +143,7 @@
       "url": "https://github.com/yanivmizrachiy/i-vadaut",
       "category_he": "חדש / לא מסווג",
       "summary_he": "אי ודאות במתמטיקה - חומרי הוראה, דפי עבודה, שאלות ופעילויות",
-      "exists_he": "README.md",
+      "exists_he": "README.md, RULES.md",
       "status_he": "פעיל",
       "readiness_percent": 60,
       "notes_he": "",
