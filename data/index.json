@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T12:42:07.147Z",
+  "generated_at": "2026-07-14T13:12:52.785Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,8 +20,8 @@
       "readiness_percent": 70,
       "notes_he": "צריך לוודא שכל הצבעים והכפתורים אמיתיים.",
       "language": "",
-      "pushed_at": "2026-07-14T12:39:37Z",
-      "updated_at": "2026-07-14T12:36:35Z",
+      "pushed_at": "2026-07-14T13:11:42Z",
+      "updated_at": "2026-07-14T12:51:11Z",
       "default_branch": "main",
       "archived": false
     },
@@ -36,8 +36,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-07-14T12:01:48Z",
-      "updated_at": "2026-07-14T12:02:17Z",
+      "pushed_at": "2026-07-14T12:42:09Z",
+      "updated_at": "2026-07-14T12:42:18Z",
       "default_branch": "main",
       "archived": false
     },
