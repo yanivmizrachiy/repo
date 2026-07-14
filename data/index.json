@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T12:01:47.613Z",
+  "generated_at": "2026-07-14T12:42:07.147Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "colors",
+      "url": "https://github.com/yanivmizrachiy/colors",
+      "category_he": "עיצוב / צבעים",
+      "summary_he": "ספריית עיצוב וצבעים: רכיבי עיצוב, פלטות, כפתורים ופרומפטים לשימוש חוזר באתרי GitHub Pages.",
+      "exists_he": "README.md, docs",
+      "status_he": "פעיל",
+      "readiness_percent": 70,
+      "notes_he": "צריך לוודא שכל הצבעים והכפתורים אמיתיים.",
+      "language": "",
+      "pushed_at": "2026-07-14T12:39:37Z",
+      "updated_at": "2026-07-14T12:36:35Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -20,13 +36,13 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-07-14T11:30:21Z",
-      "updated_at": "2026-07-14T11:30:29Z",
+      "pushed_at": "2026-07-14T12:01:48Z",
+      "updated_at": "2026-07-14T12:02:17Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "parabula-next",
       "url": "https://github.com/yanivmizrachiy/parabula-next",
       "category_he": "מתמטיקה / פרבולות",
@@ -42,7 +58,7 @@
       "archived": false
     },
     {
-      "number": 3,
+      "number": 4,
       "name": "www",
       "url": "https://github.com/yanivmizrachiy/www",
       "category_he": "Moodle / מוצר מורה",
@@ -58,7 +74,7 @@
       "archived": false
     },
     {
-      "number": 4,
+      "number": 5,
       "name": "bbb",
       "url": "https://github.com/yanivmizrachiy/bbb",
       "category_he": "חדש / לא מסווג",
@@ -74,7 +90,7 @@
       "archived": false
     },
     {
-      "number": 5,
+      "number": 6,
       "name": "maagar",
       "url": "https://github.com/yanivmizrachiy/maagar",
       "category_he": "מאגר חומרים",
@@ -90,7 +106,7 @@
       "archived": false
     },
     {
-      "number": 6,
+      "number": 7,
       "name": "targilim",
       "url": "https://github.com/yanivmizrachiy/targilim",
       "category_he": "חדש / לא מסווג",
@@ -106,7 +122,7 @@
       "archived": false
     },
     {
-      "number": 7,
+      "number": 8,
       "name": "lele",
       "url": "https://github.com/yanivmizrachiy/lele",
       "category_he": "חדש / לא מסווג",
@@ -122,12 +138,12 @@
       "archived": false
     },
     {
-      "number": 8,
+      "number": 9,
       "name": "i-vadaut-ai-studio",
       "url": "https://github.com/yanivmizrachiy/i-vadaut-ai-studio",
       "category_he": "חדש / לא מסווג",
       "summary_he": "Printable Hebrew mathematics worksheet app for uncertainty, statistics, graphs, data representation, and basic probability, based on the i-vadaut source PDF.",
-      "exists_he": "README.md",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
       "status_he": "פעיל",
       "readiness_percent": 60,
       "notes_he": "",
@@ -138,7 +154,7 @@
       "archived": false
     },
     {
-      "number": 9,
+      "number": 10,
       "name": "i-vadaut",
       "url": "https://github.com/yanivmizrachiy/i-vadaut",
       "category_he": "חדש / לא מסווג",
@@ -154,7 +170,7 @@
       "archived": false
     },
     {
-      "number": 10,
+      "number": 11,
       "name": "stats-question-generator",
       "url": "https://github.com/yanivmizrachiy/stats-question-generator",
       "category_he": "חדש / לא מסווג",
@@ -170,7 +186,7 @@
       "archived": false
     },
     {
-      "number": 11,
+      "number": 12,
       "name": "hishtalmut",
       "url": "https://github.com/yanivmizrachiy/hishtalmut",
       "category_he": "השתלמות",
@@ -186,7 +202,7 @@
       "archived": false
     },
     {
-      "number": 12,
+      "number": 13,
       "name": "parabula2",
       "url": "https://github.com/yanivmizrachiy/parabula2",
       "category_he": "מתמטיקה / פרבולות",
@@ -202,7 +218,7 @@
       "archived": false
     },
     {
-      "number": 13,
+      "number": 14,
       "name": "yaniv-gpt-journal",
       "url": "https://github.com/yanivmizrachiy/yaniv-gpt-journal",
       "category_he": "חדש / לא מסווג",
@@ -218,7 +234,7 @@
       "archived": false
     },
     {
-      "number": 14,
+      "number": 15,
       "name": "github-journal",
       "url": "https://github.com/yanivmizrachiy/github-journal",
       "category_he": "יומן / תיעוד",
@@ -234,7 +250,7 @@
       "archived": false
     },
     {
-      "number": 15,
+      "number": 16,
       "name": "moodle-teacher-hub",
       "url": "https://github.com/yanivmizrachiy/moodle-teacher-hub",
       "category_he": "Moodle / מורים",
@@ -246,22 +262,6 @@
       "language": "HTML",
       "pushed_at": "2026-06-01T11:13:32Z",
       "updated_at": "2026-04-27T20:48:13Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 16,
-      "name": "colors",
-      "url": "https://github.com/yanivmizrachiy/colors",
-      "category_he": "עיצוב / צבעים",
-      "summary_he": "ספריית עיצוב וצבעים: רכיבי עיצוב, פלטות, כפתורים ופרומפטים לשימוש חוזר באתרי GitHub Pages.",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
-      "status_he": "פעיל",
-      "readiness_percent": 70,
-      "notes_he": "צריך לוודא שכל הצבעים והכפתורים אמיתיים.",
-      "language": "JavaScript",
-      "pushed_at": "2026-05-17T10:42:01Z",
-      "updated_at": "2026-05-17T10:42:05Z",
       "default_branch": "main",
       "archived": false
     },
