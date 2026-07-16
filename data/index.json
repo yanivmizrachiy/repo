@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-16T15:58:58.437Z",
+  "generated_at": "2026-07-16T16:36:04.234Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
   "repo_url": "https://github.com/yanivmizrachiy/repo",
-  "public_count": 21,
+  "public_count": 20,
   "private_hidden": 12,
-  "total_known": 33,
+  "total_known": 32,
   "notice_he": "עודכן אוטומטית דרך GitHub Actions לפי רשימת הריפואים הציבוריים ב-GitHub. לריפואים פרטיים נדרש REPO_INDEX_TOKEN.",
   "repositories": [
     {
@@ -20,8 +20,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-07-16T15:19:41Z",
-      "updated_at": "2026-07-16T15:21:13Z",
+      "pushed_at": "2026-07-16T15:59:03Z",
+      "updated_at": "2026-07-16T15:59:13Z",
       "default_branch": "main",
       "archived": false
     },
@@ -95,7 +95,7 @@
       "url": "https://github.com/yanivmizrachiy/bbb",
       "category_he": "חדש / לא מסווג",
       "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": "README.md",
+      "exists_he": "README.md, .github/workflows",
       "status_he": "כמעט ריק",
       "readiness_percent": 10,
       "notes_he": "",
@@ -111,7 +111,7 @@
       "url": "https://github.com/yanivmizrachiy/targilim",
       "category_he": "חדש / לא מסווג",
       "summary_he": "שיעור פרטי - אתר חינמי לניהול שיעורים פרטיים ללא דמו",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
+      "exists_he": "README.md, PROJECT_RULES.md, RULES.md, docs, STATE, .github/workflows, package.json",
       "status_he": "פעיל",
       "readiness_percent": 75,
       "notes_he": "",
@@ -127,7 +127,7 @@
       "url": "https://github.com/yanivmizrachiy/lele",
       "category_he": "חדש / לא מסווג",
       "summary_he": "פרוייקט אי וודאות 17/6/25",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
+      "exists_he": "README.md, RULES.md, package.json",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "",
@@ -143,7 +143,7 @@
       "url": "https://github.com/yanivmizrachiy/i-vadaut-ai-studio",
       "category_he": "חדש / לא מסווג",
       "summary_he": "Printable Hebrew mathematics worksheet app for uncertainty, statistics, graphs, data representation, and basic probability, based on the i-vadaut source PDF.",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
+      "exists_he": "README.md",
       "status_he": "פעיל",
       "readiness_percent": 60,
       "notes_he": "",
@@ -187,22 +187,6 @@
     },
     {
       "number": 12,
-      "name": "hishtalmut",
-      "url": "https://github.com/yanivmizrachiy/hishtalmut",
-      "category_he": "השתלמות",
-      "summary_he": "ריפו השתלמות או אתר חומרי השתלמות.",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
-      "status_he": "חלקי",
-      "readiness_percent": 40,
-      "notes_he": "צריך להבדיל בינו לבין hishtalmut-215195.",
-      "language": "HTML",
-      "pushed_at": "2026-06-10T10:36:59Z",
-      "updated_at": "2026-06-10T10:37:03Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 13,
       "name": "parabula2",
       "url": "https://github.com/yanivmizrachiy/parabula2",
       "category_he": "מתמטיקה / פרבולות",
@@ -218,7 +202,7 @@
       "archived": false
     },
     {
-      "number": 14,
+      "number": 13,
       "name": "yaniv-gpt-journal",
       "url": "https://github.com/yanivmizrachiy/yaniv-gpt-journal",
       "category_he": "חדש / לא מסווג",
@@ -234,7 +218,7 @@
       "archived": false
     },
     {
-      "number": 15,
+      "number": 14,
       "name": "github-journal",
       "url": "https://github.com/yanivmizrachiy/github-journal",
       "category_he": "יומן / תיעוד",
@@ -250,7 +234,7 @@
       "archived": false
     },
     {
-      "number": 16,
+      "number": 15,
       "name": "moodle-teacher-hub",
       "url": "https://github.com/yanivmizrachiy/moodle-teacher-hub",
       "category_he": "Moodle / מורים",
@@ -266,7 +250,7 @@
       "archived": false
     },
     {
-      "number": 17,
+      "number": 16,
       "name": "luz-teddy",
       "url": "https://github.com/yanivmizrachiy/luz-teddy",
       "category_he": "חדש / לא מסווג",
@@ -282,7 +266,7 @@
       "archived": false
     },
     {
-      "number": 18,
+      "number": 17,
       "name": "homer-mivchan-tet1-madait",
       "url": "https://github.com/yanivmizrachiy/homer-mivchan-tet1-madait",
       "category_he": "חומר למבחן",
@@ -298,7 +282,7 @@
       "archived": false
     },
     {
-      "number": 19,
+      "number": 18,
       "name": "mifmar-z-qa",
       "url": "https://github.com/yanivmizrachiy/mifmar-z-qa",
       "category_he": "מתמטיקה / QA",
@@ -314,7 +298,7 @@
       "archived": false
     },
     {
-      "number": 20,
+      "number": 19,
       "name": "hishtalmut-215195",
       "url": "https://github.com/yanivmizrachiy/hishtalmut-215195",
       "category_he": "השתלמות 215195",
@@ -330,7 +314,7 @@
       "archived": false
     },
     {
-      "number": 21,
+      "number": 20,
       "name": "smartschool-hebrew-voice-notes",
       "url": "https://github.com/yanivmizrachiy/smartschool-hebrew-voice-notes",
       "category_he": "בית ספר / קול",
