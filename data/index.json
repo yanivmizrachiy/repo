@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T21:17:13.078Z",
+  "generated_at": "2026-07-18T21:46:24.913Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,22 +11,6 @@
   "repositories": [
     {
       "number": 1,
-      "name": "repo",
-      "url": "https://github.com/yanivmizrachiy/repo",
-      "category_he": "אינדקס ריפואים",
-      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
-      "exists_he": "README.md, docs, STATE, .github/workflows",
-      "status_he": "פעיל",
-      "readiness_percent": 65,
-      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
-      "language": "JavaScript",
-      "pushed_at": "2026-07-18T20:45:52Z",
-      "updated_at": "2026-07-18T20:45:56Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 2,
       "name": "parabula-next",
       "url": "https://github.com/yanivmizrachiy/parabula-next",
       "category_he": "מתמטיקה / פרבולות",
@@ -36,8 +20,24 @@
       "readiness_percent": 75,
       "notes_he": "לא לסמן כמושלם בלי אימות מובייל אמיתי.",
       "language": "HTML",
-      "pushed_at": "2026-07-18T20:31:40Z",
-      "updated_at": "2026-07-18T20:31:45Z",
+      "pushed_at": "2026-07-18T21:45:33Z",
+      "updated_at": "2026-07-18T21:36:46Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
+      "name": "repo",
+      "url": "https://github.com/yanivmizrachiy/repo",
+      "category_he": "אינדקס ריפואים",
+      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
+      "exists_he": "README.md, docs, STATE, .github/workflows",
+      "status_he": "פעיל",
+      "readiness_percent": 65,
+      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
+      "language": "JavaScript",
+      "pushed_at": "2026-07-18T21:17:42Z",
+      "updated_at": "2026-07-18T21:17:46Z",
       "default_branch": "main",
       "archived": false
     },
