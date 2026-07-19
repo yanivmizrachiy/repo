@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T16:47:18.634Z",
+  "generated_at": "2026-07-19T17:21:57.665Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,8 +20,8 @@
       "readiness_percent": 75,
       "notes_he": "לא לסמן כמושלם בלי אימות מובייל אמיתי.",
       "language": "HTML",
-      "pushed_at": "2026-07-19T16:45:40Z",
-      "updated_at": "2026-07-19T16:18:00Z",
+      "pushed_at": "2026-07-19T17:21:22Z",
+      "updated_at": "2026-07-19T17:04:13Z",
       "default_branch": "main",
       "archived": false
     },
@@ -36,8 +36,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-07-19T16:19:36Z",
-      "updated_at": "2026-07-19T16:19:39Z",
+      "pushed_at": "2026-07-19T16:47:22Z",
+      "updated_at": "2026-07-19T16:47:27Z",
       "default_branch": "main",
       "archived": false
     },
@@ -127,7 +127,7 @@
       "url": "https://github.com/yanivmizrachiy/lele",
       "category_he": "חדש / לא מסווג",
       "summary_he": "פרוייקט אי וודאות 17/6/25",
-      "exists_he": "README.md, RULES.md, package.json",
+      "exists_he": "README.md, RULES.md",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "",
