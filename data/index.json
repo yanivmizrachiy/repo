@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T22:08:51.064Z",
+  "generated_at": "2026-07-20T22:33:45.226Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "coordinate-first-quadrant",
+      "url": "https://github.com/yanivmizrachiy/coordinate-first-quadrant",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "34-page Hebrew workbook: Coordinate System - First Quadrant",
+      "exists_he": "README.md, docs, .github/workflows, package.json",
+      "status_he": "חלקי",
+      "readiness_percent": 40,
+      "notes_he": "",
+      "language": "TypeScript",
+      "pushed_at": "2026-07-20T22:08:53Z",
+      "updated_at": "2026-07-20T14:11:12Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -20,13 +36,13 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-07-20T21:42:16Z",
-      "updated_at": "2026-07-20T21:42:31Z",
+      "pushed_at": "2026-07-20T22:08:52Z",
+      "updated_at": "2026-07-20T22:09:02Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "parabula-next",
       "url": "https://github.com/yanivmizrachiy/parabula-next",
       "category_he": "מתמטיקה / פרבולות",
@@ -38,22 +54,6 @@
       "language": "HTML",
       "pushed_at": "2026-07-20T20:15:06Z",
       "updated_at": "2026-07-20T16:36:52Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 3,
-      "name": "coordinate-first-quadrant",
-      "url": "https://github.com/yanivmizrachiy/coordinate-first-quadrant",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "34-page Hebrew workbook: Coordinate System - First Quadrant",
-      "exists_he": "README.md, docs, .github/workflows, package.json",
-      "status_he": "חלקי",
-      "readiness_percent": 40,
-      "notes_he": "",
-      "language": "TypeScript",
-      "pushed_at": "2026-07-20T14:08:00Z",
-      "updated_at": "2026-07-20T14:11:12Z",
       "default_branch": "main",
       "archived": false
     },
@@ -143,7 +143,7 @@
       "url": "https://github.com/yanivmizrachiy/lele",
       "category_he": "חדש / לא מסווג",
       "summary_he": "פרוייקט אי וודאות 17/6/25",
-      "exists_he": "README.md, RULES.md",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "",
