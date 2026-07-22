@@ -1,16 +1,48 @@
 {
-  "generated_at": "2026-07-22T15:52:17.555Z",
+  "generated_at": "2026-07-22T16:30:51.607Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
   "repo_url": "https://github.com/yanivmizrachiy/repo",
-  "public_count": 22,
+  "public_count": 23,
   "private_hidden": 12,
-  "total_known": 34,
+  "total_known": 35,
   "notice_he": "עודכן אוטומטית דרך GitHub Actions לפי רשימת הריפואים הציבוריים ב-GitHub. לריפואים פרטיים נדרש REPO_INDEX_TOKEN.",
   "repositories": [
     {
       "number": 1,
+      "name": "coordinate-first-quadrant",
+      "url": "https://github.com/yanivmizrachiy/coordinate-first-quadrant",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "34-page Hebrew workbook: Coordinate System - First Quadrant",
+      "exists_he": "README.md, .github/workflows, package.json",
+      "status_he": "חלקי",
+      "readiness_percent": 40,
+      "notes_he": "",
+      "language": "TypeScript",
+      "pushed_at": "2026-07-22T16:14:53Z",
+      "updated_at": "2026-07-22T16:15:50Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
+      "name": "zaviyot-worksheets-only",
+      "url": "https://github.com/yanivmizrachiy/zaviyot-worksheets-only",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "אפליקציה עצמאית — חוברת דפי עבודה בנושא זוויות בלבד",
+      "exists_he": "README.md, package.json",
+      "status_he": "חלקי",
+      "readiness_percent": 40,
+      "notes_he": "",
+      "language": "JavaScript",
+      "pushed_at": "2026-07-22T16:13:50Z",
+      "updated_at": "2026-07-22T16:19:16Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 3,
       "name": "zaviyot-digital-workbook",
       "url": "https://github.com/yanivmizrachiy/zaviyot-digital-workbook",
       "category_he": "חדש / לא מסווג",
@@ -20,13 +52,13 @@
       "readiness_percent": 40,
       "notes_he": "",
       "language": "JavaScript",
-      "pushed_at": "2026-07-22T15:21:01Z",
-      "updated_at": "2026-07-22T15:27:15Z",
+      "pushed_at": "2026-07-22T15:57:57Z",
+      "updated_at": "2026-07-22T16:00:13Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 2,
+      "number": 4,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -36,34 +68,18 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-07-22T15:15:13Z",
-      "updated_at": "2026-07-22T15:19:45Z",
+      "pushed_at": "2026-07-22T15:52:19Z",
+      "updated_at": "2026-07-22T15:57:13Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 3,
-      "name": "coordinate-first-quadrant",
-      "url": "https://github.com/yanivmizrachiy/coordinate-first-quadrant",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "34-page Hebrew workbook: Coordinate System - First Quadrant",
-      "exists_he": "README.md",
-      "status_he": "חלקי",
-      "readiness_percent": 40,
-      "notes_he": "",
-      "language": "TypeScript",
-      "pushed_at": "2026-07-22T15:14:25Z",
-      "updated_at": "2026-07-22T15:17:07Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 4,
+      "number": 5,
       "name": "parabula-next",
       "url": "https://github.com/yanivmizrachiy/parabula-next",
       "category_he": "מתמטיקה / פרבולות",
       "summary_he": "פרויקט פרבולות מתקדם עם דפי עבודה, ממשק מובייל, Preview והדפסה.",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
+      "exists_he": "README.md, docs, .github/workflows, package.json",
       "status_he": "פעיל",
       "readiness_percent": 75,
       "notes_he": "לא לסמן כמושלם בלי אימות מובייל אמיתי.",
@@ -74,12 +90,12 @@
       "archived": false
     },
     {
-      "number": 5,
+      "number": 6,
       "name": "colors",
       "url": "https://github.com/yanivmizrachiy/colors",
       "category_he": "עיצוב / צבעים",
       "summary_he": "ספריית עיצוב וצבעים: רכיבי עיצוב, פלטות, כפתורים ופרומפטים לשימוש חוזר באתרי GitHub Pages.",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
+      "exists_he": "README.md",
       "status_he": "פעיל",
       "readiness_percent": 70,
       "notes_he": "צריך לוודא שכל הצבעים והכפתורים אמיתיים.",
@@ -90,7 +106,7 @@
       "archived": false
     },
     {
-      "number": 6,
+      "number": 7,
       "name": "maagar",
       "url": "https://github.com/yanivmizrachiy/maagar",
       "category_he": "מאגר חומרים",
@@ -106,7 +122,7 @@
       "archived": false
     },
     {
-      "number": 7,
+      "number": 8,
       "name": "www",
       "url": "https://github.com/yanivmizrachiy/www",
       "category_he": "Moodle / מוצר מורה",
@@ -122,7 +138,7 @@
       "archived": false
     },
     {
-      "number": 8,
+      "number": 9,
       "name": "bbb",
       "url": "https://github.com/yanivmizrachiy/bbb",
       "category_he": "חדש / לא מסווג",
@@ -138,7 +154,7 @@
       "archived": false
     },
     {
-      "number": 9,
+      "number": 10,
       "name": "targilim",
       "url": "https://github.com/yanivmizrachiy/targilim",
       "category_he": "חדש / לא מסווג",
@@ -154,7 +170,7 @@
       "archived": false
     },
     {
-      "number": 10,
+      "number": 11,
       "name": "lele",
       "url": "https://github.com/yanivmizrachiy/lele",
       "category_he": "חדש / לא מסווג",
@@ -170,7 +186,7 @@
       "archived": false
     },
     {
-      "number": 11,
+      "number": 12,
       "name": "i-vadaut-ai-studio",
       "url": "https://github.com/yanivmizrachiy/i-vadaut-ai-studio",
       "category_he": "חדש / לא מסווג",
@@ -186,7 +202,7 @@
       "archived": false
     },
     {
-      "number": 12,
+      "number": 13,
       "name": "i-vadaut",
       "url": "https://github.com/yanivmizrachiy/i-vadaut",
       "category_he": "חדש / לא מסווג",
@@ -202,7 +218,7 @@
       "archived": false
     },
     {
-      "number": 13,
+      "number": 14,
       "name": "stats-question-generator",
       "url": "https://github.com/yanivmizrachiy/stats-question-generator",
       "category_he": "חדש / לא מסווג",
@@ -218,7 +234,7 @@
       "archived": false
     },
     {
-      "number": 14,
+      "number": 15,
       "name": "parabula2",
       "url": "https://github.com/yanivmizrachiy/parabula2",
       "category_he": "מתמטיקה / פרבולות",
@@ -234,7 +250,7 @@
       "archived": false
     },
     {
-      "number": 15,
+      "number": 16,
       "name": "yaniv-gpt-journal",
       "url": "https://github.com/yanivmizrachiy/yaniv-gpt-journal",
       "category_he": "חדש / לא מסווג",
@@ -250,7 +266,7 @@
       "archived": false
     },
     {
-      "number": 16,
+      "number": 17,
       "name": "github-journal",
       "url": "https://github.com/yanivmizrachiy/github-journal",
       "category_he": "יומן / תיעוד",
@@ -266,7 +282,7 @@
       "archived": false
     },
     {
-      "number": 17,
+      "number": 18,
       "name": "moodle-teacher-hub",
       "url": "https://github.com/yanivmizrachiy/moodle-teacher-hub",
       "category_he": "Moodle / מורים",
@@ -282,7 +298,7 @@
       "archived": false
     },
     {
-      "number": 18,
+      "number": 19,
       "name": "luz-teddy",
       "url": "https://github.com/yanivmizrachiy/luz-teddy",
       "category_he": "חדש / לא מסווג",
@@ -298,7 +314,7 @@
       "archived": false
     },
     {
-      "number": 19,
+      "number": 20,
       "name": "homer-mivchan-tet1-madait",
       "url": "https://github.com/yanivmizrachiy/homer-mivchan-tet1-madait",
       "category_he": "חומר למבחן",
@@ -314,7 +330,7 @@
       "archived": false
     },
     {
-      "number": 20,
+      "number": 21,
       "name": "mifmar-z-qa",
       "url": "https://github.com/yanivmizrachiy/mifmar-z-qa",
       "category_he": "מתמטיקה / QA",
@@ -330,7 +346,7 @@
       "archived": false
     },
     {
-      "number": 21,
+      "number": 22,
       "name": "hishtalmut-215195",
       "url": "https://github.com/yanivmizrachiy/hishtalmut-215195",
       "category_he": "השתלמות 215195",
@@ -346,7 +362,7 @@
       "archived": false
     },
     {
-      "number": 22,
+      "number": 23,
       "name": "smartschool-hebrew-voice-notes",
       "url": "https://github.com/yanivmizrachiy/smartschool-hebrew-voice-notes",
       "category_he": "בית ספר / קול",
