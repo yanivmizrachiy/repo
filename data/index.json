@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T05:04:05.527Z",
+  "generated_at": "2026-07-22T06:09:14.176Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,22 +11,6 @@
   "repositories": [
     {
       "number": 1,
-      "name": "parabula-next",
-      "url": "https://github.com/yanivmizrachiy/parabula-next",
-      "category_he": "מתמטיקה / פרבולות",
-      "summary_he": "פרויקט פרבולות מתקדם עם דפי עבודה, ממשק מובייל, Preview והדפסה.",
-      "exists_he": "README.md, docs, .github/workflows, package.json",
-      "status_he": "פעיל",
-      "readiness_percent": 75,
-      "notes_he": "לא לסמן כמושלם בלי אימות מובייל אמיתי.",
-      "language": "HTML",
-      "pushed_at": "2026-07-22T05:03:46Z",
-      "updated_at": "2026-07-21T21:21:07Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 2,
       "name": "coordinate-first-quadrant",
       "url": "https://github.com/yanivmizrachiy/coordinate-first-quadrant",
       "category_he": "חדש / לא מסווג",
@@ -36,8 +20,24 @@
       "readiness_percent": 40,
       "notes_he": "",
       "language": "TypeScript",
-      "pushed_at": "2026-07-22T04:59:35Z",
-      "updated_at": "2026-07-22T04:59:38Z",
+      "pushed_at": "2026-07-22T06:02:58Z",
+      "updated_at": "2026-07-22T06:03:12Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
+      "name": "parabula-next",
+      "url": "https://github.com/yanivmizrachiy/parabula-next",
+      "category_he": "מתמטיקה / פרבולות",
+      "summary_he": "פרויקט פרבולות מתקדם עם דפי עבודה, ממשק מובייל, Preview והדפסה.",
+      "exists_he": "README.md, docs, .github/workflows, package.json",
+      "status_he": "פעיל",
+      "readiness_percent": 75,
+      "notes_he": "לא לסמן כמושלם בלי אימות מובייל אמיתי.",
+      "language": "HTML",
+      "pushed_at": "2026-07-22T05:08:06Z",
+      "updated_at": "2026-07-22T05:08:18Z",
       "default_branch": "main",
       "archived": false
     },
@@ -52,8 +52,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-07-22T03:54:54Z",
-      "updated_at": "2026-07-22T03:54:58Z",
+      "pushed_at": "2026-07-22T05:04:07Z",
+      "updated_at": "2026-07-22T05:04:47Z",
       "default_branch": "main",
       "archived": false
     },
