@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T02:01:55.018Z",
+  "generated_at": "2026-07-23T03:22:21.276Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,8 +20,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-07-23T00:31:11Z",
-      "updated_at": "2026-07-23T00:31:16Z",
+      "pushed_at": "2026-07-23T02:01:58Z",
+      "updated_at": "2026-07-23T02:02:13Z",
       "default_branch": "main",
       "archived": false
     },
@@ -143,7 +143,7 @@
       "url": "https://github.com/yanivmizrachiy/bbb",
       "category_he": "חדש / לא מסווג",
       "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": "README.md",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
       "status_he": "כמעט ריק",
       "readiness_percent": 10,
       "notes_he": "",
