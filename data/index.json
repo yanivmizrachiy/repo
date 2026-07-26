@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T12:08:29.327Z",
+  "generated_at": "2026-07-26T12:37:54.420Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "repo",
+      "url": "https://github.com/yanivmizrachiy/repo",
+      "category_he": "אינדקס ריפואים",
+      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
+      "exists_he": "README.md, docs, STATE, .github/workflows",
+      "status_he": "פעיל",
+      "readiness_percent": 65,
+      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
+      "language": "JavaScript",
+      "pushed_at": "2026-07-26T12:08:32Z",
+      "updated_at": "2026-07-26T12:08:59Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "parabula2",
       "url": "https://github.com/yanivmizrachiy/parabula2",
       "category_he": "מתמטיקה / פרבולות",
@@ -22,22 +38,6 @@
       "language": "",
       "pushed_at": "2026-07-26T12:01:58Z",
       "updated_at": "2026-07-26T12:02:42Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 2,
-      "name": "repo",
-      "url": "https://github.com/yanivmizrachiy/repo",
-      "category_he": "אינדקס ריפואים",
-      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
-      "exists_he": "README.md, docs, STATE, .github/workflows",
-      "status_he": "פעיל",
-      "readiness_percent": 65,
-      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
-      "language": "JavaScript",
-      "pushed_at": "2026-07-26T11:41:08Z",
-      "updated_at": "2026-07-26T11:41:19Z",
       "default_branch": "main",
       "archived": false
     },
