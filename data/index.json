@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T11:55:02.848Z",
+  "generated_at": "2026-07-29T12:41:22.961Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,8 +20,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-07-29T11:06:10Z",
-      "updated_at": "2026-07-29T11:07:20Z",
+      "pushed_at": "2026-07-29T11:55:03Z",
+      "updated_at": "2026-07-29T11:56:26Z",
       "default_branch": "main",
       "archived": false
     },
@@ -143,7 +143,7 @@
       "url": "https://github.com/yanivmizrachiy/colors",
       "category_he": "עיצוב / צבעים",
       "summary_he": "ספריית עיצוב וצבעים: רכיבי עיצוב, פלטות, כפתורים ופרומפטים לשימוש חוזר באתרי GitHub Pages.",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
+      "exists_he": "README.md",
       "status_he": "פעיל",
       "readiness_percent": 70,
       "notes_he": "צריך לוודא שכל הצבעים והכפתורים אמיתיים.",
