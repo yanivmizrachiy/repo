@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T13:52:07.016Z",
+  "generated_at": "2026-08-03T15:01:37.158Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,7 +20,7 @@
       "readiness_percent": 75,
       "notes_he": "לא לסמן כמושלם בלי אימות מובייל אמיתי.",
       "language": "HTML",
-      "pushed_at": "2026-08-03T13:47:44Z",
+      "pushed_at": "2026-08-03T14:51:56Z",
       "updated_at": "2026-08-03T13:30:37Z",
       "default_branch": "main",
       "archived": false
@@ -36,8 +36,8 @@
       "readiness_percent": 40,
       "notes_he": "",
       "language": "Astro",
-      "pushed_at": "2026-08-03T13:36:47Z",
-      "updated_at": "2026-08-03T13:39:30Z",
+      "pushed_at": "2026-08-03T14:12:56Z",
+      "updated_at": "2026-08-03T14:16:49Z",
       "default_branch": "main",
       "archived": false
     },
@@ -52,8 +52,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-08-03T12:46:01Z",
-      "updated_at": "2026-08-03T12:47:09Z",
+      "pushed_at": "2026-08-03T13:52:08Z",
+      "updated_at": "2026-08-03T13:54:01Z",
       "default_branch": "main",
       "archived": false
     },
@@ -143,7 +143,7 @@
       "url": "https://github.com/yanivmizrachiy/zaviyot-worksheets-only",
       "category_he": "חדש / לא מסווג",
       "summary_he": "אפליקציה עצמאית — חוברת דפי עבודה בנושא זוויות בלבד",
-      "exists_he": "README.md",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "",
