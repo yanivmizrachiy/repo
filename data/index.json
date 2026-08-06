@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T00:46:22.762Z",
+  "generated_at": "2026-08-06T01:33:56.318Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,8 +20,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-08-06T00:06:12Z",
-      "updated_at": "2026-08-06T00:06:35Z",
+      "pushed_at": "2026-08-06T00:46:25Z",
+      "updated_at": "2026-08-06T00:46:28Z",
       "default_branch": "main",
       "archived": false
     },
@@ -143,7 +143,7 @@
       "url": "https://github.com/yanivmizrachiy/zaviyot-worksheets-only",
       "category_he": "חדש / לא מסווג",
       "summary_he": "אפליקציה עצמאית — חוברת דפי עבודה בנושא זוויות בלבד",
-      "exists_he": "README.md",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "",
