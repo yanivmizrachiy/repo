@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T07:09:01.583Z",
+  "generated_at": "2026-08-07T07:44:03.405Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "jerusalem",
+      "url": "https://github.com/yanivmizrachiy/jerusalem",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "פרוייקט אי וודאות 17/6/25",
+      "exists_he": "README.md, RULES.md, docs, .github/workflows, package.json",
+      "status_he": "חלקי",
+      "readiness_percent": 40,
+      "notes_he": "",
+      "language": "TypeScript",
+      "pushed_at": "2026-08-07T07:14:37Z",
+      "updated_at": "2026-08-07T07:15:22Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -20,24 +36,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-08-07T06:31:34Z",
-      "updated_at": "2026-08-07T06:32:06Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 2,
-      "name": "jerusalem",
-      "url": "https://github.com/yanivmizrachiy/jerusalem",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "פרוייקט אי וודאות 17/6/25",
-      "exists_he": "README.md, RULES.md, docs, .github/workflows, package.json",
-      "status_he": "חלקי",
-      "readiness_percent": 40,
-      "notes_he": "",
-      "language": "Astro",
-      "pushed_at": "2026-08-07T04:12:29Z",
-      "updated_at": "2026-08-07T04:13:28Z",
+      "pushed_at": "2026-08-07T07:09:02Z",
+      "updated_at": "2026-08-07T07:09:27Z",
       "default_branch": "main",
       "archived": false
     },
