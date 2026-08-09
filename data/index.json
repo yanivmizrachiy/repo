@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T19:45:57.222Z",
+  "generated_at": "2026-08-09T20:07:48.509Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,7 +20,7 @@
       "readiness_percent": 40,
       "notes_he": "",
       "language": "TypeScript",
-      "pushed_at": "2026-08-09T19:45:40Z",
+      "pushed_at": "2026-08-09T19:53:11Z",
       "updated_at": "2026-08-09T18:42:56Z",
       "default_branch": "main",
       "archived": false
@@ -36,8 +36,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-08-09T19:29:34Z",
-      "updated_at": "2026-08-09T19:29:51Z",
+      "pushed_at": "2026-08-09T19:45:59Z",
+      "updated_at": "2026-08-09T19:46:15Z",
       "default_branch": "main",
       "archived": false
     },
@@ -127,7 +127,7 @@
       "url": "https://github.com/yanivmizrachiy/maagar",
       "category_he": "מאגר חומרים",
       "summary_he": "מאגר חומרים, קבצים וקישורים עם מטאדאטה ואינדקס לארגון חומרי לימוד ומקורות.",
-      "exists_he": "README.md, RULES.md, docs, STATE",
+      "exists_he": "README.md, RULES.md, docs, STATE, .github/workflows",
       "status_he": "פעיל",
       "readiness_percent": 75,
       "notes_he": "חשוב לארגון חומרי לימוד.",
