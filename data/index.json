@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T20:07:48.509Z",
+  "generated_at": "2026-08-09T20:24:13.945Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,8 +20,8 @@
       "readiness_percent": 40,
       "notes_he": "",
       "language": "TypeScript",
-      "pushed_at": "2026-08-09T19:53:11Z",
-      "updated_at": "2026-08-09T18:42:56Z",
+      "pushed_at": "2026-08-09T20:23:58Z",
+      "updated_at": "2026-08-09T20:21:36Z",
       "default_branch": "main",
       "archived": false
     },
@@ -36,8 +36,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-08-09T19:45:59Z",
-      "updated_at": "2026-08-09T19:46:15Z",
+      "pushed_at": "2026-08-09T20:07:49Z",
+      "updated_at": "2026-08-09T20:07:56Z",
       "default_branch": "main",
       "archived": false
     },
@@ -143,7 +143,7 @@
       "url": "https://github.com/yanivmizrachiy/parabula2",
       "category_he": "מתמטיקה / פרבולות",
       "summary_he": "פרויקט גדול בתחום פרבולות ומתמטיקה, כנראה כולל אתר או חומרי לימוד עשירים.",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
+      "exists_he": "README.md",
       "status_he": "פעיל",
       "readiness_percent": 70,
       "notes_he": "דורש סריקת מבנה מפורטת.",
