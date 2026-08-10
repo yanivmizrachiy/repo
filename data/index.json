@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T06:44:20.074Z",
+  "generated_at": "2026-08-10T07:15:37.510Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,22 +11,6 @@
   "repositories": [
     {
       "number": 1,
-      "name": "repo",
-      "url": "https://github.com/yanivmizrachiy/repo",
-      "category_he": "אינדקס ריפואים",
-      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
-      "exists_he": "README.md, docs, STATE, .github/workflows",
-      "status_he": "פעיל",
-      "readiness_percent": 65,
-      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
-      "language": "JavaScript",
-      "pushed_at": "2026-08-10T06:09:36Z",
-      "updated_at": "2026-08-10T06:09:48Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 2,
       "name": "jerusalem",
       "url": "https://github.com/yanivmizrachiy/jerusalem",
       "category_he": "חדש / לא מסווג",
@@ -36,8 +20,24 @@
       "readiness_percent": 40,
       "notes_he": "",
       "language": "TypeScript",
-      "pushed_at": "2026-08-09T23:37:14Z",
+      "pushed_at": "2026-08-10T06:57:07Z",
       "updated_at": "2026-08-09T23:32:56Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
+      "name": "repo",
+      "url": "https://github.com/yanivmizrachiy/repo",
+      "category_he": "אינדקס ריפואים",
+      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
+      "exists_he": "README.md, docs, STATE, .github/workflows",
+      "status_he": "פעיל",
+      "readiness_percent": 65,
+      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
+      "language": "JavaScript",
+      "pushed_at": "2026-08-10T06:44:21Z",
+      "updated_at": "2026-08-10T06:44:32Z",
       "default_branch": "main",
       "archived": false
     },
