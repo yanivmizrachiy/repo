@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T11:06:06.535Z",
+  "generated_at": "2026-08-13T11:30:05.055Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "repo",
+      "url": "https://github.com/yanivmizrachiy/repo",
+      "category_he": "אינדקס ריפואים",
+      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
+      "exists_he": "README.md, docs, STATE, .github/workflows",
+      "status_he": "פעיל",
+      "readiness_percent": 65,
+      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
+      "language": "JavaScript",
+      "pushed_at": "2026-08-13T11:06:08Z",
+      "updated_at": "2026-08-13T11:07:20Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "smartschool-hebrew-voice-notes",
       "url": "https://github.com/yanivmizrachiy/smartschool-hebrew-voice-notes",
       "category_he": "בית ספר / קול",
@@ -21,23 +37,7 @@
       "notes_he": "דורש אימות יכולות בפועל.",
       "language": "HTML",
       "pushed_at": "2026-08-13T11:04:29Z",
-      "updated_at": "2026-08-13T10:37:17Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 2,
-      "name": "repo",
-      "url": "https://github.com/yanivmizrachiy/repo",
-      "category_he": "אינדקס ריפואים",
-      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
-      "exists_he": "README.md, docs, STATE, .github/workflows",
-      "status_he": "פעיל",
-      "readiness_percent": 65,
-      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
-      "language": "JavaScript",
-      "pushed_at": "2026-08-13T10:37:16Z",
-      "updated_at": "2026-08-13T10:37:22Z",
+      "updated_at": "2026-08-13T11:06:41Z",
       "default_branch": "main",
       "archived": false
     },
