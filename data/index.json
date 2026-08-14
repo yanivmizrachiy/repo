@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T23:46:54.571Z",
+  "generated_at": "2026-08-14T00:21:54.588Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,7 +20,7 @@
       "readiness_percent": 45,
       "notes_he": "דורש אימות יכולות בפועל.",
       "language": "HTML",
-      "pushed_at": "2026-08-13T23:44:34Z",
+      "pushed_at": "2026-08-13T23:48:55Z",
       "updated_at": "2026-08-13T23:08:52Z",
       "default_branch": "main",
       "archived": false
@@ -36,8 +36,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-08-13T23:26:39Z",
-      "updated_at": "2026-08-13T23:26:43Z",
+      "pushed_at": "2026-08-13T23:46:55Z",
+      "updated_at": "2026-08-13T23:46:59Z",
       "default_branch": "main",
       "archived": false
     },
@@ -143,7 +143,7 @@
       "url": "https://github.com/yanivmizrachiy/coordinate-first-quadrant",
       "category_he": "חדש / לא מסווג",
       "summary_he": "34-page Hebrew workbook: Coordinate System - First Quadrant",
-      "exists_he": "README.md",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "",
