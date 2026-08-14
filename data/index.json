@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T11:50:42.585Z",
+  "generated_at": "2026-08-14T12:16:43.502Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,22 +11,6 @@
   "repositories": [
     {
       "number": 1,
-      "name": "smartschool-hebrew-voice-notes",
-      "url": "https://github.com/yanivmizrachiy/smartschool-hebrew-voice-notes",
-      "category_he": "בית ספר / קול",
-      "summary_he": "פרויקט פתקים קוליים בעברית לבית ספר או Smartschool.",
-      "exists_he": "README.md, RULES.md, .github/workflows, package.json",
-      "status_he": "חלקי",
-      "readiness_percent": 45,
-      "notes_he": "דורש אימות יכולות בפועל.",
-      "language": "HTML",
-      "pushed_at": "2026-08-14T11:50:30Z",
-      "updated_at": "2026-08-14T11:47:25Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 2,
       "name": "coordinate-lms",
       "url": "https://github.com/yanivmizrachiy/coordinate-lms",
       "category_he": "חדש / לא מסווג",
@@ -36,8 +20,24 @@
       "readiness_percent": 40,
       "notes_he": "",
       "language": "TypeScript",
-      "pushed_at": "2026-08-14T11:49:44Z",
+      "pushed_at": "2026-08-14T12:15:56Z",
       "updated_at": "2026-08-02T03:37:41Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
+      "name": "smartschool-hebrew-voice-notes",
+      "url": "https://github.com/yanivmizrachiy/smartschool-hebrew-voice-notes",
+      "category_he": "בית ספר / קול",
+      "summary_he": "פרויקט פתקים קוליים בעברית לבית ספר או Smartschool.",
+      "exists_he": "README.md, RULES.md, .github/workflows, package.json",
+      "status_he": "חלקי",
+      "readiness_percent": 45,
+      "notes_he": "דורש אימות יכולות בפועל.",
+      "language": "HTML",
+      "pushed_at": "2026-08-14T12:09:49Z",
+      "updated_at": "2026-08-14T12:10:30Z",
       "default_branch": "main",
       "archived": false
     },
@@ -52,8 +52,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-08-14T11:29:43Z",
-      "updated_at": "2026-08-14T11:29:47Z",
+      "pushed_at": "2026-08-14T11:50:43Z",
+      "updated_at": "2026-08-14T11:50:59Z",
       "default_branch": "main",
       "archived": false
     },
