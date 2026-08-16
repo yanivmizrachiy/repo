@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T08:23:44.052Z",
+  "generated_at": "2026-08-16T08:41:44.509Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "smartschool-hebrew-voice-notes",
+      "url": "https://github.com/yanivmizrachiy/smartschool-hebrew-voice-notes",
+      "category_he": "בית ספר / קול",
+      "summary_he": "פרויקט פתקים קוליים בעברית לבית ספר או Smartschool.",
+      "exists_he": "README.md, RULES.md, .github/workflows, package.json",
+      "status_he": "חלקי",
+      "readiness_percent": 45,
+      "notes_he": "דורש אימות יכולות בפועל.",
+      "language": "HTML",
+      "pushed_at": "2026-08-16T08:38:28Z",
+      "updated_at": "2026-08-14T13:44:56Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "coordinate-lms",
       "url": "https://github.com/yanivmizrachiy/coordinate-lms",
       "category_he": "חדש / לא מסווג",
@@ -20,13 +36,13 @@
       "readiness_percent": 40,
       "notes_he": "",
       "language": "TypeScript",
-      "pushed_at": "2026-08-16T08:23:25Z",
+      "pushed_at": "2026-08-16T08:32:04Z",
       "updated_at": "2026-08-02T03:37:41Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -36,13 +52,13 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "JavaScript",
-      "pushed_at": "2026-08-16T08:06:23Z",
-      "updated_at": "2026-08-16T08:07:07Z",
+      "pushed_at": "2026-08-16T08:23:45Z",
+      "updated_at": "2026-08-16T08:24:29Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 3,
+      "number": 4,
       "name": "razpages",
       "url": "https://github.com/yanivmizrachiy/razpages",
       "category_he": "חדש / לא מסווג",
@@ -58,7 +74,7 @@
       "archived": false
     },
     {
-      "number": 4,
+      "number": 5,
       "name": "coordinate-first-quadrant",
       "url": "https://github.com/yanivmizrachiy/coordinate-first-quadrant",
       "category_he": "חדש / לא מסווג",
@@ -70,22 +86,6 @@
       "language": "TypeScript",
       "pushed_at": "2026-08-15T21:45:09Z",
       "updated_at": "2026-08-15T21:51:49Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 5,
-      "name": "smartschool-hebrew-voice-notes",
-      "url": "https://github.com/yanivmizrachiy/smartschool-hebrew-voice-notes",
-      "category_he": "בית ספר / קול",
-      "summary_he": "פרויקט פתקים קוליים בעברית לבית ספר או Smartschool.",
-      "exists_he": "README.md, RULES.md, .github/workflows, package.json",
-      "status_he": "חלקי",
-      "readiness_percent": 45,
-      "notes_he": "דורש אימות יכולות בפועל.",
-      "language": "HTML",
-      "pushed_at": "2026-08-14T13:43:46Z",
-      "updated_at": "2026-08-14T13:44:56Z",
       "default_branch": "main",
       "archived": false
     },
@@ -143,7 +143,7 @@
       "url": "https://github.com/yanivmizrachiy/www",
       "category_he": "Moodle / מוצר מורה",
       "summary_he": "ריפו Moodle Teacher Hub הפעיל לפי העבודה האחרונה: מוצר RTL למורים מעל Moodle, Render, Supabase ו־LTI.",
-      "exists_he": "README.md",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
       "status_he": "פעיל",
       "readiness_percent": 78,
       "notes_he": "Teacher release עדיין לא מאושר בלי בדיקות מלאות.",
