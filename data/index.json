@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T10:10:49.460Z",
+  "generated_at": "2026-08-19T10:24:28.300Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,8 +20,8 @@
       "readiness_percent": 60,
       "notes_he": "",
       "language": "HTML",
-      "pushed_at": "2026-08-19T10:10:17Z",
-      "updated_at": "2026-08-19T10:03:36Z",
+      "pushed_at": "2026-08-19T10:23:35Z",
+      "updated_at": "2026-08-19T10:21:42Z",
       "default_branch": "main",
       "archived": false
     },
@@ -36,7 +36,7 @@
       "readiness_percent": 40,
       "notes_he": "",
       "language": "HTML",
-      "pushed_at": "2026-08-19T10:07:51Z",
+      "pushed_at": "2026-08-19T10:23:33Z",
       "updated_at": "2026-08-19T10:09:53Z",
       "default_branch": "main",
       "archived": false
@@ -52,8 +52,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-08-19T09:58:03Z",
-      "updated_at": "2026-08-19T09:59:33Z",
+      "pushed_at": "2026-08-19T10:10:50Z",
+      "updated_at": "2026-08-19T10:14:20Z",
       "default_branch": "main",
       "archived": false
     },
@@ -143,7 +143,7 @@
       "url": "https://github.com/yanivmizrachiy/github-journal",
       "category_he": "יומן / תיעוד",
       "summary_he": "יומן GitHub לתיעוד יומי, עמודי מצב ושמירת פעולות לפי תאריכים.",
-      "exists_he": "README.md",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
       "status_he": "פעיל",
       "readiness_percent": 60,
       "notes_he": "קשור לתיעוד יומי.",
