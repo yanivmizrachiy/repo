@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T21:39:06.457Z",
+  "generated_at": "2026-08-19T21:52:09.502Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,8 +20,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-08-19T21:23:21Z",
-      "updated_at": "2026-08-19T21:27:30Z",
+      "pushed_at": "2026-08-19T21:39:07Z",
+      "updated_at": "2026-08-19T21:40:17Z",
       "default_branch": "main",
       "archived": false
     },
@@ -127,7 +127,7 @@
       "url": "https://github.com/yanivmizrachiy/jerusalem",
       "category_he": "חדש / לא מסווג",
       "summary_he": "פרוייקט אי וודאות 17/6/25",
-      "exists_he": "README.md, RULES.md, docs, .github/workflows",
+      "exists_he": "README.md, RULES.md, docs",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "",
