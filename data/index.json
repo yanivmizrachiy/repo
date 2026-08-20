@@ -1,16 +1,48 @@
 {
-  "generated_at": "2026-08-20T15:25:16.600Z",
+  "generated_at": "2026-08-20T15:42:51.566Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
   "repo_url": "https://github.com/yanivmizrachiy/repo",
-  "public_count": 25,
+  "public_count": 26,
   "private_hidden": 12,
-  "total_known": 37,
+  "total_known": 38,
   "notice_he": "עודכן אוטומטית דרך GitHub Actions לפי רשימת הריפואים הציבוריים ב-GitHub. לריפואים פרטיים נדרש REPO_INDEX_TOKEN.",
   "repositories": [
     {
       "number": 1,
+      "name": "pythagoras",
+      "url": "https://github.com/yanivmizrachiy/pythagoras",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "53-page Pythagoras workbook — single source of truth",
+      "exists_he": "README.md",
+      "status_he": "חלקי",
+      "readiness_percent": 40,
+      "notes_he": "",
+      "language": "",
+      "pushed_at": "2026-08-20T15:40:01Z",
+      "updated_at": "2026-08-20T15:40:01Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
+      "name": "ratio-workbook",
+      "url": "https://github.com/yanivmizrachiy/ratio-workbook",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "חוברת יחס ופרופורציה לכיתה ח׳ — עצמאית, נפרדת לחלוטין מפרויקטים אחרים",
+      "exists_he": "README.md",
+      "status_he": "חלקי",
+      "readiness_percent": 40,
+      "notes_he": "",
+      "language": "HTML",
+      "pushed_at": "2026-08-20T15:33:23Z",
+      "updated_at": "2026-08-19T18:49:20Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 3,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -20,13 +52,13 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-08-20T15:10:44Z",
-      "updated_at": "2026-08-20T15:13:22Z",
+      "pushed_at": "2026-08-20T15:25:17Z",
+      "updated_at": "2026-08-20T15:30:18Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 2,
+      "number": 4,
       "name": "hishtalmut-215195",
       "url": "https://github.com/yanivmizrachiy/hishtalmut-215195",
       "category_he": "השתלמות 215195",
@@ -42,23 +74,7 @@
       "archived": false
     },
     {
-      "number": 3,
-      "name": "ratio-workbook",
-      "url": "https://github.com/yanivmizrachiy/ratio-workbook",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "חוברת יחס ופרופורציה לכיתה ח׳ — עצמאית, נפרדת לחלוטין מפרויקטים אחרים",
-      "exists_he": "README.md",
-      "status_he": "חלקי",
-      "readiness_percent": 40,
-      "notes_he": "",
-      "language": "HTML",
-      "pushed_at": "2026-08-20T14:22:53Z",
-      "updated_at": "2026-08-19T18:49:20Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 4,
+      "number": 5,
       "name": "razpages",
       "url": "https://github.com/yanivmizrachiy/razpages",
       "category_he": "חדש / לא מסווג",
@@ -74,7 +90,7 @@
       "archived": false
     },
     {
-      "number": 5,
+      "number": 6,
       "name": "zaviyot-digital-workbook",
       "url": "https://github.com/yanivmizrachiy/zaviyot-digital-workbook",
       "category_he": "חדש / לא מסווג",
@@ -90,7 +106,7 @@
       "archived": false
     },
     {
-      "number": 6,
+      "number": 7,
       "name": "coordinate-lms",
       "url": "https://github.com/yanivmizrachiy/coordinate-lms",
       "category_he": "חדש / לא מסווג",
@@ -106,12 +122,12 @@
       "archived": false
     },
     {
-      "number": 7,
+      "number": 8,
       "name": "coordinate-first-quadrant",
       "url": "https://github.com/yanivmizrachiy/coordinate-first-quadrant",
       "category_he": "חדש / לא מסווג",
       "summary_he": "34-page Hebrew workbook: Coordinate System - First Quadrant",
-      "exists_he": "README.md",
+      "exists_he": "README.md, .github/workflows, package.json",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "",
@@ -122,7 +138,7 @@
       "archived": false
     },
     {
-      "number": 8,
+      "number": 9,
       "name": "smartschool-hebrew-voice-notes",
       "url": "https://github.com/yanivmizrachiy/smartschool-hebrew-voice-notes",
       "category_he": "בית ספר / קול",
@@ -138,7 +154,7 @@
       "archived": false
     },
     {
-      "number": 9,
+      "number": 10,
       "name": "jerusalem",
       "url": "https://github.com/yanivmizrachiy/jerusalem",
       "category_he": "חדש / לא מסווג",
@@ -154,7 +170,7 @@
       "archived": false
     },
     {
-      "number": 10,
+      "number": 11,
       "name": "github-journal",
       "url": "https://github.com/yanivmizrachiy/github-journal",
       "category_he": "יומן / תיעוד",
@@ -170,7 +186,7 @@
       "archived": false
     },
     {
-      "number": 11,
+      "number": 12,
       "name": "yaniv-gpt-journal",
       "url": "https://github.com/yanivmizrachiy/yaniv-gpt-journal",
       "category_he": "חדש / לא מסווג",
@@ -186,7 +202,7 @@
       "archived": false
     },
     {
-      "number": 12,
+      "number": 13,
       "name": "www",
       "url": "https://github.com/yanivmizrachiy/www",
       "category_he": "Moodle / מוצר מורה",
@@ -202,7 +218,7 @@
       "archived": false
     },
     {
-      "number": 13,
+      "number": 14,
       "name": "maagar",
       "url": "https://github.com/yanivmizrachiy/maagar",
       "category_he": "מאגר חומרים",
@@ -218,7 +234,7 @@
       "archived": false
     },
     {
-      "number": 14,
+      "number": 15,
       "name": "parabula2",
       "url": "https://github.com/yanivmizrachiy/parabula2",
       "category_he": "מתמטיקה / פרבולות",
@@ -234,7 +250,7 @@
       "archived": false
     },
     {
-      "number": 15,
+      "number": 16,
       "name": "zaviyot-worksheets-only",
       "url": "https://github.com/yanivmizrachiy/zaviyot-worksheets-only",
       "category_he": "חדש / לא מסווג",
@@ -250,7 +266,7 @@
       "archived": false
     },
     {
-      "number": 16,
+      "number": 17,
       "name": "colors",
       "url": "https://github.com/yanivmizrachiy/colors",
       "category_he": "עיצוב / צבעים",
@@ -266,7 +282,7 @@
       "archived": false
     },
     {
-      "number": 17,
+      "number": 18,
       "name": "bbb",
       "url": "https://github.com/yanivmizrachiy/bbb",
       "category_he": "חדש / לא מסווג",
@@ -282,7 +298,7 @@
       "archived": false
     },
     {
-      "number": 18,
+      "number": 19,
       "name": "targilim",
       "url": "https://github.com/yanivmizrachiy/targilim",
       "category_he": "חדש / לא מסווג",
@@ -298,7 +314,7 @@
       "archived": false
     },
     {
-      "number": 19,
+      "number": 20,
       "name": "i-vadaut-ai-studio",
       "url": "https://github.com/yanivmizrachiy/i-vadaut-ai-studio",
       "category_he": "חדש / לא מסווג",
@@ -314,7 +330,7 @@
       "archived": false
     },
     {
-      "number": 20,
+      "number": 21,
       "name": "i-vadaut",
       "url": "https://github.com/yanivmizrachiy/i-vadaut",
       "category_he": "חדש / לא מסווג",
@@ -330,7 +346,7 @@
       "archived": false
     },
     {
-      "number": 21,
+      "number": 22,
       "name": "stats-question-generator",
       "url": "https://github.com/yanivmizrachiy/stats-question-generator",
       "category_he": "חדש / לא מסווג",
@@ -346,7 +362,7 @@
       "archived": false
     },
     {
-      "number": 22,
+      "number": 23,
       "name": "moodle-teacher-hub",
       "url": "https://github.com/yanivmizrachiy/moodle-teacher-hub",
       "category_he": "Moodle / מורים",
@@ -362,7 +378,7 @@
       "archived": false
     },
     {
-      "number": 23,
+      "number": 24,
       "name": "luz-teddy",
       "url": "https://github.com/yanivmizrachiy/luz-teddy",
       "category_he": "חדש / לא מסווג",
@@ -378,7 +394,7 @@
       "archived": false
     },
     {
-      "number": 24,
+      "number": 25,
       "name": "homer-mivchan-tet1-madait",
       "url": "https://github.com/yanivmizrachiy/homer-mivchan-tet1-madait",
       "category_he": "חומר למבחן",
@@ -394,7 +410,7 @@
       "archived": false
     },
     {
-      "number": 25,
+      "number": 26,
       "name": "mifmar-z-qa",
       "url": "https://github.com/yanivmizrachiy/mifmar-z-qa",
       "category_he": "מתמטיקה / QA",
