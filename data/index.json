@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T12:24:16.593Z",
+  "generated_at": "2026-08-22T12:45:05.663Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,8 +20,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-08-22T12:05:16Z",
-      "updated_at": "2026-08-22T12:05:39Z",
+      "pushed_at": "2026-08-22T12:24:21Z",
+      "updated_at": "2026-08-22T12:25:18Z",
       "default_branch": "main",
       "archived": false
     },
@@ -127,7 +127,7 @@
       "url": "https://github.com/yanivmizrachiy/coordinate-lms",
       "category_he": "חדש / לא מסווג",
       "summary_he": "Coordinate LMS - digital practice platform for coordinate system workbook",
-      "exists_he": "README.md, RULES.md, docs, .github/workflows, package.json",
+      "exists_he": "README.md, RULES.md",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "",
