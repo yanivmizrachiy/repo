@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T08:56:53.813Z",
+  "generated_at": "2026-08-23T09:09:33.040Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,7 +20,7 @@
       "readiness_percent": 10,
       "notes_he": "",
       "language": "HTML",
-      "pushed_at": "2026-08-23T08:55:46Z",
+      "pushed_at": "2026-08-23T09:09:23Z",
       "updated_at": "2026-08-23T08:56:03Z",
       "default_branch": "main",
       "archived": false
@@ -36,7 +36,7 @@
       "readiness_percent": 40,
       "notes_he": "",
       "language": "TypeScript",
-      "pushed_at": "2026-08-23T08:45:18Z",
+      "pushed_at": "2026-08-23T09:07:35Z",
       "updated_at": "2026-08-18T18:35:05Z",
       "default_branch": "main",
       "archived": false
@@ -52,8 +52,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-08-23T08:42:23Z",
-      "updated_at": "2026-08-23T08:42:27Z",
+      "pushed_at": "2026-08-23T08:56:54Z",
+      "updated_at": "2026-08-23T08:56:58Z",
       "default_branch": "main",
       "archived": false
     },
@@ -127,7 +127,7 @@
       "url": "https://github.com/yanivmizrachiy/ratio-workbook",
       "category_he": "חדש / לא מסווג",
       "summary_he": "חוברת יחס ופרופורציה לכיתה ח׳ — עצמאית, נפרדת לחלוטין מפרויקטים אחרים",
-      "exists_he": "README.md",
+      "exists_he": "README.md, .github/workflows, package.json",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "",
