@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T07:24:54.793Z",
+  "generated_at": "2026-08-23T07:42:17.117Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,8 +20,8 @@
       "readiness_percent": 10,
       "notes_he": "",
       "language": "HTML",
-      "pushed_at": "2026-08-23T07:18:15Z",
-      "updated_at": "2026-08-23T07:18:45Z",
+      "pushed_at": "2026-08-23T07:37:44Z",
+      "updated_at": "2026-08-23T07:38:09Z",
       "default_branch": "main",
       "archived": false
     },
@@ -36,8 +36,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-08-23T07:05:13Z",
-      "updated_at": "2026-08-23T07:05:19Z",
+      "pushed_at": "2026-08-23T07:24:55Z",
+      "updated_at": "2026-08-23T07:25:11Z",
       "default_branch": "main",
       "archived": false
     },
