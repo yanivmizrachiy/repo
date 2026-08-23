@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T05:23:49.159Z",
+  "generated_at": "2026-08-23T05:40:40.272Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,22 +11,6 @@
   "repositories": [
     {
       "number": 1,
-      "name": "aaa",
-      "url": "https://github.com/yanivmizrachiy/aaa",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": ".github/workflows",
-      "status_he": "כמעט ריק",
-      "readiness_percent": 10,
-      "notes_he": "",
-      "language": "HTML",
-      "pushed_at": "2026-08-23T05:23:43Z",
-      "updated_at": "2026-08-23T05:22:37Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 2,
       "name": "hishtalmut-215195",
       "url": "https://github.com/yanivmizrachiy/hishtalmut-215195",
       "category_he": "השתלמות 215195",
@@ -36,8 +20,24 @@
       "readiness_percent": 65,
       "notes_he": "מיועד לקישור חיצוני למשתלמים.",
       "language": "HTML",
-      "pushed_at": "2026-08-23T05:06:34Z",
-      "updated_at": "2026-08-23T05:05:22Z",
+      "pushed_at": "2026-08-23T05:40:25Z",
+      "updated_at": "2026-08-23T05:35:27Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
+      "name": "aaa",
+      "url": "https://github.com/yanivmizrachiy/aaa",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "אין עדיין תיאור עברי מאומת.",
+      "exists_he": ".github/workflows",
+      "status_he": "כמעט ריק",
+      "readiness_percent": 10,
+      "notes_he": "",
+      "language": "HTML",
+      "pushed_at": "2026-08-23T05:38:22Z",
+      "updated_at": "2026-08-23T05:38:50Z",
       "default_branch": "main",
       "archived": false
     },
@@ -52,8 +52,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-08-23T05:00:27Z",
-      "updated_at": "2026-08-23T05:00:51Z",
+      "pushed_at": "2026-08-23T05:23:53Z",
+      "updated_at": "2026-08-23T05:24:49Z",
       "default_branch": "main",
       "archived": false
     },
