@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T19:08:15.304Z",
+  "generated_at": "2026-08-23T19:22:59.293Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,8 +20,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-08-23T18:56:44Z",
-      "updated_at": "2026-08-23T18:56:47Z",
+      "pushed_at": "2026-08-23T19:08:18Z",
+      "updated_at": "2026-08-23T19:09:20Z",
       "default_branch": "main",
       "archived": false
     },
@@ -143,7 +143,7 @@
       "url": "https://github.com/yanivmizrachiy/zaviyot-digital-workbook",
       "category_he": "חדש / לא מסווג",
       "summary_he": "חוברת דיגיטלית בעברית בנושא זוויות — דפדוף, הורדה והדפסה",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
+      "exists_he": "README.md",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "",
