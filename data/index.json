@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T11:40:25.776Z",
+  "generated_at": "2026-08-24T11:53:59.749Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,8 +20,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-08-24T11:25:00Z",
-      "updated_at": "2026-08-24T11:25:27Z",
+      "pushed_at": "2026-08-24T11:40:28Z",
+      "updated_at": "2026-08-24T11:46:42Z",
       "default_branch": "main",
       "archived": false
     },
@@ -143,7 +143,7 @@
       "url": "https://github.com/yanivmizrachiy/razpages",
       "category_he": "חדש / לא מסווג",
       "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
+      "exists_he": "README.md",
       "status_he": "פעיל",
       "readiness_percent": 60,
       "notes_he": "",
