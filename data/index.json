@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T11:53:59.749Z",
+  "generated_at": "2026-08-24T12:08:20.791Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "coordinate-lms",
+      "url": "https://github.com/yanivmizrachiy/coordinate-lms",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "Coordinate LMS - digital practice platform for coordinate system workbook",
+      "exists_he": "README.md, RULES.md, docs, .github/workflows, package.json",
+      "status_he": "חלקי",
+      "readiness_percent": 40,
+      "notes_he": "",
+      "language": "TypeScript",
+      "pushed_at": "2026-08-24T12:07:40Z",
+      "updated_at": "2026-08-24T04:11:33Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -20,13 +36,13 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-08-24T11:40:28Z",
-      "updated_at": "2026-08-24T11:46:42Z",
+      "pushed_at": "2026-08-24T11:54:00Z",
+      "updated_at": "2026-08-24T11:54:04Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "smartschool-hebrew-voice-notes",
       "url": "https://github.com/yanivmizrachiy/smartschool-hebrew-voice-notes",
       "category_he": "בית ספר / קול",
@@ -42,7 +58,7 @@
       "archived": false
     },
     {
-      "number": 3,
+      "number": 4,
       "name": "aaa",
       "url": "https://github.com/yanivmizrachiy/aaa",
       "category_he": "חדש / לא מסווג",
@@ -58,7 +74,7 @@
       "archived": false
     },
     {
-      "number": 4,
+      "number": 5,
       "name": "pythagoras",
       "url": "https://github.com/yanivmizrachiy/pythagoras",
       "category_he": "חדש / לא מסווג",
@@ -70,22 +86,6 @@
       "language": "JavaScript",
       "pushed_at": "2026-08-24T07:44:31Z",
       "updated_at": "2026-08-21T13:23:36Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 5,
-      "name": "coordinate-lms",
-      "url": "https://github.com/yanivmizrachiy/coordinate-lms",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "Coordinate LMS - digital practice platform for coordinate system workbook",
-      "exists_he": "README.md, RULES.md, docs, .github/workflows, package.json",
-      "status_he": "חלקי",
-      "readiness_percent": 40,
-      "notes_he": "",
-      "language": "TypeScript",
-      "pushed_at": "2026-08-24T04:10:16Z",
-      "updated_at": "2026-08-24T04:11:33Z",
       "default_branch": "main",
       "archived": false
     },
