@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T08:15:35.494Z",
+  "generated_at": "2026-08-24T09:17:01.127Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "aaa",
+      "url": "https://github.com/yanivmizrachiy/aaa",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "אין עדיין תיאור עברי מאומת.",
+      "exists_he": "README.md, .github/workflows, package.json",
+      "status_he": "כמעט ריק",
+      "readiness_percent": 10,
+      "notes_he": "",
+      "language": "HTML",
+      "pushed_at": "2026-08-24T09:14:23Z",
+      "updated_at": "2026-08-24T09:15:26Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -20,13 +36,13 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-08-24T07:47:59Z",
-      "updated_at": "2026-08-24T07:48:33Z",
+      "pushed_at": "2026-08-24T08:15:39Z",
+      "updated_at": "2026-08-24T08:17:42Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "pythagoras",
       "url": "https://github.com/yanivmizrachiy/pythagoras",
       "category_he": "חדש / לא מסווג",
@@ -38,22 +54,6 @@
       "language": "JavaScript",
       "pushed_at": "2026-08-24T07:44:31Z",
       "updated_at": "2026-08-21T13:23:36Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 3,
-      "name": "aaa",
-      "url": "https://github.com/yanivmizrachiy/aaa",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": "README.md, .github/workflows, package.json",
-      "status_he": "כמעט ריק",
-      "readiness_percent": 10,
-      "notes_he": "",
-      "language": "HTML",
-      "pushed_at": "2026-08-24T06:15:26Z",
-      "updated_at": "2026-08-24T06:15:25Z",
       "default_branch": "main",
       "archived": false
     },
