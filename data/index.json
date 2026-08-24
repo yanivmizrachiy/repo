@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T05:32:07.567Z",
+  "generated_at": "2026-08-24T05:57:31.743Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "aaa",
+      "url": "https://github.com/yanivmizrachiy/aaa",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "אין עדיין תיאור עברי מאומת.",
+      "exists_he": "README.md, .github/workflows, package.json",
+      "status_he": "כמעט ריק",
+      "readiness_percent": 10,
+      "notes_he": "",
+      "language": "HTML",
+      "pushed_at": "2026-08-24T05:50:43Z",
+      "updated_at": "2026-08-24T05:50:37Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "pythagoras",
       "url": "https://github.com/yanivmizrachiy/pythagoras",
       "category_he": "חדש / לא מסווג",
@@ -20,13 +36,13 @@
       "readiness_percent": 40,
       "notes_he": "",
       "language": "JavaScript",
-      "pushed_at": "2026-08-24T05:28:16Z",
+      "pushed_at": "2026-08-24T05:43:00Z",
       "updated_at": "2026-08-21T13:23:36Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -36,13 +52,13 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-08-24T05:15:25Z",
-      "updated_at": "2026-08-24T05:15:32Z",
+      "pushed_at": "2026-08-24T05:32:08Z",
+      "updated_at": "2026-08-24T05:32:12Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 3,
+      "number": 4,
       "name": "coordinate-lms",
       "url": "https://github.com/yanivmizrachiy/coordinate-lms",
       "category_he": "חדש / לא מסווג",
@@ -54,22 +70,6 @@
       "language": "TypeScript",
       "pushed_at": "2026-08-24T04:10:16Z",
       "updated_at": "2026-08-24T04:11:33Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 4,
-      "name": "aaa",
-      "url": "https://github.com/yanivmizrachiy/aaa",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": "README.md, .github/workflows, package.json",
-      "status_he": "כמעט ריק",
-      "readiness_percent": 10,
-      "notes_he": "",
-      "language": "HTML",
-      "pushed_at": "2026-08-24T03:22:23Z",
-      "updated_at": "2026-08-24T03:22:50Z",
       "default_branch": "main",
       "archived": false
     },
