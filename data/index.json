@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T16:24:59.359Z",
+  "generated_at": "2026-08-25T16:44:38.162Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,7 +20,7 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-08-25T16:04:04Z",
+      "pushed_at": "2026-08-25T16:25:03Z",
       "updated_at": "2026-08-25T16:09:06Z",
       "default_branch": "main",
       "archived": false
@@ -127,7 +127,7 @@
       "url": "https://github.com/yanivmizrachiy/www",
       "category_he": "Moodle / מוצר מורה",
       "summary_he": "ריפו Moodle Teacher Hub הפעיל לפי העבודה האחרונה: מוצר RTL למורים מעל Moodle, Render, Supabase ו־LTI.",
-      "exists_he": "README.md, PROJECT_RULES.md, RULES.md, docs, STATE, .github/workflows, package.json",
+      "exists_he": "README.md, PROJECT_RULES.md, RULES.md, docs, STATE, .github/workflows",
       "status_he": "פעיל",
       "readiness_percent": 78,
       "notes_he": "Teacher release עדיין לא מאושר בלי בדיקות מלאות.",
