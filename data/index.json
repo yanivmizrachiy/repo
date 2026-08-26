@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T13:46:59.063Z",
+  "generated_at": "2026-08-26T14:15:22.746Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,8 +20,8 @@
       "readiness_percent": 40,
       "notes_he": "",
       "language": "HTML",
-      "pushed_at": "2026-08-26T13:30:00Z",
-      "updated_at": "2026-08-26T13:36:19Z",
+      "pushed_at": "2026-08-26T14:10:23Z",
+      "updated_at": "2026-08-26T14:11:03Z",
       "default_branch": "main",
       "archived": false
     },
@@ -36,8 +36,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-08-26T13:21:45Z",
-      "updated_at": "2026-08-26T13:36:36Z",
+      "pushed_at": "2026-08-26T13:47:02Z",
+      "updated_at": "2026-08-26T14:03:21Z",
       "default_branch": "main",
       "archived": false
     },
@@ -127,7 +127,7 @@
       "url": "https://github.com/yanivmizrachiy/www",
       "category_he": "Moodle / מוצר מורה",
       "summary_he": "ריפו Moodle Teacher Hub הפעיל לפי העבודה האחרונה: מוצר RTL למורים מעל Moodle, Render, Supabase ו־LTI.",
-      "exists_he": "README.md, PROJECT_RULES.md, RULES.md, docs, STATE, .github/workflows",
+      "exists_he": "README.md, PROJECT_RULES.md, RULES.md",
       "status_he": "פעיל",
       "readiness_percent": 78,
       "notes_he": "Teacher release עדיין לא מאושר בלי בדיקות מלאות.",
