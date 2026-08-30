@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T15:33:09.303Z",
+  "generated_at": "2026-08-30T15:47:33.739Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "pythagoras",
+      "url": "https://github.com/yanivmizrachiy/pythagoras",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "53-page Pythagoras workbook — single source of truth",
+      "exists_he": "README.md, .github/workflows",
+      "status_he": "חלקי",
+      "readiness_percent": 40,
+      "notes_he": "",
+      "language": "JavaScript",
+      "pushed_at": "2026-08-30T15:44:19Z",
+      "updated_at": "2026-08-21T13:23:36Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -20,13 +36,13 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-08-30T15:21:21Z",
-      "updated_at": "2026-08-30T15:23:22Z",
+      "pushed_at": "2026-08-30T15:33:13Z",
+      "updated_at": "2026-08-30T15:34:02Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "razpages",
       "url": "https://github.com/yanivmizrachiy/razpages",
       "category_he": "חדש / לא מסווג",
@@ -42,7 +58,7 @@
       "archived": false
     },
     {
-      "number": 3,
+      "number": 4,
       "name": "hishtalmut-215195",
       "url": "https://github.com/yanivmizrachiy/hishtalmut-215195",
       "category_he": "השתלמות 215195",
@@ -58,7 +74,7 @@
       "archived": false
     },
     {
-      "number": 4,
+      "number": 5,
       "name": "coordinate-lms",
       "url": "https://github.com/yanivmizrachiy/coordinate-lms",
       "category_he": "חדש / לא מסווג",
@@ -74,7 +90,7 @@
       "archived": false
     },
     {
-      "number": 5,
+      "number": 6,
       "name": "smartschool-hebrew-voice-notes",
       "url": "https://github.com/yanivmizrachiy/smartschool-hebrew-voice-notes",
       "category_he": "בית ספר / קול",
@@ -90,7 +106,7 @@
       "archived": false
     },
     {
-      "number": 6,
+      "number": 7,
       "name": "ratio-workbook",
       "url": "https://github.com/yanivmizrachiy/ratio-workbook",
       "category_he": "חדש / לא מסווג",
@@ -106,12 +122,12 @@
       "archived": false
     },
     {
-      "number": 7,
+      "number": 8,
       "name": "aaa",
       "url": "https://github.com/yanivmizrachiy/aaa",
       "category_he": "חדש / לא מסווג",
       "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": "README.md",
+      "exists_he": "README.md, .github/workflows, package.json",
       "status_he": "כמעט ריק",
       "readiness_percent": 10,
       "notes_he": "",
@@ -122,28 +138,12 @@
       "archived": false
     },
     {
-      "number": 8,
-      "name": "pythagoras",
-      "url": "https://github.com/yanivmizrachiy/pythagoras",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "53-page Pythagoras workbook — single source of truth",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
-      "status_he": "חלקי",
-      "readiness_percent": 40,
-      "notes_he": "",
-      "language": "JavaScript",
-      "pushed_at": "2026-08-24T07:44:31Z",
-      "updated_at": "2026-08-21T13:23:36Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
       "number": 9,
       "name": "www",
       "url": "https://github.com/yanivmizrachiy/www",
       "category_he": "Moodle / מוצר מורה",
       "summary_he": "ריפו Moodle Teacher Hub הפעיל לפי העבודה האחרונה: מוצר RTL למורים מעל Moodle, Render, Supabase ו־LTI.",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
+      "exists_he": "README.md, PROJECT_RULES.md, RULES.md",
       "status_he": "פעיל",
       "readiness_percent": 78,
       "notes_he": "Teacher release עדיין לא מאושר בלי בדיקות מלאות.",
