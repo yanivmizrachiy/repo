@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T13:37:30.705Z",
+  "generated_at": "2026-08-31T13:47:23.758Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,8 +20,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-08-31T13:26:24Z",
-      "updated_at": "2026-08-31T13:15:06Z",
+      "pushed_at": "2026-08-31T13:37:32Z",
+      "updated_at": "2026-08-31T13:38:02Z",
       "default_branch": "main",
       "archived": false
     },
@@ -127,7 +127,7 @@
       "url": "https://github.com/yanivmizrachiy/ratio-workbook",
       "category_he": "חדש / לא מסווג",
       "summary_he": "חוברת יחס ופרופורציה לכיתה ח׳ — עצמאית, נפרדת לחלוטין מפרויקטים אחרים",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
+      "exists_he": "README.md, .github/workflows",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "",
