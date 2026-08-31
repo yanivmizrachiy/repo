@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T05:25:34.336Z",
+  "generated_at": "2026-08-31T05:35:42.347Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "razpages",
+      "url": "https://github.com/yanivmizrachiy/razpages",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "אין עדיין תיאור עברי מאומת.",
+      "exists_he": "README.md, docs, .github/workflows, package.json",
+      "status_he": "פעיל",
+      "readiness_percent": 60,
+      "notes_he": "",
+      "language": "HTML",
+      "pushed_at": "2026-08-31T05:32:33Z",
+      "updated_at": "2026-08-21T14:14:58Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -20,13 +36,13 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-08-31T05:08:53Z",
-      "updated_at": "2026-08-31T05:09:54Z",
+      "pushed_at": "2026-08-31T05:25:36Z",
+      "updated_at": "2026-08-31T05:26:33Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "aaa",
       "url": "https://github.com/yanivmizrachiy/aaa",
       "category_he": "חדש / לא מסווג",
@@ -42,7 +58,7 @@
       "archived": false
     },
     {
-      "number": 3,
+      "number": 4,
       "name": "pythagoras",
       "url": "https://github.com/yanivmizrachiy/pythagoras",
       "category_he": "חדש / לא מסווג",
@@ -58,7 +74,7 @@
       "archived": false
     },
     {
-      "number": 4,
+      "number": 5,
       "name": "hishtalmut-215195",
       "url": "https://github.com/yanivmizrachiy/hishtalmut-215195",
       "category_he": "השתלמות 215195",
@@ -70,22 +86,6 @@
       "language": "HTML",
       "pushed_at": "2026-08-30T20:50:42Z",
       "updated_at": "2026-08-27T23:07:06Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 5,
-      "name": "razpages",
-      "url": "https://github.com/yanivmizrachiy/razpages",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": "README.md, docs, .github/workflows, package.json",
-      "status_he": "פעיל",
-      "readiness_percent": 60,
-      "notes_he": "",
-      "language": "HTML",
-      "pushed_at": "2026-08-30T15:12:40Z",
-      "updated_at": "2026-08-21T14:14:58Z",
       "default_branch": "main",
       "archived": false
     },
@@ -111,7 +111,7 @@
       "url": "https://github.com/yanivmizrachiy/smartschool-hebrew-voice-notes",
       "category_he": "בית ספר / קול",
       "summary_he": "פרויקט פתקים קוליים בעברית לבית ספר או Smartschool.",
-      "exists_he": "README.md, RULES.md, .github/workflows, package.json",
+      "exists_he": "README.md",
       "status_he": "חלקי",
       "readiness_percent": 45,
       "notes_he": "דורש אימות יכולות בפועל.",
@@ -127,7 +127,7 @@
       "url": "https://github.com/yanivmizrachiy/ratio-workbook",
       "category_he": "חדש / לא מסווג",
       "summary_he": "חוברת יחס ופרופורציה לכיתה ח׳ — עצמאית, נפרדת לחלוטין מפרויקטים אחרים",
-      "exists_he": "README.md, .github/workflows, package.json",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "",
