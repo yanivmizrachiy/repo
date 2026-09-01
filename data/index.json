@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T10:47:58.329Z",
+  "generated_at": "2026-09-01T11:07:37.675Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "razpages",
+      "url": "https://github.com/yanivmizrachiy/razpages",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "אין עדיין תיאור עברי מאומת.",
+      "exists_he": "README.md, docs, .github/workflows, package.json",
+      "status_he": "פעיל",
+      "readiness_percent": 60,
+      "notes_he": "",
+      "language": "HTML",
+      "pushed_at": "2026-09-01T10:56:18Z",
+      "updated_at": "2026-09-01T10:56:33Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -20,13 +36,13 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-09-01T10:41:06Z",
-      "updated_at": "2026-09-01T10:41:21Z",
+      "pushed_at": "2026-09-01T10:48:02Z",
+      "updated_at": "2026-09-01T10:50:23Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "forms-mcp",
       "url": "https://github.com/yanivmizrachiy/forms-mcp",
       "category_he": "חדש / לא מסווג",
@@ -38,22 +54,6 @@
       "language": "TypeScript",
       "pushed_at": "2026-08-31T22:02:42Z",
       "updated_at": "2026-08-31T21:24:44Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 3,
-      "name": "razpages",
-      "url": "https://github.com/yanivmizrachiy/razpages",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": "README.md, docs, .github/workflows, package.json",
-      "status_he": "פעיל",
-      "readiness_percent": 60,
-      "notes_he": "",
-      "language": "HTML",
-      "pushed_at": "2026-08-31T06:29:05Z",
-      "updated_at": "2026-08-21T14:14:58Z",
       "default_branch": "main",
       "archived": false
     },
