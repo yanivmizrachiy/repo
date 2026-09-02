@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T06:18:15.375Z",
+  "generated_at": "2026-09-02T06:52:00.423Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "zaviyot-next-20260902-062445",
+      "url": "https://github.com/yanivmizrachiy/zaviyot-next-20260902-062445",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "אין עדיין תיאור עברי מאומת.",
+      "exists_he": ".github/workflows, package.json",
+      "status_he": "חלקי",
+      "readiness_percent": 40,
+      "notes_he": "",
+      "language": "JavaScript",
+      "pushed_at": "2026-09-02T06:48:42Z",
+      "updated_at": "2026-09-02T06:48:57Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -20,13 +36,13 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-09-02T05:49:03Z",
-      "updated_at": "2026-09-02T05:49:34Z",
+      "pushed_at": "2026-09-02T06:18:18Z",
+      "updated_at": "2026-09-02T06:19:26Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "www",
       "url": "https://github.com/yanivmizrachiy/www",
       "category_he": "Moodle / מוצר מורה",
@@ -42,7 +58,7 @@
       "archived": false
     },
     {
-      "number": 3,
+      "number": 4,
       "name": "graph-reading-preview",
       "url": "https://github.com/yanivmizrachiy/graph-reading-preview",
       "category_he": "חדש / לא מסווג",
@@ -54,22 +70,6 @@
       "language": "HTML",
       "pushed_at": "2026-09-02T05:28:46Z",
       "updated_at": "2026-09-02T05:29:02Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 4,
-      "name": "zaviyot-next-20260902-062445",
-      "url": "https://github.com/yanivmizrachiy/zaviyot-next-20260902-062445",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": ".github/workflows, package.json",
-      "status_he": "חלקי",
-      "readiness_percent": 40,
-      "notes_he": "",
-      "language": "JavaScript",
-      "pushed_at": "2026-09-02T05:22:44Z",
-      "updated_at": "2026-09-02T05:23:33Z",
       "default_branch": "main",
       "archived": false
     },
@@ -127,7 +127,7 @@
       "url": "https://github.com/yanivmizrachiy/aaa",
       "category_he": "חדש / לא מסווג",
       "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": "README.md",
+      "exists_he": "README.md, .github/workflows, package.json",
       "status_he": "כמעט ריק",
       "readiness_percent": 10,
       "notes_he": "",
