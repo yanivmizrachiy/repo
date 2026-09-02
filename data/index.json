@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T14:25:55.471Z",
+  "generated_at": "2026-09-02T14:37:17.957Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,22 +11,6 @@
   "repositories": [
     {
       "number": 1,
-      "name": "zaviyot-next-20260902-062445",
-      "url": "https://github.com/yanivmizrachiy/zaviyot-next-20260902-062445",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": ".github/workflows, package.json",
-      "status_he": "חלקי",
-      "readiness_percent": 40,
-      "notes_he": "",
-      "language": "JavaScript",
-      "pushed_at": "2026-09-02T14:25:45Z",
-      "updated_at": "2026-09-02T13:49:28Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 2,
       "name": "www",
       "url": "https://github.com/yanivmizrachiy/www",
       "category_he": "Moodle / מוצר מורה",
@@ -36,8 +20,24 @@
       "readiness_percent": 78,
       "notes_he": "Teacher release עדיין לא מאושר בלי בדיקות מלאות.",
       "language": "TypeScript",
-      "pushed_at": "2026-09-02T14:25:06Z",
+      "pushed_at": "2026-09-02T14:31:32Z",
       "updated_at": "2026-09-02T05:24:24Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
+      "name": "zaviyot-next-20260902-062445",
+      "url": "https://github.com/yanivmizrachiy/zaviyot-next-20260902-062445",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "אין עדיין תיאור עברי מאומת.",
+      "exists_he": ".github/workflows, package.json",
+      "status_he": "חלקי",
+      "readiness_percent": 40,
+      "notes_he": "",
+      "language": "JavaScript",
+      "pushed_at": "2026-09-02T14:27:23Z",
+      "updated_at": "2026-09-02T14:35:20Z",
       "default_branch": "main",
       "archived": false
     },
@@ -52,13 +52,29 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-09-02T14:08:19Z",
-      "updated_at": "2026-09-02T14:15:48Z",
+      "pushed_at": "2026-09-02T14:25:56Z",
+      "updated_at": "2026-09-02T14:35:50Z",
       "default_branch": "main",
       "archived": false
     },
     {
       "number": 4,
+      "name": "graph-reading-preview",
+      "url": "https://github.com/yanivmizrachiy/graph-reading-preview",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "תצוגה חיצונית של דפי העבודה — קריאת גרפים",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
+      "status_he": "חלקי",
+      "readiness_percent": 40,
+      "notes_he": "",
+      "language": "HTML",
+      "pushed_at": "2026-09-02T14:25:52Z",
+      "updated_at": "2026-09-02T14:35:58Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 5,
       "name": "jerusalem",
       "url": "https://github.com/yanivmizrachiy/jerusalem",
       "category_he": "חדש / לא מסווג",
@@ -74,7 +90,7 @@
       "archived": false
     },
     {
-      "number": 5,
+      "number": 6,
       "name": "whatsapp-images",
       "url": "https://github.com/yanivmizrachiy/whatsapp-images",
       "category_he": "חדש / לא מסווג",
@@ -90,7 +106,7 @@
       "archived": false
     },
     {
-      "number": 6,
+      "number": 7,
       "name": "coordinate-first-quadrant",
       "url": "https://github.com/yanivmizrachiy/coordinate-first-quadrant",
       "category_he": "חדש / לא מסווג",
@@ -106,12 +122,12 @@
       "archived": false
     },
     {
-      "number": 7,
+      "number": 8,
       "name": "razpages",
       "url": "https://github.com/yanivmizrachiy/razpages",
       "category_he": "חדש / לא מסווג",
       "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": "README.md",
+      "exists_he": "README.md, docs",
       "status_he": "פעיל",
       "readiness_percent": 60,
       "notes_he": "",
@@ -122,7 +138,7 @@
       "archived": false
     },
     {
-      "number": 8,
+      "number": 9,
       "name": "pythagoras",
       "url": "https://github.com/yanivmizrachiy/pythagoras",
       "category_he": "חדש / לא מסווג",
@@ -134,22 +150,6 @@
       "language": "HTML",
       "pushed_at": "2026-09-02T07:57:58Z",
       "updated_at": "2026-09-02T07:58:01Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 9,
-      "name": "graph-reading-preview",
-      "url": "https://github.com/yanivmizrachiy/graph-reading-preview",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "תצוגה חיצונית של דפי העבודה — קריאת גרפים",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
-      "status_he": "חלקי",
-      "readiness_percent": 40,
-      "notes_he": "",
-      "language": "HTML",
-      "pushed_at": "2026-09-02T07:52:13Z",
-      "updated_at": "2026-09-02T07:54:25Z",
       "default_branch": "main",
       "archived": false
     },
