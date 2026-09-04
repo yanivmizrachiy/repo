@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T03:50:25.464Z",
+  "generated_at": "2026-09-04T04:09:41.931Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "graph-reading-preview",
+      "url": "https://github.com/yanivmizrachiy/graph-reading-preview",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "תצוגה חיצונית של דפי העבודה — קריאת גרפים",
+      "exists_he": "README.md, .github/workflows",
+      "status_he": "חלקי",
+      "readiness_percent": 40,
+      "notes_he": "",
+      "language": "HTML",
+      "pushed_at": "2026-09-04T04:07:11Z",
+      "updated_at": "2026-09-04T04:08:03Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -20,13 +36,13 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-09-04T03:43:06Z",
-      "updated_at": "2026-09-04T03:43:17Z",
+      "pushed_at": "2026-09-04T03:50:26Z",
+      "updated_at": "2026-09-04T03:50:32Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "zaviyot-next-20260902-062445",
       "url": "https://github.com/yanivmizrachiy/zaviyot-next-20260902-062445",
       "category_he": "חדש / לא מסווג",
@@ -42,7 +58,7 @@
       "archived": false
     },
     {
-      "number": 3,
+      "number": 4,
       "name": "coordinate-lms",
       "url": "https://github.com/yanivmizrachiy/coordinate-lms",
       "category_he": "חדש / לא מסווג",
@@ -54,22 +70,6 @@
       "language": "TypeScript",
       "pushed_at": "2026-09-03T09:44:04Z",
       "updated_at": "2026-09-03T09:48:29Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 4,
-      "name": "graph-reading-preview",
-      "url": "https://github.com/yanivmizrachiy/graph-reading-preview",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "תצוגה חיצונית של דפי העבודה — קריאת גרפים",
-      "exists_he": "README.md, .github/workflows",
-      "status_he": "חלקי",
-      "readiness_percent": 40,
-      "notes_he": "",
-      "language": "HTML",
-      "pushed_at": "2026-09-02T18:43:22Z",
-      "updated_at": "2026-09-02T18:47:17Z",
       "default_branch": "main",
       "archived": false
     },
