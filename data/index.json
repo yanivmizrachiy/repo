@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T17:05:44.247Z",
+  "generated_at": "2026-09-06T17:18:48.466Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "razpages",
+      "url": "https://github.com/yanivmizrachiy/razpages",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "אין עדיין תיאור עברי מאומת.",
+      "exists_he": "README.md, docs, .github/workflows, package.json",
+      "status_he": "פעיל",
+      "readiness_percent": 60,
+      "notes_he": "",
+      "language": "HTML",
+      "pushed_at": "2026-09-06T17:08:42Z",
+      "updated_at": "2026-09-06T04:00:57Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -20,13 +36,13 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-09-06T16:47:23Z",
-      "updated_at": "2026-09-06T16:47:26Z",
+      "pushed_at": "2026-09-06T17:05:45Z",
+      "updated_at": "2026-09-06T17:05:48Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "hishtalmut-215195",
       "url": "https://github.com/yanivmizrachiy/hishtalmut-215195",
       "category_he": "השתלמות 215195",
@@ -42,7 +58,7 @@
       "archived": false
     },
     {
-      "number": 3,
+      "number": 4,
       "name": "coordinate-lms",
       "url": "https://github.com/yanivmizrachiy/coordinate-lms",
       "category_he": "חדש / לא מסווג",
@@ -54,22 +70,6 @@
       "language": "TypeScript",
       "pushed_at": "2026-09-06T05:03:37Z",
       "updated_at": "2026-09-05T19:54:10Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 4,
-      "name": "razpages",
-      "url": "https://github.com/yanivmizrachiy/razpages",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": "README.md, docs, .github/workflows, package.json",
-      "status_he": "פעיל",
-      "readiness_percent": 60,
-      "notes_he": "",
-      "language": "HTML",
-      "pushed_at": "2026-09-06T04:00:47Z",
-      "updated_at": "2026-09-06T04:00:57Z",
       "default_branch": "main",
       "archived": false
     },
@@ -127,7 +127,7 @@
       "url": "https://github.com/yanivmizrachiy/jerusalem",
       "category_he": "חדש / לא מסווג",
       "summary_he": "פרוייקט אי וודאות 17/6/25",
-      "exists_he": "README.md, RULES.md, docs, .github/workflows, package.json",
+      "exists_he": "README.md",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "",
