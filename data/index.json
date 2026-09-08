@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T19:20:53.824Z",
+  "generated_at": "2026-09-08T19:33:25.728Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,7 +20,7 @@
       "readiness_percent": 78,
       "notes_he": "Teacher release עדיין לא מאושר בלי בדיקות מלאות.",
       "language": "TypeScript",
-      "pushed_at": "2026-09-08T19:20:20Z",
+      "pushed_at": "2026-09-08T19:32:25Z",
       "updated_at": "2026-09-08T18:35:01Z",
       "default_branch": "main",
       "archived": false
@@ -36,8 +36,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-09-08T19:07:05Z",
-      "updated_at": "2026-09-08T19:08:29Z",
+      "pushed_at": "2026-09-08T19:20:56Z",
+      "updated_at": "2026-09-08T19:21:38Z",
       "default_branch": "main",
       "archived": false
     },
