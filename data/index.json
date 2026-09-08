@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T22:22:00.295Z",
+  "generated_at": "2026-09-08T22:32:57.390Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,8 +20,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-09-08T22:07:24Z",
-      "updated_at": "2026-09-08T22:07:30Z",
+      "pushed_at": "2026-09-08T22:22:04Z",
+      "updated_at": "2026-09-08T22:22:08Z",
       "default_branch": "main",
       "archived": false
     },
@@ -111,7 +111,7 @@
       "url": "https://github.com/yanivmizrachiy/zaviyot-next-20260902-062445",
       "category_he": "חדש / לא מסווג",
       "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": ".github/workflows, package.json",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "",
