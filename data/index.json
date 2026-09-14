@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T10:36:29.285Z",
+  "generated_at": "2026-09-14T10:47:36.665Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,8 +20,8 @@
       "readiness_percent": 10,
       "notes_he": "",
       "language": "TypeScript",
-      "pushed_at": "2026-09-14T10:34:07Z",
-      "updated_at": "2026-09-14T10:34:11Z",
+      "pushed_at": "2026-09-14T10:40:48Z",
+      "updated_at": "2026-09-14T10:40:52Z",
       "default_branch": "main",
       "archived": false
     },
@@ -36,8 +36,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-09-14T10:25:42Z",
-      "updated_at": "2026-09-14T10:25:46Z",
+      "pushed_at": "2026-09-14T10:36:30Z",
+      "updated_at": "2026-09-14T10:36:34Z",
       "default_branch": "main",
       "archived": false
     },
@@ -127,7 +127,7 @@
       "url": "https://github.com/yanivmizrachiy/hishtalmut-215195",
       "category_he": "השתלמות 215195",
       "summary_he": "אתר או ריפו להשתלמות 215195 — עדכון תוכנית הלימודים, כולל חומרים וקבצי PDF לפי דרישות הפרויקט.",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
+      "exists_he": "README.md, .github/workflows",
       "status_he": "פעיל",
       "readiness_percent": 65,
       "notes_he": "מיועד לקישור חיצוני למשתלמים.",
