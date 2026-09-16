@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T06:14:06.476Z",
+  "generated_at": "2026-09-16T06:44:22.621Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "Makbilim",
+      "url": "https://github.com/yanivmizrachiy/Makbilim",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "אין עדיין תיאור עברי מאומת.",
+      "exists_he": "README.md",
+      "status_he": "חלקי",
+      "readiness_percent": 40,
+      "notes_he": "",
+      "language": "TypeScript",
+      "pushed_at": "2026-09-16T06:38:58Z",
+      "updated_at": "2026-09-16T06:39:02Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "moodle-guide-presentation",
       "url": "https://github.com/yanivmizrachiy/moodle-guide-presentation",
       "category_he": "חדש / לא מסווג",
@@ -20,24 +36,8 @@
       "readiness_percent": 10,
       "notes_he": "",
       "language": "TypeScript",
-      "pushed_at": "2026-09-16T06:13:39Z",
-      "updated_at": "2026-09-16T06:13:42Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 2,
-      "name": "Makbilim",
-      "url": "https://github.com/yanivmizrachiy/Makbilim",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": "README.md",
-      "status_he": "חלקי",
-      "readiness_percent": 40,
-      "notes_he": "",
-      "language": "",
-      "pushed_at": "2026-09-16T06:10:45Z",
-      "updated_at": "2026-09-16T06:10:49Z",
+      "pushed_at": "2026-09-16T06:20:33Z",
+      "updated_at": "2026-09-16T06:20:36Z",
       "default_branch": "main",
       "archived": false
     },
@@ -52,8 +52,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-09-16T05:48:17Z",
-      "updated_at": "2026-09-16T05:48:21Z",
+      "pushed_at": "2026-09-16T06:14:09Z",
+      "updated_at": "2026-09-16T06:14:12Z",
       "default_branch": "main",
       "archived": false
     },
