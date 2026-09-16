@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T23:33:34.158Z",
+  "generated_at": "2026-09-16T23:47:31.028Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,8 +20,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-09-16T23:22:10Z",
-      "updated_at": "2026-09-16T23:22:14Z",
+      "pushed_at": "2026-09-16T23:33:35Z",
+      "updated_at": "2026-09-16T23:33:38Z",
       "default_branch": "main",
       "archived": false
     },
@@ -143,7 +143,7 @@
       "url": "https://github.com/yanivmizrachiy/hishtalmut-215195",
       "category_he": "השתלמות 215195",
       "summary_he": "אתר או ריפו להשתלמות 215195 — עדכון תוכנית הלימודים, כולל חומרים וקבצי PDF לפי דרישות הפרויקט.",
-      "exists_he": "README.md",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
       "status_he": "פעיל",
       "readiness_percent": 65,
       "notes_he": "מיועד לקישור חיצוני למשתלמים.",
