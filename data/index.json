@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-16T06:44:22.621Z",
+  "generated_at": "2026-09-16T07:00:37.196Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
   "repo_url": "https://github.com/yanivmizrachiy/repo",
-  "public_count": 32,
+  "public_count": 33,
   "private_hidden": 12,
-  "total_known": 44,
+  "total_known": 45,
   "notice_he": "עודכן אוטומטית דרך GitHub Actions לפי רשימת הריפואים הציבוריים ב-GitHub. לריפואים פרטיים נדרש REPO_INDEX_TOKEN.",
   "repositories": [
     {
@@ -20,13 +20,45 @@
       "readiness_percent": 40,
       "notes_he": "",
       "language": "TypeScript",
-      "pushed_at": "2026-09-16T06:38:58Z",
-      "updated_at": "2026-09-16T06:39:02Z",
+      "pushed_at": "2026-09-16T07:00:21Z",
+      "updated_at": "2026-09-16T07:00:24Z",
       "default_branch": "main",
       "archived": false
     },
     {
       "number": 2,
+      "name": "ttt",
+      "url": "https://github.com/yanivmizrachiy/ttt",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "אין עדיין תיאור עברי מאומת.",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
+      "status_he": "כמעט ריק",
+      "readiness_percent": 10,
+      "notes_he": "",
+      "language": "",
+      "pushed_at": "2026-09-16T07:00:06Z",
+      "updated_at": "2026-09-16T07:00:06Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 3,
+      "name": "repo",
+      "url": "https://github.com/yanivmizrachiy/repo",
+      "category_he": "אינדקס ריפואים",
+      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
+      "exists_he": "README.md, docs, STATE, .github/workflows",
+      "status_he": "פעיל",
+      "readiness_percent": 65,
+      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
+      "language": "HTML",
+      "pushed_at": "2026-09-16T06:44:26Z",
+      "updated_at": "2026-09-16T06:44:29Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 4,
       "name": "moodle-guide-presentation",
       "url": "https://github.com/yanivmizrachiy/moodle-guide-presentation",
       "category_he": "חדש / לא מסווג",
@@ -42,23 +74,7 @@
       "archived": false
     },
     {
-      "number": 3,
-      "name": "repo",
-      "url": "https://github.com/yanivmizrachiy/repo",
-      "category_he": "אינדקס ריפואים",
-      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
-      "exists_he": "README.md, docs, STATE, .github/workflows",
-      "status_he": "פעיל",
-      "readiness_percent": 65,
-      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
-      "language": "HTML",
-      "pushed_at": "2026-09-16T06:14:09Z",
-      "updated_at": "2026-09-16T06:14:12Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 4,
+      "number": 5,
       "name": "www",
       "url": "https://github.com/yanivmizrachiy/www",
       "category_he": "Moodle / מוצר מורה",
@@ -74,7 +90,7 @@
       "archived": false
     },
     {
-      "number": 5,
+      "number": 6,
       "name": "moodle-teacher-hub",
       "url": "https://github.com/yanivmizrachiy/moodle-teacher-hub",
       "category_he": "Moodle / מורים",
@@ -90,7 +106,7 @@
       "archived": false
     },
     {
-      "number": 6,
+      "number": 7,
       "name": "jerusalem",
       "url": "https://github.com/yanivmizrachiy/jerusalem",
       "category_he": "חדש / לא מסווג",
@@ -106,12 +122,12 @@
       "archived": false
     },
     {
-      "number": 7,
+      "number": 8,
       "name": "zaviyot-digital-workbook",
       "url": "https://github.com/yanivmizrachiy/zaviyot-digital-workbook",
       "category_he": "חדש / לא מסווג",
       "summary_he": "חוברת דיגיטלית בעברית בנושא זוויות — דפדוף, הורדה והדפסה",
-      "exists_he": "README.md, package.json",
+      "exists_he": "README.md",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "",
@@ -122,12 +138,12 @@
       "archived": false
     },
     {
-      "number": 8,
+      "number": 9,
       "name": "zaviyot-next-20260902-062445",
       "url": "https://github.com/yanivmizrachiy/zaviyot-next-20260902-062445",
       "category_he": "חדש / לא מסווג",
       "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": ".github/workflows, package.json",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "",
@@ -138,12 +154,12 @@
       "archived": false
     },
     {
-      "number": 9,
+      "number": 10,
       "name": "hishtalmut-215195",
       "url": "https://github.com/yanivmizrachiy/hishtalmut-215195",
       "category_he": "השתלמות 215195",
       "summary_he": "אתר או ריפו להשתלמות 215195 — עדכון תוכנית הלימודים, כולל חומרים וקבצי PDF לפי דרישות הפרויקט.",
-      "exists_he": "README.md",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
       "status_he": "פעיל",
       "readiness_percent": 65,
       "notes_he": "מיועד לקישור חיצוני למשתלמים.",
@@ -154,7 +170,7 @@
       "archived": false
     },
     {
-      "number": 10,
+      "number": 11,
       "name": "targilim",
       "url": "https://github.com/yanivmizrachiy/targilim",
       "category_he": "חדש / לא מסווג",
@@ -170,7 +186,7 @@
       "archived": false
     },
     {
-      "number": 11,
+      "number": 12,
       "name": "whatsapp-images",
       "url": "https://github.com/yanivmizrachiy/whatsapp-images",
       "category_he": "חדש / לא מסווג",
@@ -186,7 +202,7 @@
       "archived": false
     },
     {
-      "number": 12,
+      "number": 13,
       "name": "coordinate-first-quadrant",
       "url": "https://github.com/yanivmizrachiy/coordinate-first-quadrant",
       "category_he": "חדש / לא מסווג",
@@ -202,7 +218,7 @@
       "archived": false
     },
     {
-      "number": 13,
+      "number": 14,
       "name": "razpages",
       "url": "https://github.com/yanivmizrachiy/razpages",
       "category_he": "חדש / לא מסווג",
@@ -218,7 +234,7 @@
       "archived": false
     },
     {
-      "number": 14,
+      "number": 15,
       "name": "coordinate-lms",
       "url": "https://github.com/yanivmizrachiy/coordinate-lms",
       "category_he": "חדש / לא מסווג",
@@ -234,7 +250,7 @@
       "archived": false
     },
     {
-      "number": 15,
+      "number": 16,
       "name": "graph-reading-preview",
       "url": "https://github.com/yanivmizrachiy/graph-reading-preview",
       "category_he": "חדש / לא מסווג",
@@ -250,7 +266,7 @@
       "archived": false
     },
     {
-      "number": 16,
+      "number": 17,
       "name": "pythagoras",
       "url": "https://github.com/yanivmizrachiy/pythagoras",
       "category_he": "חדש / לא מסווג",
@@ -266,7 +282,7 @@
       "archived": false
     },
     {
-      "number": 17,
+      "number": 18,
       "name": "aaa",
       "url": "https://github.com/yanivmizrachiy/aaa",
       "category_he": "חדש / לא מסווג",
@@ -282,7 +298,7 @@
       "archived": false
     },
     {
-      "number": 18,
+      "number": 19,
       "name": "smartschool-hebrew-voice-notes",
       "url": "https://github.com/yanivmizrachiy/smartschool-hebrew-voice-notes",
       "category_he": "בית ספר / קול",
@@ -298,7 +314,7 @@
       "archived": false
     },
     {
-      "number": 19,
+      "number": 20,
       "name": "ratio-workbook",
       "url": "https://github.com/yanivmizrachiy/ratio-workbook",
       "category_he": "חדש / לא מסווג",
@@ -314,7 +330,7 @@
       "archived": false
     },
     {
-      "number": 20,
+      "number": 21,
       "name": "github-journal",
       "url": "https://github.com/yanivmizrachiy/github-journal",
       "category_he": "יומן / תיעוד",
@@ -330,7 +346,7 @@
       "archived": false
     },
     {
-      "number": 21,
+      "number": 22,
       "name": "yaniv-gpt-journal",
       "url": "https://github.com/yanivmizrachiy/yaniv-gpt-journal",
       "category_he": "חדש / לא מסווג",
@@ -346,7 +362,7 @@
       "archived": false
     },
     {
-      "number": 22,
+      "number": 23,
       "name": "maagar",
       "url": "https://github.com/yanivmizrachiy/maagar",
       "category_he": "מאגר חומרים",
@@ -362,7 +378,7 @@
       "archived": false
     },
     {
-      "number": 23,
+      "number": 24,
       "name": "parabula2",
       "url": "https://github.com/yanivmizrachiy/parabula2",
       "category_he": "מתמטיקה / פרבולות",
@@ -378,7 +394,7 @@
       "archived": false
     },
     {
-      "number": 24,
+      "number": 25,
       "name": "zaviyot-worksheets-only",
       "url": "https://github.com/yanivmizrachiy/zaviyot-worksheets-only",
       "category_he": "חדש / לא מסווג",
@@ -394,7 +410,7 @@
       "archived": false
     },
     {
-      "number": 25,
+      "number": 26,
       "name": "colors",
       "url": "https://github.com/yanivmizrachiy/colors",
       "category_he": "עיצוב / צבעים",
@@ -410,7 +426,7 @@
       "archived": false
     },
     {
-      "number": 26,
+      "number": 27,
       "name": "bbb",
       "url": "https://github.com/yanivmizrachiy/bbb",
       "category_he": "חדש / לא מסווג",
@@ -426,7 +442,7 @@
       "archived": false
     },
     {
-      "number": 27,
+      "number": 28,
       "name": "i-vadaut-ai-studio",
       "url": "https://github.com/yanivmizrachiy/i-vadaut-ai-studio",
       "category_he": "חדש / לא מסווג",
@@ -442,7 +458,7 @@
       "archived": false
     },
     {
-      "number": 28,
+      "number": 29,
       "name": "i-vadaut",
       "url": "https://github.com/yanivmizrachiy/i-vadaut",
       "category_he": "חדש / לא מסווג",
@@ -458,7 +474,7 @@
       "archived": false
     },
     {
-      "number": 29,
+      "number": 30,
       "name": "stats-question-generator",
       "url": "https://github.com/yanivmizrachiy/stats-question-generator",
       "category_he": "חדש / לא מסווג",
@@ -474,7 +490,7 @@
       "archived": false
     },
     {
-      "number": 30,
+      "number": 31,
       "name": "luz-teddy",
       "url": "https://github.com/yanivmizrachiy/luz-teddy",
       "category_he": "חדש / לא מסווג",
@@ -490,7 +506,7 @@
       "archived": false
     },
     {
-      "number": 31,
+      "number": 32,
       "name": "homer-mivchan-tet1-madait",
       "url": "https://github.com/yanivmizrachiy/homer-mivchan-tet1-madait",
       "category_he": "חומר למבחן",
@@ -506,7 +522,7 @@
       "archived": false
     },
     {
-      "number": 32,
+      "number": 33,
       "name": "mifmar-z-qa",
       "url": "https://github.com/yanivmizrachiy/mifmar-z-qa",
       "category_he": "מתמטיקה / QA",
