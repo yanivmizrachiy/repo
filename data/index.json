@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T15:25:10.465Z",
+  "generated_at": "2026-09-17T15:35:45.225Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,38 @@
   "repositories": [
     {
       "number": 1,
+      "name": "razpages",
+      "url": "https://github.com/yanivmizrachiy/razpages",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "אין עדיין תיאור עברי מאומת.",
+      "exists_he": "README.md, docs, .github/workflows, package.json",
+      "status_he": "פעיל",
+      "readiness_percent": 60,
+      "notes_he": "",
+      "language": "HTML",
+      "pushed_at": "2026-09-17T15:35:10Z",
+      "updated_at": "2026-09-17T15:33:30Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
+      "name": "repo",
+      "url": "https://github.com/yanivmizrachiy/repo",
+      "category_he": "אינדקס ריפואים",
+      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
+      "exists_he": "README.md, docs, STATE, .github/workflows",
+      "status_he": "פעיל",
+      "readiness_percent": 65,
+      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
+      "language": "HTML",
+      "pushed_at": "2026-09-17T15:25:11Z",
+      "updated_at": "2026-09-17T15:25:15Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 3,
       "name": "Makbilim",
       "url": "https://github.com/yanivmizrachiy/Makbilim",
       "category_he": "חדש / לא מסווג",
@@ -26,7 +58,7 @@
       "archived": false
     },
     {
-      "number": 2,
+      "number": 4,
       "name": "graph-reading-preview",
       "url": "https://github.com/yanivmizrachiy/graph-reading-preview",
       "category_he": "חדש / לא מסווג",
@@ -38,38 +70,6 @@
       "language": "HTML",
       "pushed_at": "2026-09-17T15:15:22Z",
       "updated_at": "2026-09-17T15:15:33Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 3,
-      "name": "razpages",
-      "url": "https://github.com/yanivmizrachiy/razpages",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": "README.md, docs, .github/workflows, package.json",
-      "status_he": "פעיל",
-      "readiness_percent": 60,
-      "notes_he": "",
-      "language": "HTML",
-      "pushed_at": "2026-09-17T15:14:50Z",
-      "updated_at": "2026-09-17T15:14:55Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 4,
-      "name": "repo",
-      "url": "https://github.com/yanivmizrachiy/repo",
-      "category_he": "אינדקס ריפואים",
-      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
-      "exists_he": "README.md, docs, STATE, .github/workflows",
-      "status_he": "פעיל",
-      "readiness_percent": 65,
-      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
-      "language": "HTML",
-      "pushed_at": "2026-09-17T15:08:45Z",
-      "updated_at": "2026-09-17T15:08:49Z",
       "default_branch": "main",
       "archived": false
     },
