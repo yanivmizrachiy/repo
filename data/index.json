@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T13:08:19.869Z",
+  "generated_at": "2026-09-17T13:25:11.328Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "razpages",
+      "url": "https://github.com/yanivmizrachiy/razpages",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "אין עדיין תיאור עברי מאומת.",
+      "exists_he": "README.md, docs, .github/workflows, package.json",
+      "status_he": "פעיל",
+      "readiness_percent": 60,
+      "notes_he": "",
+      "language": "HTML",
+      "pushed_at": "2026-09-17T13:19:49Z",
+      "updated_at": "2026-09-17T13:19:53Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -20,13 +36,13 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-09-17T12:54:59Z",
-      "updated_at": "2026-09-17T12:55:03Z",
+      "pushed_at": "2026-09-17T13:08:20Z",
+      "updated_at": "2026-09-17T13:08:25Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "moodle-guide-presentation",
       "url": "https://github.com/yanivmizrachiy/moodle-guide-presentation",
       "category_he": "חדש / לא מסווג",
@@ -42,7 +58,7 @@
       "archived": false
     },
     {
-      "number": 3,
+      "number": 4,
       "name": "Makbilim",
       "url": "https://github.com/yanivmizrachiy/Makbilim",
       "category_he": "חדש / לא מסווג",
@@ -58,7 +74,7 @@
       "archived": false
     },
     {
-      "number": 4,
+      "number": 5,
       "name": "www",
       "url": "https://github.com/yanivmizrachiy/www",
       "category_he": "Moodle / מוצר מורה",
@@ -74,7 +90,7 @@
       "archived": false
     },
     {
-      "number": 5,
+      "number": 6,
       "name": "moodle-teacher-hub",
       "url": "https://github.com/yanivmizrachiy/moodle-teacher-hub",
       "category_he": "Moodle / מורים",
@@ -90,7 +106,7 @@
       "archived": false
     },
     {
-      "number": 6,
+      "number": 7,
       "name": "jerusalem",
       "url": "https://github.com/yanivmizrachiy/jerusalem",
       "category_he": "חדש / לא מסווג",
@@ -106,7 +122,7 @@
       "archived": false
     },
     {
-      "number": 7,
+      "number": 8,
       "name": "zaviyot-digital-workbook",
       "url": "https://github.com/yanivmizrachiy/zaviyot-digital-workbook",
       "category_he": "חדש / לא מסווג",
@@ -122,12 +138,12 @@
       "archived": false
     },
     {
-      "number": 8,
+      "number": 9,
       "name": "zaviyot-next-20260902-062445",
       "url": "https://github.com/yanivmizrachiy/zaviyot-next-20260902-062445",
       "category_he": "חדש / לא מסווג",
       "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": ".github/workflows, package.json",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "",
@@ -138,12 +154,12 @@
       "archived": false
     },
     {
-      "number": 9,
+      "number": 10,
       "name": "hishtalmut-215195",
       "url": "https://github.com/yanivmizrachiy/hishtalmut-215195",
       "category_he": "השתלמות 215195",
       "summary_he": "אתר או ריפו להשתלמות 215195 — עדכון תוכנית הלימודים, כולל חומרים וקבצי PDF לפי דרישות הפרויקט.",
-      "exists_he": "README.md",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
       "status_he": "פעיל",
       "readiness_percent": 65,
       "notes_he": "מיועד לקישור חיצוני למשתלמים.",
@@ -154,7 +170,7 @@
       "archived": false
     },
     {
-      "number": 10,
+      "number": 11,
       "name": "targilim",
       "url": "https://github.com/yanivmizrachiy/targilim",
       "category_he": "חדש / לא מסווג",
@@ -170,7 +186,7 @@
       "archived": false
     },
     {
-      "number": 11,
+      "number": 12,
       "name": "whatsapp-images",
       "url": "https://github.com/yanivmizrachiy/whatsapp-images",
       "category_he": "חדש / לא מסווג",
@@ -186,7 +202,7 @@
       "archived": false
     },
     {
-      "number": 12,
+      "number": 13,
       "name": "coordinate-first-quadrant",
       "url": "https://github.com/yanivmizrachiy/coordinate-first-quadrant",
       "category_he": "חדש / לא מסווג",
@@ -198,22 +214,6 @@
       "language": "TypeScript",
       "pushed_at": "2026-09-08T12:04:07Z",
       "updated_at": "2026-09-07T07:57:43Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 13,
-      "name": "razpages",
-      "url": "https://github.com/yanivmizrachiy/razpages",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
-      "status_he": "פעיל",
-      "readiness_percent": 60,
-      "notes_he": "",
-      "language": "HTML",
-      "pushed_at": "2026-09-06T20:06:28Z",
-      "updated_at": "2026-09-06T20:06:33Z",
       "default_branch": "main",
       "archived": false
     },
