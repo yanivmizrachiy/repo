@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T03:44:46.674Z",
+  "generated_at": "2026-09-20T03:52:29.921Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,8 +20,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-09-20T03:29:06Z",
-      "updated_at": "2026-09-20T03:29:09Z",
+      "pushed_at": "2026-09-20T03:44:47Z",
+      "updated_at": "2026-09-20T03:44:51Z",
       "default_branch": "main",
       "archived": false
     },
@@ -127,7 +127,7 @@
       "url": "https://github.com/yanivmizrachiy/moodle-teacher-hub",
       "category_he": "Moodle / מורים",
       "summary_he": "פרויקט Moodle Teacher Hub: כלי מורה בעברית מעל Moodle להצגת נתונים אמיתיים.",
-      "exists_he": "README.md, PROJECT_RULES.md, docs, STATE",
+      "exists_he": "README.md, PROJECT_RULES.md, docs, STATE, package.json",
       "status_he": "פעיל",
       "readiness_percent": 65,
       "notes_he": "צריך להצליב מול www כדי לדעת מה מקור האמת הפעיל.",
