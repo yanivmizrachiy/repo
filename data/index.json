@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T22:06:45.702Z",
+  "generated_at": "2026-09-22T22:22:51.791Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,8 +20,8 @@
       "readiness_percent": 40,
       "notes_he": "",
       "language": "TypeScript",
-      "pushed_at": "2026-09-22T22:06:15Z",
-      "updated_at": "2026-09-22T22:06:18Z",
+      "pushed_at": "2026-09-22T22:22:30Z",
+      "updated_at": "2026-09-22T22:22:34Z",
       "default_branch": "main",
       "archived": false
     },
@@ -36,8 +36,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-09-22T21:47:45Z",
-      "updated_at": "2026-09-22T21:47:50Z",
+      "pushed_at": "2026-09-22T22:06:46Z",
+      "updated_at": "2026-09-22T22:06:50Z",
       "default_branch": "main",
       "archived": false
     },
@@ -127,7 +127,7 @@
       "url": "https://github.com/yanivmizrachiy/stats-question-generator",
       "category_he": "חדש / לא מסווג",
       "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": "README.md, .github/workflows",
+      "exists_he": "README.md",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "",
