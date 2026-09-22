@@ -1,10 +1,10 @@
 {
   "ok": true,
-  "generated_at": "2026-09-22T11:23:42.562Z",
+  "generated_at": "2026-09-22T11:35:23.882Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
-  "visible": 33,
+  "visible": 31,
   "private_hidden": 12,
-  "total_known": 45,
+  "total_known": 43,
   "numbered": true,
   "auto_update": true
 }
