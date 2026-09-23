@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T15:07:51.941Z",
+  "generated_at": "2026-09-23T15:25:38.470Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "repo",
+      "url": "https://github.com/yanivmizrachiy/repo",
+      "category_he": "אינדקס ריפואים",
+      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
+      "exists_he": "README.md, docs, STATE, .github/workflows",
+      "status_he": "פעיל",
+      "readiness_percent": 65,
+      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
+      "language": "HTML",
+      "pushed_at": "2026-09-23T15:07:54Z",
+      "updated_at": "2026-09-23T15:07:58Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "harut",
       "url": "https://github.com/yanivmizrachiy/harut",
       "category_he": "חדש / לא מסווג",
@@ -26,7 +42,7 @@
       "archived": false
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "galil",
       "url": "https://github.com/yanivmizrachiy/galil",
       "category_he": "חדש / לא מסווג",
@@ -42,7 +58,7 @@
       "archived": false
     },
     {
-      "number": 3,
+      "number": 4,
       "name": "maagal",
       "url": "https://github.com/yanivmizrachiy/maagal",
       "category_he": "חדש / לא מסווג",
@@ -54,22 +70,6 @@
       "language": "HTML",
       "pushed_at": "2026-09-23T15:06:27Z",
       "updated_at": "2026-09-23T11:44:06Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 4,
-      "name": "repo",
-      "url": "https://github.com/yanivmizrachiy/repo",
-      "category_he": "אינדקס ריפואים",
-      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
-      "exists_he": "README.md, docs, STATE, .github/workflows",
-      "status_he": "פעיל",
-      "readiness_percent": 65,
-      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
-      "language": "HTML",
-      "pushed_at": "2026-09-23T14:49:36Z",
-      "updated_at": "2026-09-23T14:49:40Z",
       "default_branch": "main",
       "archived": false
     },
@@ -143,7 +143,7 @@
       "url": "https://github.com/yanivmizrachiy/targilim",
       "category_he": "חדש / לא מסווג",
       "summary_he": "שיעור פרטי - אתר חינמי לניהול שיעורים פרטיים ללא דמו",
-      "exists_he": "README.md, PROJECT_RULES.md, RULES.md, docs, STATE, .github/workflows, package.json",
+      "exists_he": "README.md, PROJECT_RULES.md",
       "status_he": "פעיל",
       "readiness_percent": 75,
       "notes_he": "",
@@ -159,7 +159,7 @@
       "url": "https://github.com/yanivmizrachiy/summary-5",
       "category_he": "חדש / לא מסווג",
       "summary_he": "סיכום 5 — מאגר עצמאי ומקור יחיד",
-      "exists_he": ".github/workflows",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
       "status_he": "כמעט ריק",
       "readiness_percent": 10,
       "notes_he": "",
@@ -175,7 +175,7 @@
       "url": "https://github.com/yanivmizrachiy/stats-question-generator",
       "category_he": "חדש / לא מסווג",
       "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": "README.md, .github/workflows, package.json",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "",
@@ -191,7 +191,7 @@
       "url": "https://github.com/yanivmizrachiy/smartschool-hebrew-voice-notes",
       "category_he": "בית ספר / קול",
       "summary_he": "פרויקט פתקים קוליים בעברית לבית ספר או Smartschool.",
-      "exists_he": "README.md",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
       "status_he": "חלקי",
       "readiness_percent": 45,
       "notes_he": "דורש אימות יכולות בפועל.",
