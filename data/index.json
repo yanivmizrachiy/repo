@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T21:47:32.797Z",
+  "generated_at": "2026-09-24T22:07:44.472Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "repo",
+      "url": "https://github.com/yanivmizrachiy/repo",
+      "category_he": "אינדקס ריפואים",
+      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
+      "exists_he": "README.md, docs, STATE, .github/workflows",
+      "status_he": "פעיל",
+      "readiness_percent": 65,
+      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
+      "language": "HTML",
+      "pushed_at": "2026-09-24T21:47:33Z",
+      "updated_at": "2026-09-24T21:47:37Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "Makbilim",
       "url": "https://github.com/yanivmizrachiy/Makbilim",
       "category_he": "חדש / לא מסווג",
@@ -22,22 +38,6 @@
       "language": "TypeScript",
       "pushed_at": "2026-09-24T21:45:18Z",
       "updated_at": "2026-09-24T21:24:14Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 2,
-      "name": "repo",
-      "url": "https://github.com/yanivmizrachiy/repo",
-      "category_he": "אינדקס ריפואים",
-      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
-      "exists_he": "README.md, docs, STATE, .github/workflows",
-      "status_he": "פעיל",
-      "readiness_percent": 65,
-      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
-      "language": "HTML",
-      "pushed_at": "2026-09-24T21:33:36Z",
-      "updated_at": "2026-09-24T21:33:40Z",
       "default_branch": "main",
       "archived": false
     },
