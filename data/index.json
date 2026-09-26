@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T07:47:29.679Z",
+  "generated_at": "2026-09-26T08:10:57.249Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,8 +20,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-09-26T07:40:25Z",
-      "updated_at": "2026-09-26T07:40:29Z",
+      "pushed_at": "2026-09-26T07:47:30Z",
+      "updated_at": "2026-09-26T07:47:34Z",
       "default_branch": "main",
       "archived": false
     },
@@ -143,7 +143,7 @@
       "url": "https://github.com/yanivmizrachiy/maagal",
       "category_he": "חדש / לא מסווג",
       "summary_he": "מעגל — חוברת עבודה מדורגת, 101 דפי A4 להדפסה (עברית RTL)",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
+      "exists_he": "README.md",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "",
