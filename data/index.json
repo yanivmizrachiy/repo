@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T02:14:45.279Z",
+  "generated_at": "2026-09-27T02:41:57.908Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,8 +20,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-09-27T01:50:40Z",
-      "updated_at": "2026-09-27T01:50:44Z",
+      "pushed_at": "2026-09-27T02:14:46Z",
+      "updated_at": "2026-09-27T02:14:49Z",
       "default_branch": "main",
       "archived": false
     },
@@ -127,7 +127,7 @@
       "url": "https://github.com/yanivmizrachiy/galil",
       "category_he": "חדש / לא מסווג",
       "summary_he": "גליל — חוברת עבודה, 38 דפי A4 להדפסה (עברית RTL)",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
+      "exists_he": "README.md",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "",
