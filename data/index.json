@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T14:09:38.456Z",
+  "generated_at": "2026-09-28T14:30:47.808Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "summary-5",
+      "url": "https://github.com/yanivmizrachiy/summary-5",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "סיכום 5 — מאגר עצמאי ומקור יחיד",
+      "exists_he": ".github/workflows",
+      "status_he": "כמעט ריק",
+      "readiness_percent": 10,
+      "notes_he": "",
+      "language": "HTML",
+      "pushed_at": "2026-09-28T14:21:41Z",
+      "updated_at": "2026-09-28T14:21:54Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -20,13 +36,13 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-09-28T13:46:54Z",
-      "updated_at": "2026-09-28T13:46:59Z",
+      "pushed_at": "2026-09-28T14:09:39Z",
+      "updated_at": "2026-09-28T14:09:51Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "moodle-guide-presentation",
       "url": "https://github.com/yanivmizrachiy/moodle-guide-presentation",
       "category_he": "חדש / לא מסווג",
@@ -38,22 +54,6 @@
       "language": "TypeScript",
       "pushed_at": "2026-09-28T13:28:16Z",
       "updated_at": "2026-09-28T13:28:22Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 3,
-      "name": "summary-5",
-      "url": "https://github.com/yanivmizrachiy/summary-5",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "סיכום 5 — מאגר עצמאי ומקור יחיד",
-      "exists_he": ".github/workflows",
-      "status_he": "כמעט ריק",
-      "readiness_percent": 10,
-      "notes_he": "",
-      "language": "HTML",
-      "pushed_at": "2026-09-28T13:16:00Z",
-      "updated_at": "2026-09-28T13:16:08Z",
       "default_branch": "main",
       "archived": false
     },
