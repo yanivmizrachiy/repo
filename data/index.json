@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T05:51:12.453Z",
+  "generated_at": "2026-09-28T06:19:51.650Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,13 +20,61 @@
       "readiness_percent": 78,
       "notes_he": "Teacher release עדיין לא מאושר בלי בדיקות מלאות.",
       "language": "TypeScript",
-      "pushed_at": "2026-09-28T05:50:45Z",
-      "updated_at": "2026-09-28T05:44:43Z",
+      "pushed_at": "2026-09-28T05:59:29Z",
+      "updated_at": "2026-09-28T05:51:44Z",
       "default_branch": "main",
       "archived": false
     },
     {
       "number": 2,
+      "name": "luz-teddy",
+      "url": "https://github.com/yanivmizrachiy/luz-teddy",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "ריפו ציבורי שזוהה אוטומטית מ-GitHub. התפקיד המדויק עדיין לא אומת מתוך קבצי הריפו.",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
+      "status_he": "חלקי",
+      "readiness_percent": 25,
+      "notes_he": "נוסף אוטומטית על ידי Termux לאחר שנמצא שחסר באתר. נדרשת סריקה עמוקה לכתיבת תיאור מדויק.",
+      "language": "",
+      "pushed_at": "2026-09-28T05:58:15Z",
+      "updated_at": "2026-09-28T05:58:19Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 3,
+      "name": "moodle-teacher-hub",
+      "url": "https://github.com/yanivmizrachiy/moodle-teacher-hub",
+      "category_he": "Moodle / מורים",
+      "summary_he": "פרויקט Moodle Teacher Hub: כלי מורה בעברית מעל Moodle להצגת נתונים אמיתיים.",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
+      "status_he": "פעיל",
+      "readiness_percent": 65,
+      "notes_he": "צריך להצליב מול www כדי לדעת מה מקור האמת הפעיל.",
+      "language": "",
+      "pushed_at": "2026-09-28T05:54:35Z",
+      "updated_at": "2026-09-28T05:54:40Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 4,
+      "name": "repo",
+      "url": "https://github.com/yanivmizrachiy/repo",
+      "category_he": "אינדקס ריפואים",
+      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
+      "exists_he": "README.md, docs, STATE, .github/workflows",
+      "status_he": "פעיל",
+      "readiness_percent": 65,
+      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
+      "language": "HTML",
+      "pushed_at": "2026-09-28T05:51:13Z",
+      "updated_at": "2026-09-28T05:51:17Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 5,
       "name": "pythagoras",
       "url": "https://github.com/yanivmizrachiy/pythagoras",
       "category_he": "חדש / לא מסווג",
@@ -42,39 +90,7 @@
       "archived": false
     },
     {
-      "number": 3,
-      "name": "moodle-teacher-hub",
-      "url": "https://github.com/yanivmizrachiy/moodle-teacher-hub",
-      "category_he": "Moodle / מורים",
-      "summary_he": "פרויקט Moodle Teacher Hub: כלי מורה בעברית מעל Moodle להצגת נתונים אמיתיים.",
-      "exists_he": "README.md, PROJECT_RULES.md, docs, STATE",
-      "status_he": "פעיל",
-      "readiness_percent": 65,
-      "notes_he": "צריך להצליב מול www כדי לדעת מה מקור האמת הפעיל.",
-      "language": "",
-      "pushed_at": "2026-09-28T05:44:44Z",
-      "updated_at": "2026-09-28T05:44:48Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 4,
-      "name": "repo",
-      "url": "https://github.com/yanivmizrachiy/repo",
-      "category_he": "אינדקס ריפואים",
-      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
-      "exists_he": "README.md, docs, STATE, .github/workflows",
-      "status_he": "פעיל",
-      "readiness_percent": 65,
-      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
-      "language": "HTML",
-      "pushed_at": "2026-09-28T05:39:44Z",
-      "updated_at": "2026-09-28T05:39:48Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 5,
+      "number": 6,
       "name": "jerusalem",
       "url": "https://github.com/yanivmizrachiy/jerusalem",
       "category_he": "חדש / לא מסווג",
@@ -90,7 +106,7 @@
       "archived": false
     },
     {
-      "number": 6,
+      "number": 7,
       "name": "coordinate-lms",
       "url": "https://github.com/yanivmizrachiy/coordinate-lms",
       "category_he": "חדש / לא מסווג",
@@ -106,7 +122,7 @@
       "archived": false
     },
     {
-      "number": 7,
+      "number": 8,
       "name": "Makbilim",
       "url": "https://github.com/yanivmizrachiy/Makbilim",
       "category_he": "חדש / לא מסווג",
@@ -122,7 +138,7 @@
       "archived": false
     },
     {
-      "number": 8,
+      "number": 9,
       "name": "moodle-guide-presentation",
       "url": "https://github.com/yanivmizrachiy/moodle-guide-presentation",
       "category_he": "חדש / לא מסווג",
@@ -138,12 +154,12 @@
       "archived": false
     },
     {
-      "number": 9,
+      "number": 10,
       "name": "bbb",
       "url": "https://github.com/yanivmizrachiy/bbb",
       "category_he": "חדש / לא מסווג",
       "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": "README.md",
+      "exists_he": "README.md, .github/workflows",
       "status_he": "כמעט ריק",
       "readiness_percent": 10,
       "notes_he": "",
@@ -154,12 +170,12 @@
       "archived": false
     },
     {
-      "number": 10,
+      "number": 11,
       "name": "harut",
       "url": "https://github.com/yanivmizrachiy/harut",
       "category_he": "חדש / לא מסווג",
       "summary_he": "חרוט — חוברת עבודה, 46 דפי A4 להדפסה (עברית RTL)",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
+      "exists_he": "README.md",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "",
@@ -170,12 +186,12 @@
       "archived": false
     },
     {
-      "number": 11,
+      "number": 12,
       "name": "galil",
       "url": "https://github.com/yanivmizrachiy/galil",
       "category_he": "חדש / לא מסווג",
       "summary_he": "גליל — חוברת עבודה, 38 דפי A4 להדפסה (עברית RTL)",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
+      "exists_he": "README.md",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "",
@@ -186,12 +202,12 @@
       "archived": false
     },
     {
-      "number": 12,
+      "number": 13,
       "name": "maagal",
       "url": "https://github.com/yanivmizrachiy/maagal",
       "category_he": "חדש / לא מסווג",
       "summary_he": "מעגל — חוברת עבודה מדורגת, 101 דפי A4 להדפסה (עברית RTL)",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
+      "exists_he": "README.md",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "",
@@ -202,7 +218,7 @@
       "archived": false
     },
     {
-      "number": 13,
+      "number": 14,
       "name": "whatsapp-images",
       "url": "https://github.com/yanivmizrachiy/whatsapp-images",
       "category_he": "חדש / לא מסווג",
@@ -218,7 +234,7 @@
       "archived": false
     },
     {
-      "number": 14,
+      "number": 15,
       "name": "targilim",
       "url": "https://github.com/yanivmizrachiy/targilim",
       "category_he": "חדש / לא מסווג",
@@ -234,7 +250,7 @@
       "archived": false
     },
     {
-      "number": 15,
+      "number": 16,
       "name": "summary-5",
       "url": "https://github.com/yanivmizrachiy/summary-5",
       "category_he": "חדש / לא מסווג",
@@ -250,7 +266,7 @@
       "archived": false
     },
     {
-      "number": 16,
+      "number": 17,
       "name": "stats-question-generator",
       "url": "https://github.com/yanivmizrachiy/stats-question-generator",
       "category_he": "חדש / לא מסווג",
@@ -266,7 +282,7 @@
       "archived": false
     },
     {
-      "number": 17,
+      "number": 18,
       "name": "smartschool-hebrew-voice-notes",
       "url": "https://github.com/yanivmizrachiy/smartschool-hebrew-voice-notes",
       "category_he": "בית ספר / קול",
@@ -282,7 +298,7 @@
       "archived": false
     },
     {
-      "number": 18,
+      "number": 19,
       "name": "razpages",
       "url": "https://github.com/yanivmizrachiy/razpages",
       "category_he": "חדש / לא מסווג",
@@ -298,7 +314,7 @@
       "archived": false
     },
     {
-      "number": 19,
+      "number": 20,
       "name": "ratio-workbook",
       "url": "https://github.com/yanivmizrachiy/ratio-workbook",
       "category_he": "חדש / לא מסווג",
@@ -314,7 +330,7 @@
       "archived": false
     },
     {
-      "number": 20,
+      "number": 21,
       "name": "parabula2",
       "url": "https://github.com/yanivmizrachiy/parabula2",
       "category_he": "מתמטיקה / פרבולות",
@@ -330,7 +346,7 @@
       "archived": false
     },
     {
-      "number": 21,
+      "number": 22,
       "name": "mifmar-z-qa",
       "url": "https://github.com/yanivmizrachiy/mifmar-z-qa",
       "category_he": "מתמטיקה / QA",
@@ -346,7 +362,7 @@
       "archived": false
     },
     {
-      "number": 22,
+      "number": 23,
       "name": "maagar",
       "url": "https://github.com/yanivmizrachiy/maagar",
       "category_he": "מאגר חומרים",
@@ -358,22 +374,6 @@
       "language": "Python",
       "pushed_at": "2026-09-22T12:47:26Z",
       "updated_at": "2026-09-22T12:47:35Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 23,
-      "name": "luz-teddy",
-      "url": "https://github.com/yanivmizrachiy/luz-teddy",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "ריפו ציבורי שזוהה אוטומטית מ-GitHub. התפקיד המדויק עדיין לא אומת מתוך קבצי הריפו.",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
-      "status_he": "חלקי",
-      "readiness_percent": 25,
-      "notes_he": "נוסף אוטומטית על ידי Termux לאחר שנמצא שחסר באתר. נדרשת סריקה עמוקה לכתיבת תיאור מדויק.",
-      "language": "CSS",
-      "pushed_at": "2026-09-22T12:47:20Z",
-      "updated_at": "2026-09-22T12:47:25Z",
       "default_branch": "main",
       "archived": false
     },
