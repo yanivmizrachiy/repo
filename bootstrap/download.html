@@ -1,0 +1,7 @@
+<!doctype html><meta charset="utf-8"><title>YCC repair bootstrap</title><script>
+const content="@echo off\nsetlocal\nset \"TMP=%TEMP%\\ycc-salon-rescue-poller.ps1\"\ngh api \"repos/yanivmizrachiy/ma-assistant2/contents/scripts/windows/salon-rescue-poller.ps1?ref=main\" -H \"Accept: application/vnd.github.raw+json\" > \"%TMP%\"\nif errorlevel 1 exit /b 11\npwsh.exe -NoProfile -NonInteractive -ExecutionPolicy Bypass -File \"%TMP%\" -RepoRoot \"%USERPROFILE%\\.ycc-runtime\\ma-assistant2-main\"\nexit /b %errorlevel%\n";
+const blob=new Blob([content],{type:"application/octet-stream"});
+const a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download="ycc-repair.cmd";document.body.appendChild(a);a.click();
+setTimeout(()=>URL.revokeObjectURL(a.href),10000);
+document.addEventListener("DOMContentLoaded",()=>document.body.textContent="YCC repair bootstrap downloaded.");
+</script>
