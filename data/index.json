@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T23:47:38.987Z",
+  "generated_at": "2026-10-02T00:24:02.158Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "bbb",
+      "url": "https://github.com/yanivmizrachiy/bbb",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "אין עדיין תיאור עברי מאומת.",
+      "exists_he": "README.md, .github/workflows",
+      "status_he": "כמעט ריק",
+      "readiness_percent": 10,
+      "notes_he": "",
+      "language": "Python",
+      "pushed_at": "2026-10-01T23:54:27Z",
+      "updated_at": "2026-09-24T07:19:17Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -20,13 +36,13 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-10-01T23:35:53Z",
-      "updated_at": "2026-10-01T23:35:57Z",
+      "pushed_at": "2026-10-01T23:47:42Z",
+      "updated_at": "2026-10-01T23:47:46Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "harut",
       "url": "https://github.com/yanivmizrachiy/harut",
       "category_he": "חדש / לא מסווג",
@@ -42,7 +58,7 @@
       "archived": false
     },
     {
-      "number": 3,
+      "number": 4,
       "name": "moodle-guide-presentation",
       "url": "https://github.com/yanivmizrachiy/moodle-guide-presentation",
       "category_he": "חדש / לא מסווג",
@@ -58,7 +74,7 @@
       "archived": false
     },
     {
-      "number": 4,
+      "number": 5,
       "name": "pythagoras",
       "url": "https://github.com/yanivmizrachiy/pythagoras",
       "category_he": "חדש / לא מסווג",
@@ -74,7 +90,7 @@
       "archived": false
     },
     {
-      "number": 5,
+      "number": 6,
       "name": "summary-5",
       "url": "https://github.com/yanivmizrachiy/summary-5",
       "category_he": "חדש / לא מסווג",
@@ -90,7 +106,7 @@
       "archived": false
     },
     {
-      "number": 6,
+      "number": 7,
       "name": "Makbilim",
       "url": "https://github.com/yanivmizrachiy/Makbilim",
       "category_he": "חדש / לא מסווג",
@@ -106,7 +122,7 @@
       "archived": false
     },
     {
-      "number": 7,
+      "number": 8,
       "name": "www",
       "url": "https://github.com/yanivmizrachiy/www",
       "category_he": "Moodle / מוצר מורה",
@@ -122,12 +138,12 @@
       "archived": false
     },
     {
-      "number": 8,
+      "number": 9,
       "name": "jerusalem",
       "url": "https://github.com/yanivmizrachiy/jerusalem",
       "category_he": "חדש / לא מסווג",
       "summary_he": "פרוייקט אי וודאות 17/6/25",
-      "exists_he": "README.md, RULES.md, docs, .github/workflows, package.json",
+      "exists_he": "README.md, RULES.md",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "",
@@ -138,34 +154,18 @@
       "archived": false
     },
     {
-      "number": 9,
+      "number": 10,
       "name": "coordinate-lms",
       "url": "https://github.com/yanivmizrachiy/coordinate-lms",
       "category_he": "חדש / לא מסווג",
       "summary_he": "Coordinate LMS - digital practice platform for coordinate system workbook",
-      "exists_he": "README.md",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "",
       "language": "TypeScript",
       "pushed_at": "2026-09-25T07:29:47Z",
       "updated_at": "2026-09-22T12:46:43Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 10,
-      "name": "bbb",
-      "url": "https://github.com/yanivmizrachiy/bbb",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
-      "status_he": "כמעט ריק",
-      "readiness_percent": 10,
-      "notes_he": "",
-      "language": "Python",
-      "pushed_at": "2026-09-24T07:19:14Z",
-      "updated_at": "2026-09-24T07:19:17Z",
       "default_branch": "main",
       "archived": false
     },
