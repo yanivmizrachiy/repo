@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T09:50:29.374Z",
+  "generated_at": "2026-10-05T10:11:32.234Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,8 +20,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-10-05T09:16:56Z",
-      "updated_at": "2026-10-05T09:17:00Z",
+      "pushed_at": "2026-10-05T09:50:30Z",
+      "updated_at": "2026-10-05T09:50:33Z",
       "default_branch": "main",
       "archived": false
     },
@@ -127,7 +127,7 @@
       "url": "https://github.com/yanivmizrachiy/summary-5",
       "category_he": "חדש / לא מסווג",
       "summary_he": "סיכום 5 — מאגר עצמאי ומקור יחיד",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
+      "exists_he": ".github/workflows",
       "status_he": "כמעט ריק",
       "readiness_percent": 10,
       "notes_he": "",
