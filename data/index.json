@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T18:32:17.251Z",
+  "generated_at": "2026-10-06T18:54:05.377Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,8 +20,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-10-06T18:10:43Z",
-      "updated_at": "2026-10-06T18:10:47Z",
+      "pushed_at": "2026-10-06T18:32:39Z",
+      "updated_at": "2026-10-06T18:32:42Z",
       "default_branch": "main",
       "archived": false
     },
@@ -127,7 +127,7 @@
       "url": "https://github.com/yanivmizrachiy/smartschool-hebrew-voice-notes",
       "category_he": "בית ספר / קול",
       "summary_he": "פרויקט פתקים קוליים בעברית לבית ספר או Smartschool.",
-      "exists_he": "README.md, RULES.md, .github/workflows, package.json",
+      "exists_he": "README.md, RULES.md, .github/workflows",
       "status_he": "חלקי",
       "readiness_percent": 45,
       "notes_he": "דורש אימות יכולות בפועל.",
