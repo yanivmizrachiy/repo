@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T22:39:21.351Z",
+  "generated_at": "2026-10-06T22:48:31.798Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "repo",
+      "url": "https://github.com/yanivmizrachiy/repo",
+      "category_he": "אינדקס ריפואים",
+      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
+      "exists_he": "README.md, docs, STATE, .github/workflows",
+      "status_he": "פעיל",
+      "readiness_percent": 65,
+      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
+      "language": "HTML",
+      "pushed_at": "2026-10-06T22:39:22Z",
+      "updated_at": "2026-10-06T22:39:26Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "galil",
       "url": "https://github.com/yanivmizrachiy/galil",
       "category_he": "חדש / לא מסווג",
@@ -26,7 +42,7 @@
       "archived": false
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "maagal",
       "url": "https://github.com/yanivmizrachiy/maagal",
       "category_he": "חדש / לא מסווג",
@@ -38,22 +54,6 @@
       "language": "HTML",
       "pushed_at": "2026-10-06T22:38:01Z",
       "updated_at": "2026-09-23T11:44:06Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 3,
-      "name": "repo",
-      "url": "https://github.com/yanivmizrachiy/repo",
-      "category_he": "אינדקס ריפואים",
-      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
-      "exists_he": "README.md, docs, STATE, .github/workflows",
-      "status_he": "פעיל",
-      "readiness_percent": 65,
-      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
-      "language": "HTML",
-      "pushed_at": "2026-10-06T22:26:47Z",
-      "updated_at": "2026-10-06T22:26:51Z",
       "default_branch": "main",
       "archived": false
     },
