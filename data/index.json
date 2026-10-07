@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-07T04:42:52.227Z",
+  "generated_at": "2026-10-07T04:56:17.376Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
   "repo_url": "https://github.com/yanivmizrachiy/repo",
-  "public_count": 31,
+  "public_count": 27,
   "private_hidden": 12,
-  "total_known": 43,
+  "total_known": 39,
   "notice_he": "עודכן אוטומטית דרך GitHub Actions לפי רשימת הריפואים הציבוריים ב-GitHub. לריפואים פרטיים נדרש REPO_INDEX_TOKEN.",
   "repositories": [
     {
@@ -20,8 +20,8 @@
       "readiness_percent": 40,
       "notes_he": "",
       "language": "HTML",
-      "pushed_at": "2026-10-07T04:35:01Z",
-      "updated_at": "2026-10-07T04:35:05Z",
+      "pushed_at": "2026-10-07T04:55:08Z",
+      "updated_at": "2026-10-07T04:55:18Z",
       "default_branch": "main",
       "archived": false
     },
@@ -36,8 +36,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-10-07T04:16:17Z",
-      "updated_at": "2026-10-07T04:16:21Z",
+      "pushed_at": "2026-10-07T04:42:55Z",
+      "updated_at": "2026-10-07T04:42:59Z",
       "default_branch": "main",
       "archived": false
     },
@@ -127,7 +127,7 @@
       "url": "https://github.com/yanivmizrachiy/razpages",
       "category_he": "חדש / לא מסווג",
       "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": "README.md, docs, .github/workflows",
+      "exists_he": "README.md",
       "status_he": "פעיל",
       "readiness_percent": 60,
       "notes_he": "",
@@ -347,38 +347,6 @@
     },
     {
       "number": 22,
-      "name": "parabula2",
-      "url": "https://github.com/yanivmizrachiy/parabula2",
-      "category_he": "מתמטיקה / פרבולות",
-      "summary_he": "פרויקט גדול בתחום פרבולות ומתמטיקה, כנראה כולל אתר או חומרי לימוד עשירים.",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
-      "status_he": "פעיל",
-      "readiness_percent": 70,
-      "notes_he": "דורש סריקת מבנה מפורטת.",
-      "language": "",
-      "pushed_at": "2026-09-22T12:47:54Z",
-      "updated_at": "2026-09-22T12:47:58Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 23,
-      "name": "mifmar-z-qa",
-      "url": "https://github.com/yanivmizrachiy/mifmar-z-qa",
-      "category_he": "מתמטיקה / QA",
-      "summary_he": "ריפו לשאלות, QA או חומרי בדיקה הקשורים למפמ״ר או כיתה ז׳.",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
-      "status_he": "חלקי",
-      "readiness_percent": 45,
-      "notes_he": "דורש סריקה מתוך הקבצים.",
-      "language": "JavaScript",
-      "pushed_at": "2026-09-22T12:47:40Z",
-      "updated_at": "2026-09-22T12:47:44Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 24,
       "name": "maagar",
       "url": "https://github.com/yanivmizrachiy/maagar",
       "category_he": "מאגר חומרים",
@@ -394,23 +362,7 @@
       "archived": false
     },
     {
-      "number": 25,
-      "name": "homer-mivchan-tet1-madait",
-      "url": "https://github.com/yanivmizrachiy/homer-mivchan-tet1-madait",
-      "category_he": "חומר למבחן",
-      "summary_he": "אתר חומר למבחן במתמטיקה לכיתה ט׳1 מדעית, מיועד לשליחה לתלמידים בקישור חיצוני.",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
-      "status_he": "פעיל",
-      "readiness_percent": 60,
-      "notes_he": "נוצר עבור חומר מבחן.",
-      "language": "HTML",
-      "pushed_at": "2026-09-22T12:47:01Z",
-      "updated_at": "2026-09-22T12:47:05Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 26,
+      "number": 23,
       "name": "hishtalmut-215195",
       "url": "https://github.com/yanivmizrachiy/hishtalmut-215195",
       "category_he": "השתלמות 215195",
@@ -426,7 +378,7 @@
       "archived": false
     },
     {
-      "number": 27,
+      "number": 24,
       "name": "graph-reading-preview",
       "url": "https://github.com/yanivmizrachiy/graph-reading-preview",
       "category_he": "חדש / לא מסווג",
@@ -442,23 +394,7 @@
       "archived": false
     },
     {
-      "number": 28,
-      "name": "github-journal",
-      "url": "https://github.com/yanivmizrachiy/github-journal",
-      "category_he": "יומן / תיעוד",
-      "summary_he": "יומן GitHub לתיעוד יומי, עמודי מצב ושמירת פעולות לפי תאריכים.",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
-      "status_he": "פעיל",
-      "readiness_percent": 60,
-      "notes_he": "קשור לתיעוד יומי.",
-      "language": "HTML",
-      "pushed_at": "2026-09-22T12:46:47Z",
-      "updated_at": "2026-09-22T12:46:51Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 29,
+      "number": 25,
       "name": "coordinate-first-quadrant",
       "url": "https://github.com/yanivmizrachiy/coordinate-first-quadrant",
       "category_he": "חדש / לא מסווג",
@@ -474,7 +410,7 @@
       "archived": false
     },
     {
-      "number": 30,
+      "number": 26,
       "name": "colors",
       "url": "https://github.com/yanivmizrachiy/colors",
       "category_he": "עיצוב / צבעים",
@@ -490,7 +426,7 @@
       "archived": false
     },
     {
-      "number": 31,
+      "number": 27,
       "name": "zaviyot-next-20260902-062445",
       "url": "https://github.com/yanivmizrachiy/zaviyot-next-20260902-062445",
       "category_he": "חדש / לא מסווג",
