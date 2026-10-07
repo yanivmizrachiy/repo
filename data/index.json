@@ -1,16 +1,32 @@
 {
-  "generated_at": "2026-10-07T07:16:15.721Z",
+  "generated_at": "2026-10-07T07:45:24.996Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
   "repo_url": "https://github.com/yanivmizrachiy/repo",
-  "public_count": 27,
+  "public_count": 26,
   "private_hidden": 12,
-  "total_known": 39,
+  "total_known": 38,
   "notice_he": "עודכן אוטומטית דרך GitHub Actions לפי רשימת הריפואים הציבוריים ב-GitHub. לריפואים פרטיים נדרש REPO_INDEX_TOKEN.",
   "repositories": [
     {
       "number": 1,
+      "name": "repo",
+      "url": "https://github.com/yanivmizrachiy/repo",
+      "category_he": "אינדקס ריפואים",
+      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
+      "exists_he": "README.md, docs, STATE, .github/workflows",
+      "status_he": "פעיל",
+      "readiness_percent": 65,
+      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
+      "language": "HTML",
+      "pushed_at": "2026-10-07T07:16:16Z",
+      "updated_at": "2026-10-07T07:16:20Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "circle-to-cylinder",
       "url": "https://github.com/yanivmizrachiy/circle-to-cylinder",
       "category_he": "חדש / לא מסווג",
@@ -22,22 +38,6 @@
       "language": "HTML",
       "pushed_at": "2026-10-07T07:11:59Z",
       "updated_at": "2026-10-07T07:12:03Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 2,
-      "name": "repo",
-      "url": "https://github.com/yanivmizrachiy/repo",
-      "category_he": "אינדקס ריפואים",
-      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
-      "exists_he": "README.md, docs, STATE, .github/workflows",
-      "status_he": "פעיל",
-      "readiness_percent": 65,
-      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
-      "language": "HTML",
-      "pushed_at": "2026-10-07T06:47:02Z",
-      "updated_at": "2026-10-07T06:47:05Z",
       "default_branch": "main",
       "archived": false
     },
@@ -111,7 +111,7 @@
       "url": "https://github.com/yanivmizrachiy/harut",
       "category_he": "חדש / לא מסווג",
       "summary_he": "חרוט — חוברת עבודה, 46 דפי A4 להדפסה (עברית RTL)",
-      "exists_he": "README.md",
+      "exists_he": "README.md, package.json",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "",
@@ -127,7 +127,7 @@
       "url": "https://github.com/yanivmizrachiy/razpages",
       "category_he": "חדש / לא מסווג",
       "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
+      "exists_he": "README.md, docs, .github/workflows, package.json",
       "status_he": "פעיל",
       "readiness_percent": 60,
       "notes_he": "",
@@ -235,22 +235,6 @@
     },
     {
       "number": 15,
-      "name": "summary-5",
-      "url": "https://github.com/yanivmizrachiy/summary-5",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "סיכום 5 — מאגר עצמאי ומקור יחיד",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
-      "status_he": "כמעט ריק",
-      "readiness_percent": 10,
-      "notes_he": "",
-      "language": "HTML",
-      "pushed_at": "2026-09-29T15:08:03Z",
-      "updated_at": "2026-09-28T18:07:40Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 16,
       "name": "www",
       "url": "https://github.com/yanivmizrachiy/www",
       "category_he": "Moodle / מוצר מורה",
@@ -266,7 +250,7 @@
       "archived": false
     },
     {
-      "number": 17,
+      "number": 16,
       "name": "jerusalem",
       "url": "https://github.com/yanivmizrachiy/jerusalem",
       "category_he": "חדש / לא מסווג",
@@ -282,7 +266,7 @@
       "archived": false
     },
     {
-      "number": 18,
+      "number": 17,
       "name": "coordinate-lms",
       "url": "https://github.com/yanivmizrachiy/coordinate-lms",
       "category_he": "חדש / לא מסווג",
@@ -298,7 +282,7 @@
       "archived": false
     },
     {
-      "number": 19,
+      "number": 18,
       "name": "whatsapp-images",
       "url": "https://github.com/yanivmizrachiy/whatsapp-images",
       "category_he": "חדש / לא מסווג",
@@ -314,7 +298,7 @@
       "archived": false
     },
     {
-      "number": 20,
+      "number": 19,
       "name": "targilim",
       "url": "https://github.com/yanivmizrachiy/targilim",
       "category_he": "חדש / לא מסווג",
@@ -330,7 +314,7 @@
       "archived": false
     },
     {
-      "number": 21,
+      "number": 20,
       "name": "stats-question-generator",
       "url": "https://github.com/yanivmizrachiy/stats-question-generator",
       "category_he": "חדש / לא מסווג",
@@ -346,7 +330,7 @@
       "archived": false
     },
     {
-      "number": 22,
+      "number": 21,
       "name": "maagar",
       "url": "https://github.com/yanivmizrachiy/maagar",
       "category_he": "מאגר חומרים",
@@ -362,7 +346,7 @@
       "archived": false
     },
     {
-      "number": 23,
+      "number": 22,
       "name": "hishtalmut-215195",
       "url": "https://github.com/yanivmizrachiy/hishtalmut-215195",
       "category_he": "השתלמות 215195",
@@ -378,7 +362,7 @@
       "archived": false
     },
     {
-      "number": 24,
+      "number": 23,
       "name": "graph-reading-preview",
       "url": "https://github.com/yanivmizrachiy/graph-reading-preview",
       "category_he": "חדש / לא מסווג",
@@ -394,7 +378,7 @@
       "archived": false
     },
     {
-      "number": 25,
+      "number": 24,
       "name": "coordinate-first-quadrant",
       "url": "https://github.com/yanivmizrachiy/coordinate-first-quadrant",
       "category_he": "חדש / לא מסווג",
@@ -410,7 +394,7 @@
       "archived": false
     },
     {
-      "number": 26,
+      "number": 25,
       "name": "colors",
       "url": "https://github.com/yanivmizrachiy/colors",
       "category_he": "עיצוב / צבעים",
@@ -426,7 +410,7 @@
       "archived": false
     },
     {
-      "number": 27,
+      "number": 26,
       "name": "zaviyot-next-20260902-062445",
       "url": "https://github.com/yanivmizrachiy/zaviyot-next-20260902-062445",
       "category_he": "חדש / לא מסווג",
