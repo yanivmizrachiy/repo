@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T14:30:34.172Z",
+  "generated_at": "2026-10-08T14:52:58.740Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,38 @@
   "repositories": [
     {
       "number": 1,
+      "name": "galil",
+      "url": "https://github.com/yanivmizrachiy/galil",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "גליל — חוברת עבודה, 38 דפי A4 להדפסה (עברית RTL)",
+      "exists_he": "README.md",
+      "status_he": "חלקי",
+      "readiness_percent": 40,
+      "notes_he": "",
+      "language": "HTML",
+      "pushed_at": "2026-10-08T14:47:43Z",
+      "updated_at": "2026-10-08T14:47:49Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
+      "name": "repo",
+      "url": "https://github.com/yanivmizrachiy/repo",
+      "category_he": "אינדקס ריפואים",
+      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
+      "exists_he": "README.md, docs, STATE, .github/workflows",
+      "status_he": "פעיל",
+      "readiness_percent": 65,
+      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
+      "language": "HTML",
+      "pushed_at": "2026-10-08T14:30:35Z",
+      "updated_at": "2026-10-08T14:30:43Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 3,
       "name": "whatsapp-images",
       "url": "https://github.com/yanivmizrachiy/whatsapp-images",
       "category_he": "חדש / לא מסווג",
@@ -26,23 +58,7 @@
       "archived": false
     },
     {
-      "number": 2,
-      "name": "repo",
-      "url": "https://github.com/yanivmizrachiy/repo",
-      "category_he": "אינדקס ריפואים",
-      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
-      "exists_he": "README.md, docs, STATE, .github/workflows",
-      "status_he": "פעיל",
-      "readiness_percent": 65,
-      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
-      "language": "HTML",
-      "pushed_at": "2026-10-08T14:09:32Z",
-      "updated_at": "2026-10-08T14:09:37Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 3,
+      "number": 4,
       "name": "circle-to-cylinder",
       "url": "https://github.com/yanivmizrachiy/circle-to-cylinder",
       "category_he": "חדש / לא מסווג",
@@ -58,7 +74,7 @@
       "archived": false
     },
     {
-      "number": 4,
+      "number": 5,
       "name": "razpages",
       "url": "https://github.com/yanivmizrachiy/razpages",
       "category_he": "חדש / לא מסווג",
@@ -74,12 +90,12 @@
       "archived": false
     },
     {
-      "number": 5,
+      "number": 6,
       "name": "pythagoras",
       "url": "https://github.com/yanivmizrachiy/pythagoras",
       "category_he": "חדש / לא מסווג",
       "summary_he": "53-page Pythagoras workbook — single source of truth",
-      "exists_he": "README.md, .github/workflows, package.json",
+      "exists_he": "README.md",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "",
@@ -90,34 +106,18 @@
       "archived": false
     },
     {
-      "number": 6,
+      "number": 7,
       "name": "moodle-guide-presentation",
       "url": "https://github.com/yanivmizrachiy/moodle-guide-presentation",
       "category_he": "חדש / לא מסווג",
       "summary_he": "מצגת ומדריך Moodle עצמאיים",
-      "exists_he": "README.md, docs, .github/workflows, package.json",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
       "status_he": "כמעט ריק",
       "readiness_percent": 10,
       "notes_he": "",
       "language": "TypeScript",
       "pushed_at": "2026-10-07T14:58:06Z",
       "updated_at": "2026-10-07T14:58:12Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 7,
-      "name": "galil",
-      "url": "https://github.com/yanivmizrachiy/galil",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "גליל — חוברת עבודה, 38 דפי A4 להדפסה (עברית RTL)",
-      "exists_he": "README.md",
-      "status_he": "חלקי",
-      "readiness_percent": 40,
-      "notes_he": "",
-      "language": "HTML",
-      "pushed_at": "2026-10-06T23:25:48Z",
-      "updated_at": "2026-10-05T12:36:07Z",
       "default_branch": "main",
       "archived": false
     },
