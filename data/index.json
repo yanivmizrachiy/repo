@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T09:42:25.235Z",
+  "generated_at": "2026-10-09T09:55:32.253Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "galil",
+      "url": "https://github.com/yanivmizrachiy/galil",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "גליל — חוברת עבודה, 38 דפי A4 להדפסה (עברית RTL)",
+      "exists_he": "README.md, .github/workflows",
+      "status_he": "חלקי",
+      "readiness_percent": 40,
+      "notes_he": "",
+      "language": "HTML",
+      "pushed_at": "2026-10-09T09:50:06Z",
+      "updated_at": "2026-10-08T22:24:07Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -20,13 +36,13 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-10-09T09:24:02Z",
-      "updated_at": "2026-10-09T09:24:07Z",
+      "pushed_at": "2026-10-09T09:42:26Z",
+      "updated_at": "2026-10-09T09:42:30Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "whatsapp-images",
       "url": "https://github.com/yanivmizrachiy/whatsapp-images",
       "category_he": "חדש / לא מסווג",
@@ -38,22 +54,6 @@
       "language": "JavaScript",
       "pushed_at": "2026-10-09T08:27:25Z",
       "updated_at": "2026-10-08T23:19:21Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 3,
-      "name": "galil",
-      "url": "https://github.com/yanivmizrachiy/galil",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "גליל — חוברת עבודה, 38 דפי A4 להדפסה (עברית RTL)",
-      "exists_he": "README.md, .github/workflows",
-      "status_he": "חלקי",
-      "readiness_percent": 40,
-      "notes_he": "",
-      "language": "HTML",
-      "pushed_at": "2026-10-09T08:27:20Z",
-      "updated_at": "2026-10-08T22:24:07Z",
       "default_branch": "main",
       "archived": false
     },
