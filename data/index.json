@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T10:46:06.766Z",
+  "generated_at": "2026-10-09T11:08:11.021Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,7 +20,7 @@
       "readiness_percent": 10,
       "notes_he": "",
       "language": "JavaScript",
-      "pushed_at": "2026-10-09T10:44:57Z",
+      "pushed_at": "2026-10-09T11:06:40Z",
       "updated_at": "2026-10-08T23:19:21Z",
       "default_branch": "main",
       "archived": false
@@ -36,8 +36,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-10-09T10:29:14Z",
-      "updated_at": "2026-10-09T10:29:18Z",
+      "pushed_at": "2026-10-09T10:46:08Z",
+      "updated_at": "2026-10-09T10:46:11Z",
       "default_branch": "main",
       "archived": false
     },
@@ -127,7 +127,7 @@
       "url": "https://github.com/yanivmizrachiy/moodle-guide-presentation",
       "category_he": "חדש / לא מסווג",
       "summary_he": "מצגת ומדריך Moodle עצמאיים",
-      "exists_he": "README.md",
+      "exists_he": "README.md, docs",
       "status_he": "כמעט ריק",
       "readiness_percent": 10,
       "notes_he": "",
