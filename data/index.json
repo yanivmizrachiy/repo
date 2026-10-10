@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T20:39:14.928Z",
+  "generated_at": "2026-10-10T20:50:01.119Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,8 +20,8 @@
       "readiness_percent": 75,
       "notes_he": "חשוב לארגון חומרי לימוד.",
       "language": "Python",
-      "pushed_at": "2026-10-10T20:35:06Z",
-      "updated_at": "2026-10-10T20:35:10Z",
+      "pushed_at": "2026-10-10T20:39:35Z",
+      "updated_at": "2026-10-10T20:39:38Z",
       "default_branch": "main",
       "archived": false
     },
@@ -36,8 +36,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-10-10T20:25:49Z",
-      "updated_at": "2026-10-10T20:25:53Z",
+      "pushed_at": "2026-10-10T20:39:16Z",
+      "updated_at": "2026-10-10T20:39:20Z",
       "default_branch": "main",
       "archived": false
     },
@@ -127,7 +127,7 @@
       "url": "https://github.com/yanivmizrachiy/pythagoras",
       "category_he": "חדש / לא מסווג",
       "summary_he": "53-page Pythagoras workbook — single source of truth",
-      "exists_he": "README.md, .github/workflows, package.json",
+      "exists_he": "README.md",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "",
