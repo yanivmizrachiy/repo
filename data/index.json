@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T16:46:13.094Z",
+  "generated_at": "2026-10-12T17:08:07.425Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "pythagoras",
+      "url": "https://github.com/yanivmizrachiy/pythagoras",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "53-page Pythagoras workbook — single source of truth",
+      "exists_he": "README.md, .github/workflows, package.json",
+      "status_he": "חלקי",
+      "readiness_percent": 40,
+      "notes_he": "",
+      "language": "HTML",
+      "pushed_at": "2026-10-12T17:02:22Z",
+      "updated_at": "2026-10-07T19:16:23Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -20,13 +36,13 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-10-12T16:29:52Z",
-      "updated_at": "2026-10-12T16:29:56Z",
+      "pushed_at": "2026-10-12T16:46:40Z",
+      "updated_at": "2026-10-12T16:46:44Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "www",
       "url": "https://github.com/yanivmizrachiy/www",
       "category_he": "Moodle / מוצר מורה",
@@ -42,7 +58,7 @@
       "archived": false
     },
     {
-      "number": 3,
+      "number": 4,
       "name": "galil",
       "url": "https://github.com/yanivmizrachiy/galil",
       "category_he": "חדש / לא מסווג",
@@ -58,7 +74,7 @@
       "archived": false
     },
     {
-      "number": 4,
+      "number": 5,
       "name": "whatsapp-images",
       "url": "https://github.com/yanivmizrachiy/whatsapp-images",
       "category_he": "חדש / לא מסווג",
@@ -74,7 +90,7 @@
       "archived": false
     },
     {
-      "number": 5,
+      "number": 6,
       "name": "harut",
       "url": "https://github.com/yanivmizrachiy/harut",
       "category_he": "חדש / לא מסווג",
@@ -90,7 +106,7 @@
       "archived": false
     },
     {
-      "number": 6,
+      "number": 7,
       "name": "maagar",
       "url": "https://github.com/yanivmizrachiy/maagar",
       "category_he": "מאגר חומרים",
@@ -106,7 +122,7 @@
       "archived": false
     },
     {
-      "number": 7,
+      "number": 8,
       "name": "circle-to-cylinder",
       "url": "https://github.com/yanivmizrachiy/circle-to-cylinder",
       "category_he": "חדש / לא מסווג",
@@ -122,12 +138,12 @@
       "archived": false
     },
     {
-      "number": 8,
+      "number": 9,
       "name": "razpages",
       "url": "https://github.com/yanivmizrachiy/razpages",
       "category_he": "חדש / לא מסווג",
       "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": "README.md, docs, .github/workflows, package.json",
+      "exists_he": "README.md",
       "status_he": "פעיל",
       "readiness_percent": 60,
       "notes_he": "",
@@ -138,28 +154,12 @@
       "archived": false
     },
     {
-      "number": 9,
-      "name": "pythagoras",
-      "url": "https://github.com/yanivmizrachiy/pythagoras",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "53-page Pythagoras workbook — single source of truth",
-      "exists_he": "README.md",
-      "status_he": "חלקי",
-      "readiness_percent": 40,
-      "notes_he": "",
-      "language": "HTML",
-      "pushed_at": "2026-10-07T21:17:34Z",
-      "updated_at": "2026-10-07T19:16:23Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
       "number": 10,
       "name": "moodle-guide-presentation",
       "url": "https://github.com/yanivmizrachiy/moodle-guide-presentation",
       "category_he": "חדש / לא מסווג",
       "summary_he": "מצגת ומדריך Moodle עצמאיים",
-      "exists_he": ".github/workflows, package.json",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
       "status_he": "כמעט ריק",
       "readiness_percent": 10,
       "notes_he": "",
@@ -175,7 +175,7 @@
       "url": "https://github.com/yanivmizrachiy/maagal",
       "category_he": "חדש / לא מסווג",
       "summary_he": "מעגל — חוברת עבודה מדורגת, 101 דפי A4 להדפסה (עברית RTL)",
-      "exists_he": "README.md",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "",
@@ -191,7 +191,7 @@
       "url": "https://github.com/yanivmizrachiy/i-vadaut-ai-studio",
       "category_he": "חדש / לא מסווג",
       "summary_he": "Printable Hebrew mathematics worksheet app for uncertainty, statistics, graphs, data representation, and basic probability, based on the i-vadaut source PDF.",
-      "exists_he": "README.md, RULES.md, docs, .github/workflows, package.json",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
       "status_he": "פעיל",
       "readiness_percent": 60,
       "notes_he": "",
@@ -207,7 +207,7 @@
       "url": "https://github.com/yanivmizrachiy/i-vadaut",
       "category_he": "חדש / לא מסווג",
       "summary_he": "אי ודאות במתמטיקה - חומרי הוראה, דפי עבודה, שאלות ופעילויות",
-      "exists_he": "README.md, RULES.md, docs, .github/workflows",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
       "status_he": "פעיל",
       "readiness_percent": 60,
       "notes_he": "",
@@ -223,7 +223,7 @@
       "url": "https://github.com/yanivmizrachiy/smartschool-hebrew-voice-notes",
       "category_he": "בית ספר / קול",
       "summary_he": "פרויקט פתקים קוליים בעברית לבית ספר או Smartschool.",
-      "exists_he": "README.md, RULES.md, .github/workflows, package.json",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
       "status_he": "חלקי",
       "readiness_percent": 45,
       "notes_he": "דורש אימות יכולות בפועל.",
@@ -239,7 +239,7 @@
       "url": "https://github.com/yanivmizrachiy/ratio-workbook",
       "category_he": "חדש / לא מסווג",
       "summary_he": "חוברת יחס ופרופורציה לכיתה ח׳ — עצמאית, נפרדת לחלוטין מפרויקטים אחרים",
-      "exists_he": "README.md",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "",
