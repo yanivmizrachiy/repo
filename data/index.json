@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T21:34:05.953Z",
+  "generated_at": "2026-10-13T21:47:31.075Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,8 +20,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-10-13T21:22:06Z",
-      "updated_at": "2026-10-13T21:22:11Z",
+      "pushed_at": "2026-10-13T21:34:09Z",
+      "updated_at": "2026-10-13T21:34:13Z",
       "default_branch": "main",
       "archived": false
     },
@@ -127,7 +127,7 @@
       "url": "https://github.com/yanivmizrachiy/circle-to-cylinder",
       "category_he": "חדש / לא מסווג",
       "summary_he": "Graded Hebrew math workbook: circle -> cylinder (maagal 99 + galil 39 pages, RTL A4) with a single source of truth",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
+      "exists_he": "README.md, RULES.md, .github/workflows",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "",
