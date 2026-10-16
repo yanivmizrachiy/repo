@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T09:51:21.866Z",
+  "generated_at": "2026-10-16T10:08:03.721Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "summary7-public",
+      "url": "https://github.com/yanivmizrachiy/summary7-public",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "סיכום 7 - הדרכה במתמטיקה, מחוז ירושלים",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
+      "status_he": "כמעט ריק",
+      "readiness_percent": 10,
+      "notes_he": "",
+      "language": "HTML",
+      "pushed_at": "2026-10-16T10:03:30Z",
+      "updated_at": "2026-10-16T10:03:33Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -20,24 +36,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-10-16T09:42:28Z",
-      "updated_at": "2026-10-16T09:42:32Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 2,
-      "name": "summary7-public",
-      "url": "https://github.com/yanivmizrachiy/summary7-public",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "סיכום 7 - הדרכה במתמטיקה, מחוז ירושלים",
-      "exists_he": ".github/workflows",
-      "status_he": "כמעט ריק",
-      "readiness_percent": 10,
-      "notes_he": "",
-      "language": "HTML",
-      "pushed_at": "2026-10-16T09:14:10Z",
-      "updated_at": "2026-10-16T09:14:14Z",
+      "pushed_at": "2026-10-16T09:51:22Z",
+      "updated_at": "2026-10-16T09:51:27Z",
       "default_branch": "main",
       "archived": false
     },
