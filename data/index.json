@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T04:51:14.193Z",
+  "generated_at": "2026-10-18T05:06:49.177Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,22 +11,6 @@
   "repositories": [
     {
       "number": 1,
-      "name": "repo",
-      "url": "https://github.com/yanivmizrachiy/repo",
-      "category_he": "אינדקס ריפואים",
-      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
-      "exists_he": "README.md, docs, STATE, .github/workflows",
-      "status_he": "פעיל",
-      "readiness_percent": 65,
-      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
-      "language": "HTML",
-      "pushed_at": "2026-10-18T04:42:09Z",
-      "updated_at": "2026-10-18T04:42:12Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 2,
       "name": "summary7-public",
       "url": "https://github.com/yanivmizrachiy/summary7-public",
       "category_he": "חדש / לא מסווג",
@@ -36,8 +20,24 @@
       "readiness_percent": 10,
       "notes_he": "",
       "language": "HTML",
-      "pushed_at": "2026-10-16T14:25:36Z",
-      "updated_at": "2026-10-16T14:25:39Z",
+      "pushed_at": "2026-10-18T04:54:23Z",
+      "updated_at": "2026-10-18T04:54:27Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
+      "name": "repo",
+      "url": "https://github.com/yanivmizrachiy/repo",
+      "category_he": "אינדקס ריפואים",
+      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
+      "exists_he": "README.md, docs, STATE, .github/workflows",
+      "status_he": "פעיל",
+      "readiness_percent": 65,
+      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
+      "language": "HTML",
+      "pushed_at": "2026-10-18T04:51:15Z",
+      "updated_at": "2026-10-18T04:51:18Z",
       "default_branch": "main",
       "archived": false
     },
