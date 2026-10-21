@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T06:44:22.000Z",
+  "generated_at": "2026-10-21T07:05:29.373Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "pythagoras",
+      "url": "https://github.com/yanivmizrachiy/pythagoras",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "53-page Pythagoras workbook — single source of truth",
+      "exists_he": "README.md, .github/workflows, package.json",
+      "status_he": "חלקי",
+      "readiness_percent": 40,
+      "notes_he": "",
+      "language": "HTML",
+      "pushed_at": "2026-10-21T07:01:53Z",
+      "updated_at": "2026-10-20T11:16:41Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -20,13 +36,13 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-10-21T06:13:17Z",
-      "updated_at": "2026-10-21T06:13:20Z",
+      "pushed_at": "2026-10-21T06:44:22Z",
+      "updated_at": "2026-10-21T06:44:26Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "hishtalmut-215195",
       "url": "https://github.com/yanivmizrachiy/hishtalmut-215195",
       "category_he": "השתלמות 215195",
@@ -38,22 +54,6 @@
       "language": "HTML",
       "pushed_at": "2026-10-20T19:06:00Z",
       "updated_at": "2026-10-20T19:06:05Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 3,
-      "name": "pythagoras",
-      "url": "https://github.com/yanivmizrachiy/pythagoras",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "53-page Pythagoras workbook — single source of truth",
-      "exists_he": "README.md, .github/workflows, package.json",
-      "status_he": "חלקי",
-      "readiness_percent": 40,
-      "notes_he": "",
-      "language": "HTML",
-      "pushed_at": "2026-10-20T11:17:23Z",
-      "updated_at": "2026-10-20T11:16:41Z",
       "default_branch": "main",
       "archived": false
     },
@@ -127,7 +127,7 @@
       "url": "https://github.com/yanivmizrachiy/zaviyot-next-20260902-062445",
       "category_he": "חדש / לא מסווג",
       "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": "README.md, .github/workflows, package.json",
+      "exists_he": "README.md",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "",
