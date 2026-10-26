@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T07:07:02.223Z",
+  "generated_at": "2026-10-26T07:41:19.751Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "whatsapp-images",
+      "url": "https://github.com/yanivmizrachiy/whatsapp-images",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "Hebrew WhatsApp image creator powered by Google AI",
+      "exists_he": "README.md, .github/workflows, package.json",
+      "status_he": "כמעט ריק",
+      "readiness_percent": 10,
+      "notes_he": "",
+      "language": "JavaScript",
+      "pushed_at": "2026-10-26T07:41:07Z",
+      "updated_at": "2026-10-12T05:37:50Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "Slkum8",
       "url": "https://github.com/yanivmizrachiy/Slkum8",
       "category_he": "חדש / לא מסווג",
@@ -20,13 +36,13 @@
       "readiness_percent": 10,
       "notes_he": "",
       "language": "HTML",
-      "pushed_at": "2026-10-26T06:39:43Z",
+      "pushed_at": "2026-10-26T07:38:13Z",
       "updated_at": "2026-10-23T14:18:46Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -36,13 +52,13 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-10-26T06:17:37Z",
-      "updated_at": "2026-10-26T06:17:41Z",
+      "pushed_at": "2026-10-26T07:07:03Z",
+      "updated_at": "2026-10-26T07:07:07Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 3,
+      "number": 4,
       "name": "moodle-guide-presentation",
       "url": "https://github.com/yanivmizrachiy/moodle-guide-presentation",
       "category_he": "חדש / לא מסווג",
@@ -58,7 +74,7 @@
       "archived": false
     },
     {
-      "number": 4,
+      "number": 5,
       "name": "pythagoras",
       "url": "https://github.com/yanivmizrachiy/pythagoras",
       "category_he": "חדש / לא מסווג",
@@ -74,7 +90,7 @@
       "archived": false
     },
     {
-      "number": 5,
+      "number": 6,
       "name": "hishtalmut-215195",
       "url": "https://github.com/yanivmizrachiy/hishtalmut-215195",
       "category_he": "השתלמות 215195",
@@ -90,7 +106,7 @@
       "archived": false
     },
     {
-      "number": 6,
+      "number": 7,
       "name": "summary7-public",
       "url": "https://github.com/yanivmizrachiy/summary7-public",
       "category_he": "חדש / לא מסווג",
@@ -106,7 +122,7 @@
       "archived": false
     },
     {
-      "number": 7,
+      "number": 8,
       "name": "maagal",
       "url": "https://github.com/yanivmizrachiy/maagal",
       "category_he": "חדש / לא מסווג",
@@ -122,12 +138,12 @@
       "archived": false
     },
     {
-      "number": 8,
+      "number": 9,
       "name": "ratio-workbook",
       "url": "https://github.com/yanivmizrachiy/ratio-workbook",
       "category_he": "חדש / לא מסווג",
       "summary_he": "חוברת יחס ופרופורציה לכיתה ח׳ — עצמאית, נפרדת לחלוטין מפרויקטים אחרים",
-      "exists_he": "README.md, .github/workflows, package.json",
+      "exists_he": "README.md",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "",
@@ -138,12 +154,12 @@
       "archived": false
     },
     {
-      "number": 9,
+      "number": 10,
       "name": "smartschool-hebrew-voice-notes",
       "url": "https://github.com/yanivmizrachiy/smartschool-hebrew-voice-notes",
       "category_he": "בית ספר / קול",
       "summary_he": "פרויקט פתקים קוליים בעברית לבית ספר או Smartschool.",
-      "exists_he": "README.md",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
       "status_he": "חלקי",
       "readiness_percent": 45,
       "notes_he": "דורש אימות יכולות בפועל.",
@@ -154,7 +170,7 @@
       "archived": false
     },
     {
-      "number": 10,
+      "number": 11,
       "name": "zaviyot-next-20260902-062445",
       "url": "https://github.com/yanivmizrachiy/zaviyot-next-20260902-062445",
       "category_he": "חדש / לא מסווג",
@@ -170,7 +186,7 @@
       "archived": false
     },
     {
-      "number": 11,
+      "number": 12,
       "name": "galil",
       "url": "https://github.com/yanivmizrachiy/galil",
       "category_he": "חדש / לא מסווג",
@@ -186,7 +202,7 @@
       "archived": false
     },
     {
-      "number": 12,
+      "number": 13,
       "name": "harut",
       "url": "https://github.com/yanivmizrachiy/harut",
       "category_he": "חדש / לא מסווג",
@@ -202,7 +218,7 @@
       "archived": false
     },
     {
-      "number": 13,
+      "number": 14,
       "name": "www",
       "url": "https://github.com/yanivmizrachiy/www",
       "category_he": "Moodle / מוצר מורה",
@@ -214,22 +230,6 @@
       "language": "TypeScript",
       "pushed_at": "2026-10-12T12:01:43Z",
       "updated_at": "2026-10-12T11:53:34Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 14,
-      "name": "whatsapp-images",
-      "url": "https://github.com/yanivmizrachiy/whatsapp-images",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "Hebrew WhatsApp image creator powered by Google AI",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
-      "status_he": "כמעט ריק",
-      "readiness_percent": 10,
-      "notes_he": "",
-      "language": "JavaScript",
-      "pushed_at": "2026-10-12T05:37:47Z",
-      "updated_at": "2026-10-12T05:37:50Z",
       "default_branch": "main",
       "archived": false
     },
