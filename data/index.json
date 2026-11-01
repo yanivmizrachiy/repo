@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T09:17:33.826Z",
+  "generated_at": "2026-11-01T09:32:39.597Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "repo",
+      "url": "https://github.com/yanivmizrachiy/repo",
+      "category_he": "אינדקס ריפואים",
+      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
+      "exists_he": "README.md, docs, STATE, .github/workflows",
+      "status_he": "פעיל",
+      "readiness_percent": 65,
+      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
+      "language": "HTML",
+      "pushed_at": "2026-11-01T09:17:34Z",
+      "updated_at": "2026-11-01T09:17:38Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "Trans",
       "url": "https://github.com/yanivmizrachiy/Trans",
       "category_he": "חדש / לא מסווג",
@@ -22,22 +38,6 @@
       "language": "HTML",
       "pushed_at": "2026-11-01T09:12:23Z",
       "updated_at": "2026-11-01T09:49:59Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 2,
-      "name": "repo",
-      "url": "https://github.com/yanivmizrachiy/repo",
-      "category_he": "אינדקס ריפואים",
-      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
-      "exists_he": "README.md, docs, STATE, .github/workflows",
-      "status_he": "פעיל",
-      "readiness_percent": 65,
-      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
-      "language": "HTML",
-      "pushed_at": "2026-11-01T09:06:04Z",
-      "updated_at": "2026-11-01T09:05:29Z",
       "default_branch": "main",
       "archived": false
     },
@@ -111,7 +111,7 @@
       "url": "https://github.com/yanivmizrachiy/pythagoras",
       "category_he": "חדש / לא מסווג",
       "summary_he": "53-page Pythagoras workbook — single source of truth",
-      "exists_he": "README.md, .github/workflows, package.json",
+      "exists_he": "README.md",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "",
