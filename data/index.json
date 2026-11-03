@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T21:04:44.566Z",
+  "generated_at": "2026-11-03T21:17:24.497Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,22 +11,6 @@
   "repositories": [
     {
       "number": 1,
-      "name": "moodle-guide-presentation",
-      "url": "https://github.com/yanivmizrachiy/moodle-guide-presentation",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "מצגת ומדריך Moodle עצמאיים",
-      "exists_he": "README.md, docs, .github/workflows, package.json",
-      "status_he": "כמעט ריק",
-      "readiness_percent": 10,
-      "notes_he": "",
-      "language": "TypeScript",
-      "pushed_at": "2026-11-03T21:00:29Z",
-      "updated_at": "2026-10-07T14:58:12Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 2,
       "name": "Tnufa",
       "url": "https://github.com/yanivmizrachiy/Tnufa",
       "category_he": "חדש / לא מסווג",
@@ -36,8 +20,24 @@
       "readiness_percent": 40,
       "notes_he": "",
       "language": "HTML",
-      "pushed_at": "2026-11-03T20:50:09Z",
-      "updated_at": "2026-11-03T20:50:11Z",
+      "pushed_at": "2026-11-03T21:16:38Z",
+      "updated_at": "2026-11-03T21:16:39Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
+      "name": "moodle-guide-presentation",
+      "url": "https://github.com/yanivmizrachiy/moodle-guide-presentation",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "מצגת ומדריך Moodle עצמאיים",
+      "exists_he": "README.md, docs, .github/workflows, package.json",
+      "status_he": "כמעט ריק",
+      "readiness_percent": 10,
+      "notes_he": "",
+      "language": "TypeScript",
+      "pushed_at": "2026-11-03T21:15:30Z",
+      "updated_at": "2026-10-07T14:58:12Z",
       "default_branch": "main",
       "archived": false
     },
@@ -52,8 +52,8 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-11-03T20:47:57Z",
-      "updated_at": "2026-11-03T20:48:01Z",
+      "pushed_at": "2026-11-03T21:04:45Z",
+      "updated_at": "2026-11-03T21:04:49Z",
       "default_branch": "main",
       "archived": false
     },
