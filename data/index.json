@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T09:33:04.260Z",
+  "generated_at": "2026-11-04T10:33:27.821Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,22 +11,6 @@
   "repositories": [
     {
       "number": 1,
-      "name": "repo",
-      "url": "https://github.com/yanivmizrachiy/repo",
-      "category_he": "אינדקס ריפואים",
-      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
-      "exists_he": "README.md, docs, STATE, .github/workflows",
-      "status_he": "פעיל",
-      "readiness_percent": 65,
-      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
-      "language": "HTML",
-      "pushed_at": "2026-11-04T09:18:29Z",
-      "updated_at": "2026-11-04T09:18:33Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 2,
       "name": "Tnufa",
       "url": "https://github.com/yanivmizrachiy/Tnufa",
       "category_he": "חדש / לא מסווג",
@@ -36,8 +20,24 @@
       "readiness_percent": 40,
       "notes_he": "",
       "language": "Python",
-      "pushed_at": "2026-11-04T07:15:06Z",
-      "updated_at": "2026-11-04T06:01:54Z",
+      "pushed_at": "2026-11-04T10:32:59Z",
+      "updated_at": "2026-11-04T10:14:52Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
+      "name": "repo",
+      "url": "https://github.com/yanivmizrachiy/repo",
+      "category_he": "אינדקס ריפואים",
+      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
+      "exists_he": "README.md, docs, STATE, .github/workflows",
+      "status_he": "פעיל",
+      "readiness_percent": 65,
+      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
+      "language": "HTML",
+      "pushed_at": "2026-11-04T09:33:05Z",
+      "updated_at": "2026-11-04T09:33:08Z",
       "default_branch": "main",
       "archived": false
     },
