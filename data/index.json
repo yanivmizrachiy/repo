@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T08:06:07.405Z",
+  "generated_at": "2026-11-08T08:19:17.413Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,22 +11,6 @@
   "repositories": [
     {
       "number": 1,
-      "name": "repo",
-      "url": "https://github.com/yanivmizrachiy/repo",
-      "category_he": "אינדקס ריפואים",
-      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
-      "exists_he": "README.md, docs, STATE, .github/workflows",
-      "status_he": "פעיל",
-      "readiness_percent": 65,
-      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
-      "language": "HTML",
-      "pushed_at": "2026-11-08T07:47:36Z",
-      "updated_at": "2026-11-08T07:47:39Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 2,
       "name": "sikum10",
       "url": "https://github.com/yanivmizrachiy/sikum10",
       "category_he": "חדש / לא מסווג",
@@ -36,8 +20,24 @@
       "readiness_percent": 10,
       "notes_he": "",
       "language": "JavaScript",
-      "pushed_at": "2026-11-08T07:09:44Z",
-      "updated_at": "2026-11-08T08:04:51Z",
+      "pushed_at": "2026-11-08T08:18:43Z",
+      "updated_at": "2026-11-08T08:18:47Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
+      "name": "repo",
+      "url": "https://github.com/yanivmizrachiy/repo",
+      "category_he": "אינדקס ריפואים",
+      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
+      "exists_he": "README.md, docs, STATE, .github/workflows",
+      "status_he": "פעיל",
+      "readiness_percent": 65,
+      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
+      "language": "HTML",
+      "pushed_at": "2026-11-08T08:06:08Z",
+      "updated_at": "2026-11-08T08:06:11Z",
       "default_branch": "main",
       "archived": false
     },
