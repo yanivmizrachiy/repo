@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T13:04:13.546Z",
+  "generated_at": "2026-11-08T13:17:05.696Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "Tnufa",
+      "url": "https://github.com/yanivmizrachiy/Tnufa",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "אין עדיין תיאור עברי מאומת.",
+      "exists_he": "README.md",
+      "status_he": "חלקי",
+      "readiness_percent": 40,
+      "notes_he": "",
+      "language": "Python",
+      "pushed_at": "2026-11-08T13:13:24Z",
+      "updated_at": "2026-11-08T13:13:28Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -20,13 +36,13 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-11-08T12:47:23Z",
-      "updated_at": "2026-11-08T12:47:26Z",
+      "pushed_at": "2026-11-08T13:04:14Z",
+      "updated_at": "2026-11-08T13:04:18Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "sikum10",
       "url": "https://github.com/yanivmizrachiy/sikum10",
       "category_he": "חדש / לא מסווג",
@@ -42,7 +58,7 @@
       "archived": false
     },
     {
-      "number": 3,
+      "number": 4,
       "name": "Trans",
       "url": "https://github.com/yanivmizrachiy/Trans",
       "category_he": "חדש / לא מסווג",
@@ -54,22 +70,6 @@
       "language": "HTML",
       "pushed_at": "2026-11-05T18:33:12Z",
       "updated_at": "2026-11-05T18:33:16Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 4,
-      "name": "Tnufa",
-      "url": "https://github.com/yanivmizrachiy/Tnufa",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": "README.md",
-      "status_he": "חלקי",
-      "readiness_percent": 40,
-      "notes_he": "",
-      "language": "Python",
-      "pushed_at": "2026-11-04T11:26:55Z",
-      "updated_at": "2026-11-04T11:27:01Z",
       "default_branch": "main",
       "archived": false
     },
