@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T17:17:13.110Z",
+  "generated_at": "2026-11-10T17:33:05.200Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -20,7 +20,7 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-11-10T17:04:27Z",
+      "pushed_at": "2026-11-10T17:17:14Z",
       "updated_at": "2026-11-10T17:05:00Z",
       "default_branch": "main",
       "archived": false
@@ -111,7 +111,7 @@
       "url": "https://github.com/yanivmizrachiy/moodle-guide-presentation",
       "category_he": "חדש / לא מסווג",
       "summary_he": "מצגת ומדריך Moodle עצמאיים",
-      "exists_he": "README.md, docs",
+      "exists_he": "README.md",
       "status_he": "כמעט ריק",
       "readiness_percent": 10,
       "notes_he": "",
@@ -463,7 +463,7 @@
       "url": "https://github.com/yanivmizrachiy/graph-reading-preview",
       "category_he": "חדש / לא מסווג",
       "summary_he": "תצוגה חיצונית של דפי העבודה — קריאת גרפים",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
+      "exists_he": "README.md",
       "status_he": "חלקי",
       "readiness_percent": 40,
       "notes_he": "",
