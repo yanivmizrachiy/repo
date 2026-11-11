@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T20:17:23.968Z",
+  "generated_at": "2026-11-11T21:02:42.650Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "model-supervisors-a4",
+      "url": "https://github.com/yanivmizrachiy/model-supervisors-a4",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "Static build of the Jerusalem Moodle A4 reports (source repo is private)",
+      "exists_he": "לא זוהו רכיבים מרכזיים.",
+      "status_he": "כמעט ריק",
+      "readiness_percent": 10,
+      "notes_he": "",
+      "language": "HTML",
+      "pushed_at": "2026-11-11T20:54:49Z",
+      "updated_at": "2026-11-11T20:34:52Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -20,13 +36,13 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-11-11T20:05:27Z",
-      "updated_at": "2026-11-11T19:05:50Z",
+      "pushed_at": "2026-11-11T20:17:24Z",
+      "updated_at": "2026-11-11T20:17:38Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "tnufa-exam-2",
       "url": "https://github.com/yanivmizrachiy/tnufa-exam-2",
       "category_he": "חדש / לא מסווג",
@@ -37,12 +53,12 @@
       "notes_he": "",
       "language": "HTML",
       "pushed_at": "2026-11-11T20:00:51Z",
-      "updated_at": "2026-11-11T18:41:07Z",
+      "updated_at": "2026-11-11T21:00:54Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 3,
+      "number": 4,
       "name": "Tnufa",
       "url": "https://github.com/yanivmizrachiy/Tnufa",
       "category_he": "חדש / לא מסווג",
@@ -54,22 +70,6 @@
       "language": "HTML",
       "pushed_at": "2026-11-11T20:00:25Z",
       "updated_at": "2026-11-09T11:08:55Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 4,
-      "name": "model-supervisors-a4",
-      "url": "https://github.com/yanivmizrachiy/model-supervisors-a4",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "Static build of the Jerusalem Moodle A4 reports (source repo is private)",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
-      "status_he": "כמעט ריק",
-      "readiness_percent": 10,
-      "notes_he": "",
-      "language": "HTML",
-      "pushed_at": "2026-11-11T19:34:49Z",
-      "updated_at": "2026-11-11T17:18:31Z",
       "default_branch": "main",
       "archived": false
     },
