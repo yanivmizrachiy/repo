@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T15:18:16.077Z",
+  "generated_at": "2026-11-12T15:33:14.529Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "repo",
+      "url": "https://github.com/yanivmizrachiy/repo",
+      "category_he": "אינדקס ריפואים",
+      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
+      "exists_he": "README.md, docs, STATE, .github/workflows",
+      "status_he": "פעיל",
+      "readiness_percent": 65,
+      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
+      "language": "HTML",
+      "pushed_at": "2026-11-12T15:18:16Z",
+      "updated_at": "2026-11-12T15:18:48Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "model-supervisors-a4",
       "url": "https://github.com/yanivmizrachiy/model-supervisors-a4",
       "category_he": "חדש / לא מסווג",
@@ -22,22 +38,6 @@
       "language": "HTML",
       "pushed_at": "2026-11-12T15:14:06Z",
       "updated_at": "2026-11-12T14:43:35Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 2,
-      "name": "repo",
-      "url": "https://github.com/yanivmizrachiy/repo",
-      "category_he": "אינדקס ריפואים",
-      "summary_he": "מרכז הריפואים של יניב: אתר עברי שמציג את כל הריפואים, הסבר קצר, סטטוס וקישורים.",
-      "exists_he": "README.md, docs, STATE, .github/workflows",
-      "status_he": "פעיל",
-      "readiness_percent": 65,
-      "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
-      "language": "HTML",
-      "pushed_at": "2026-11-12T15:05:20Z",
-      "updated_at": "2026-11-12T14:17:38Z",
       "default_branch": "main",
       "archived": false
     },
@@ -85,7 +85,7 @@
       "notes_he": "",
       "language": "HTML",
       "pushed_at": "2026-11-12T14:27:08Z",
-      "updated_at": "2026-11-12T14:02:45Z",
+      "updated_at": "2026-11-12T15:27:12Z",
       "default_branch": "main",
       "archived": false
     },
