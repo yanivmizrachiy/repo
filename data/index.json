@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T20:47:06.690Z",
+  "generated_at": "2026-11-14T21:04:14.059Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "pythagoras",
+      "url": "https://github.com/yanivmizrachiy/pythagoras",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "53-page Pythagoras workbook — single source of truth",
+      "exists_he": "README.md, .github/workflows, package.json",
+      "status_he": "חלקי",
+      "readiness_percent": 40,
+      "notes_he": "",
+      "language": "HTML",
+      "pushed_at": "2026-11-14T20:56:59Z",
+      "updated_at": "2026-10-22T04:59:00Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -20,13 +36,13 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-11-14T20:32:51Z",
+      "pushed_at": "2026-11-14T20:47:10Z",
       "updated_at": "2026-11-12T16:33:18Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "tnufa-exam-2",
       "url": "https://github.com/yanivmizrachiy/tnufa-exam-2",
       "category_he": "חדש / לא מסווג",
@@ -42,7 +58,7 @@
       "archived": false
     },
     {
-      "number": 3,
+      "number": 4,
       "name": "Tnufa",
       "url": "https://github.com/yanivmizrachiy/Tnufa",
       "category_he": "חדש / לא מסווג",
@@ -58,7 +74,7 @@
       "archived": false
     },
     {
-      "number": 4,
+      "number": 5,
       "name": "Trans",
       "url": "https://github.com/yanivmizrachiy/Trans",
       "category_he": "חדש / לא מסווג",
@@ -74,7 +90,7 @@
       "archived": false
     },
     {
-      "number": 5,
+      "number": 6,
       "name": "coordinate-first-quadrant",
       "url": "https://github.com/yanivmizrachiy/coordinate-first-quadrant",
       "category_he": "חדש / לא מסווג",
@@ -90,7 +106,7 @@
       "archived": false
     },
     {
-      "number": 6,
+      "number": 7,
       "name": "targilim",
       "url": "https://github.com/yanivmizrachiy/targilim",
       "category_he": "חדש / לא מסווג",
@@ -106,7 +122,7 @@
       "archived": false
     },
     {
-      "number": 7,
+      "number": 8,
       "name": "model-supervisors-a4",
       "url": "https://github.com/yanivmizrachiy/model-supervisors-a4",
       "category_he": "חדש / לא מסווג",
@@ -122,7 +138,7 @@
       "archived": false
     },
     {
-      "number": 8,
+      "number": 9,
       "name": "summary7-public",
       "url": "https://github.com/yanivmizrachiy/summary7-public",
       "category_he": "חדש / לא מסווג",
@@ -138,7 +154,7 @@
       "archived": false
     },
     {
-      "number": 9,
+      "number": 10,
       "name": "harut",
       "url": "https://github.com/yanivmizrachiy/harut",
       "category_he": "חדש / לא מסווג",
@@ -154,7 +170,7 @@
       "archived": false
     },
     {
-      "number": 10,
+      "number": 11,
       "name": "galil",
       "url": "https://github.com/yanivmizrachiy/galil",
       "category_he": "חדש / לא מסווג",
@@ -170,7 +186,7 @@
       "archived": false
     },
     {
-      "number": 11,
+      "number": 12,
       "name": "sikum10",
       "url": "https://github.com/yanivmizrachiy/sikum10",
       "category_he": "חדש / לא מסווג",
@@ -186,7 +202,7 @@
       "archived": false
     },
     {
-      "number": 12,
+      "number": 13,
       "name": "moodle-guide-presentation",
       "url": "https://github.com/yanivmizrachiy/moodle-guide-presentation",
       "category_he": "חדש / לא מסווג",
@@ -202,7 +218,7 @@
       "archived": false
     },
     {
-      "number": 13,
+      "number": 14,
       "name": "Slkum8",
       "url": "https://github.com/yanivmizrachiy/Slkum8",
       "category_he": "חדש / לא מסווג",
@@ -218,7 +234,7 @@
       "archived": false
     },
     {
-      "number": 14,
+      "number": 15,
       "name": "hishtalmut-215195",
       "url": "https://github.com/yanivmizrachiy/hishtalmut-215195",
       "category_he": "השתלמות 215195",
@@ -234,7 +250,7 @@
       "archived": false
     },
     {
-      "number": 15,
+      "number": 16,
       "name": "whatsapp-images",
       "url": "https://github.com/yanivmizrachiy/whatsapp-images",
       "category_he": "חדש / לא מסווג",
@@ -246,22 +262,6 @@
       "language": "JavaScript",
       "pushed_at": "2026-10-26T07:44:29Z",
       "updated_at": "2026-10-12T05:37:50Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 16,
-      "name": "pythagoras",
-      "url": "https://github.com/yanivmizrachiy/pythagoras",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "53-page Pythagoras workbook — single source of truth",
-      "exists_he": "לא זוהו רכיבים מרכזיים.",
-      "status_he": "חלקי",
-      "readiness_percent": 40,
-      "notes_he": "",
-      "language": "HTML",
-      "pushed_at": "2026-10-22T04:59:43Z",
-      "updated_at": "2026-10-22T04:59:00Z",
       "default_branch": "main",
       "archived": false
     },
