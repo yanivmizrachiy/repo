@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T03:47:39.160Z",
+  "generated_at": "2026-11-16T04:07:06.525Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "Trans",
+      "url": "https://github.com/yanivmizrachiy/Trans",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "אין עדיין תיאור עברי מאומת.",
+      "exists_he": "README.md, docs, .github/workflows",
+      "status_he": "כמעט ריק",
+      "readiness_percent": 10,
+      "notes_he": "",
+      "language": "HTML",
+      "pushed_at": "2026-11-16T04:06:23Z",
+      "updated_at": "2026-11-05T18:33:16Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -20,13 +36,13 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-11-16T03:23:29Z",
+      "pushed_at": "2026-11-16T03:47:42Z",
       "updated_at": "2026-11-12T16:33:18Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "model-supervisors-a4",
       "url": "https://github.com/yanivmizrachiy/model-supervisors-a4",
       "category_he": "חדש / לא מסווג",
@@ -42,7 +58,7 @@
       "archived": false
     },
     {
-      "number": 3,
+      "number": 4,
       "name": "pythagoras",
       "url": "https://github.com/yanivmizrachiy/pythagoras",
       "category_he": "חדש / לא מסווג",
@@ -58,7 +74,7 @@
       "archived": false
     },
     {
-      "number": 4,
+      "number": 5,
       "name": "tnufa-exam-2",
       "url": "https://github.com/yanivmizrachiy/tnufa-exam-2",
       "category_he": "חדש / לא מסווג",
@@ -74,7 +90,7 @@
       "archived": false
     },
     {
-      "number": 5,
+      "number": 6,
       "name": "Tnufa",
       "url": "https://github.com/yanivmizrachiy/Tnufa",
       "category_he": "חדש / לא מסווג",
@@ -86,22 +102,6 @@
       "language": "HTML",
       "pushed_at": "2026-11-13T12:45:52Z",
       "updated_at": "2026-11-12T15:42:36Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 6,
-      "name": "Trans",
-      "url": "https://github.com/yanivmizrachiy/Trans",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": "README.md, docs, .github/workflows",
-      "status_he": "כמעט ריק",
-      "readiness_percent": 10,
-      "notes_he": "",
-      "language": "HTML",
-      "pushed_at": "2026-11-13T10:38:44Z",
-      "updated_at": "2026-11-05T18:33:16Z",
       "default_branch": "main",
       "archived": false
     },
