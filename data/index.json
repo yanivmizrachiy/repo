@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T18:20:19.635Z",
+  "generated_at": "2026-11-19T18:32:54.596Z",
   "generated_by": "github-actions-auto-public-repo-index-sync",
   "owner": "yanivmizrachiy",
   "site_url": "https://yanivmizrachiy.github.io/repo/",
@@ -11,6 +11,22 @@
   "repositories": [
     {
       "number": 1,
+      "name": "Trans",
+      "url": "https://github.com/yanivmizrachiy/Trans",
+      "category_he": "חדש / לא מסווג",
+      "summary_he": "אין עדיין תיאור עברי מאומת.",
+      "exists_he": "README.md, docs, .github/workflows",
+      "status_he": "כמעט ריק",
+      "readiness_percent": 10,
+      "notes_he": "",
+      "language": "HTML",
+      "pushed_at": "2026-11-19T18:24:00Z",
+      "updated_at": "2026-11-05T18:33:16Z",
+      "default_branch": "main",
+      "archived": false
+    },
+    {
+      "number": 2,
       "name": "repo",
       "url": "https://github.com/yanivmizrachiy/repo",
       "category_he": "אינדקס ריפואים",
@@ -20,13 +36,13 @@
       "readiness_percent": 65,
       "notes_he": "הריפו הנוכחי שמאורגן עכשיו.",
       "language": "HTML",
-      "pushed_at": "2026-11-19T18:06:34Z",
+      "pushed_at": "2026-11-19T18:20:21Z",
       "updated_at": "2026-11-12T16:33:18Z",
       "default_branch": "main",
       "archived": false
     },
     {
-      "number": 2,
+      "number": 3,
       "name": "pythagoras",
       "url": "https://github.com/yanivmizrachiy/pythagoras",
       "category_he": "חדש / לא מסווג",
@@ -42,7 +58,7 @@
       "archived": false
     },
     {
-      "number": 3,
+      "number": 4,
       "name": "model-supervisors-a4",
       "url": "https://github.com/yanivmizrachiy/model-supervisors-a4",
       "category_he": "חדש / לא מסווג",
@@ -54,22 +70,6 @@
       "language": "HTML",
       "pushed_at": "2026-11-19T16:38:34Z",
       "updated_at": "2026-11-12T16:14:09Z",
-      "default_branch": "main",
-      "archived": false
-    },
-    {
-      "number": 4,
-      "name": "Trans",
-      "url": "https://github.com/yanivmizrachiy/Trans",
-      "category_he": "חדש / לא מסווג",
-      "summary_he": "אין עדיין תיאור עברי מאומת.",
-      "exists_he": "README.md, docs, .github/workflows",
-      "status_he": "כמעט ריק",
-      "readiness_percent": 10,
-      "notes_he": "",
-      "language": "HTML",
-      "pushed_at": "2026-11-19T15:16:11Z",
-      "updated_at": "2026-11-05T18:33:16Z",
       "default_branch": "main",
       "archived": false
     },
